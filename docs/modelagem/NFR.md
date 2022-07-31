@@ -43,6 +43,8 @@
 
 </center>
 
+Dessa forma, a partir dos requisitos não-funcionais elicitados na fase de [Elicitação](https://requisitos-de-software.github.io/2022.1-Youtube/elicitacao/resultado/) e também aqueles encontrados durante a [Especificação Suplementar](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/espsup/) (técnica FURPS+), foram criados os diagramas para o NFR Framework.
+
 ## 3. NFR Framework
 
 ## 4. Referências
