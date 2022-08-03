@@ -48,69 +48,106 @@ Dessa forma, a partir dos requisitos não-funcionais elicitados na fase de [Elic
 ## 3. NFR Framework
 
 ### 3.1. [NFR01] NFR-Usabilidade
+#### 3.1.1. Gráfico NFR
 <center>
 
 <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/nfr/Usabilidade1.png"/>
 
-<figcaption>Figura 4: NFR para <a href="https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/espsup/">Usabilidade</a> do sistema.</figcaption>
+<figcaption>Figura 4: NFR para <a href="https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/espsup/" target="_blank">Usabilidade</a> do sistema.</figcaption>
 
 <figcaption>Autores: Paulo Henrique Almeida e Victor Leão</figcaption>
+
+<a href="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/nfr/Usabilidade1.png" target="_blank">Figura 4 extendida</a>
+
+</center>
+
+#### 3.1.2. Gráfico ANFR
+
+<center>
 
 <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/nfr/Usabilidade2.png"/>
 
-<figcaption>Figura 5: ANFR para <a href="https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/espsup/">Usabilidade</a> do sistema.</figcaption>
+<figcaption>Figura 5: ANFR para <a href="https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/espsup/" target="_blank">Usabilidade</a> do sistema.</figcaption>
 
 <figcaption>Autores: Paulo Henrique Almeida e Victor Leão</figcaption>
+
+<a href="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/nfr/Usabilidade2.png" target="_blank">Figura 5 extendida</a>
 </center>
 
 ### 3.2. [NFR02] NFR-Confiabilidade
+
+#### 3.2.1. Gráfico NFR
 <center>
 
 <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/nfr/Confiabilidade1.png"/>
 
-<figcaption>Figura 6: NFR para <a href="https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/espsup/">Confiabilidade</a> do sistema.</figcaption>
+<figcaption>Figura 6: NFR para <a href="https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/espsup/" target="_blank">Confiabilidade</a> do sistema.</figcaption>
 
 <figcaption>Autores: Paulo Henrique Almeida e Victor Leão</figcaption>
 
+<a href="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/nfr/Confiabilidade1.png" target="_blank">Figura 6 extendida</a>
+</center>
+
+#### 3.2.2. Gráfico ANFR
+
+<center>
 <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/nfr/Confiabilidade2.png"/>
 
-<figcaption>Figura 7: ANFR para <a href="https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/espsup/">Confiabilidade</a> do sistema.</figcaption>
+<figcaption>Figura 7: ANFR para <a href="https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/espsup/" target="_blank">Confiabilidade</a> do sistema.</figcaption>
 
 <figcaption>Autores: Paulo Henrique Almeida e Victor Leão</figcaption>
+
+<a href="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/nfr/Confiabilidade2.png" target="_blank">Figura 7 extendida</a>
 </center>
 
 ### 3.3. [NFR03] NFR-Performance
 
+#### 3.3.1. Gráfico NFR
 <center>
 
 <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/nfr/Performance1.png"/>
 
-<figcaption>Figura 8: NFR para <a href="https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/espsup/">Performance</a> do sistema.</figcaption>
+<figcaption>Figura 8: NFR para <a href="https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/espsup/" target="_blank">Performance</a> do sistema.</figcaption>
 
 <figcaption>Autores: Paulo Henrique Almeida e Victor Leão</figcaption>
 
+<a href="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/nfr/Performance1.png" target="_blank">Figura 8 extendida</a>
+</center>
+
+#### 3.3.2. Gráfico ANFR
+
+<center>
 <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/nfr/Performance2.png"/>
 
-<figcaption>Figura 9: ANFR para <a href="https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/espsup/">Performance</a> do sistema.</figcaption>
+<figcaption>Figura 9: ANFR para <a href="https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/espsup/" target="_blank">Performance</a> do sistema.</figcaption>
 
 <figcaption>Autores: Paulo Henrique Almeida e Victor Leão</figcaption>
+
+<a href="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/nfr/Performance2.png" target="_blank">Figura 9 extendida</a>
 </center>
 
 ### 3.4. [NFR03] NFR-Suportabilidade
 
+#### 3.4.1. Gráfico NFR
 <center>
 
 <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/nfr/Suportabilidade1.png"/>
 
-<figcaption>Figura 10: NFR para <a href="https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/espsup/">Suportabilidade</a> do sistema.</figcaption>
+<figcaption>Figura 10: NFR para <a href="https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/espsup/" target="_blank">Suportabilidade</a> do sistema.</figcaption>
 
 <figcaption>Autores: Paulo Henrique Almeida e Victor Leão</figcaption>
+<a href="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/nfr/Suportabilidade1.png" target="_blank">Figura 10 extendida</a>
+</center>
+
+#### 3.4.2. Gráfico ANFR
+<center>
 
 <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/nfr/Suportabilidade2.png"/>
 
-<figcaption>Figura 11: ANFR para <a href="https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/espsup/">Suportabilidade</a> do sistema.</figcaption>
+<figcaption>Figura 11: ANFR para <a href="https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/espsup/" target="_blank">Suportabilidade</a> do sistema.</figcaption>
 
 <figcaption>Autores: Paulo Henrique Almeida e Victor Leão</figcaption>
+<a href="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/nfr/Suportabilidade2.png" target="_blank">Figura 11 extendida</a>
 </center>
 
 ## 4. Referências
