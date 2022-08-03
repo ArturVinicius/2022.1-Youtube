@@ -231,9 +231,9 @@ Após a listagem dos léxicos do tipo objeto identificados pela equipe, eles for
 | Elemento | Descrição |
 | :------: | :-------- |
 | Nome     | Usuário |
-| Sinônimos| Cliente, Users |
+| Sinônimos| Cliente, Users, [Criador de conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#criador-conteudo) |
 | Impacto  | Um usuário pode [assistir](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#assistir) aos conteúdos, se inscrever nos canais e também pode criar um [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal) e [postar](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#postar) [vídeos](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) |
-| Noção    | Usuário é qualquer um que utiliza o aplicativo e pode ser um espectador ou criador de conteúdos |
+| Noção    | Usuário é qualquer um que utiliza o aplicativo e pode ser um espectador ou [criador de conteúdos](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#criador-conteudo) |
 
 <div id="velocidade"></div>
 
@@ -269,3 +269,4 @@ Após a listagem dos léxicos do tipo objeto identificados pela equipe, eles for
 | 1.4    | 24/07/2022 | Correção de erro em que estava léxicos de "verbo" | <a href="https://github.com/victorleaoo">@victorleaoo</a> | <a href="https://github.com/owhenrique">@owhenrique</a> |
 | 1.5    | 24/07/2022 | Adição de ID para cada um dos léxicos para que possam ser referenciados em outras páginas | <a href="https://github.com/victorleaoo">@victorleaoo</a> | <a href="https://github.com/owhenrique">@owhenrique</a> |
 | 1.6    | 24/07/2022 | Referência de links dos léxicos encontrados na página | <a href="https://github.com/victorleaoo">@victorleaoo</a> | <a href="https://github.com/owhenrique">@owhenrique</a> |
+| 1.7    | 03/08/2022 | Adição de criador de conteúdo como noção de usuário | <a href="https://github.com/victorleaoo">@victorleaoo</a> | <a href="https://github.com/owhenrique">@owhenrique</a> |

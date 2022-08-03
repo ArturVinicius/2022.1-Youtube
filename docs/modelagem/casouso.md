@@ -60,7 +60,7 @@ Relacionamentos include são aqueles que ocorrem sempre que o caso de uso base a
 
 <center>
 
-<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/casos-uso/include.png" width="256" height="256"/>
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/casos-uso/include.jfif" width="256" height="256"/>
 
 <figcaption>Figura 4: Representação de Relacionamento Include.</figcaption>
 
@@ -335,3 +335,4 @@ A figura 2 apresenta o diagrama de casos de uso para um [espectador](https://req
 | 1.3    | 24/07/2022 | Adição de links dos githubs no <a href="https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#historico" target="_blank">histórico</a> de versões | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> | <a href="https://github.com/owhenrique" target="_blank">@owhenrique</a> | 
 | 1.4    | 24/07/2022 | Referência de links dos léxicos encontrados na página | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> | <a href="https://github.com/owhenrique" target="_blank">@owhenrique</a> |
 | 1.5    | 25/07/2022 | Correção dos links dos githubs no <a href="https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#historico" target="_blank">histórico</a> de versões | <a href="https://github.com/owhenrique" target="_blank">@owhenrique</a> | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> | 
+| 1.6    | 08/03/2022 | Imagens das legendas em português | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> | <a href="https://github.com/owhenrique" target="_blank">@owhenrique</a> | 

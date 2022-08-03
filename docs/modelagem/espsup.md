@@ -17,10 +17,7 @@ Esse documento orienta-se pelo FURPS+.
 O FURPS+ é um modelo em que cada letra entende-se por uma categoria de requisitos.
 
 ### 2.1 F - Funcionality - Funcionalidade
-São requisitos relacionados à especificação das funcionalidades do sistema. Exemplos:
-
-- Especificações de Hardware necessárias para o funcionamento da aplicação.
-- Requisitos de Segurança do sistema.
+São requisitos relacionados à especificação das funcionalidades do sistema. Eles já foram [elicitados](https://requisitos-de-software.github.io/2022.1-Youtube/elicitacao/resultado/) e também podem ser encontrados como [casos de uso](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/casouso/) e [cenários](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/cenarios/).
 
 ### 2.2 U - Usability - Usabilidade
 São requisitos relacionados a interface com o [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario). Exemplos:
@@ -68,10 +65,6 @@ Após o entendimento do modelo FURPS+, a Especificação Suplementar do sistema 
 
 | Categoria           | Requisitos |
 | :-----------------: | :--------- |
-| **F**uncionalidade  | Conexão de Internet com 500Kbps ou mais: Requisitos do sistema - Ajuda do YouTube (google.com)</br> |
-| **F**uncionalidade  | 274,2 Mb de memória disponível no celular.</br> |
-| **F**uncionalidade  | Caso o acesso seja feito fora do App, é necessário utilizar algum navegador como Google Chrome, Firefox, MS Edge, Safari ou Opera </br> |
-| **F**uncionalidade  | O sistema deve ter um site para explicar suas Políticas e Segurança: Política, segurança e direitos autorais - Ajuda do YouTube (google.com).</br> |
 | **U**sabilidade     | Idade mínima de 13 anos para usar o aplicativo.</br> |
 | **U**sabilidade     | Operar segundo as leis de Delaware, onde se encontra a sede da empresa. </br> |
 | **U**sabilidade     | O sistema deve ter um site direcionado para ajudas, em que diversas possíveis falhas e suas resoluções são explicadas. </br>|
@@ -87,6 +80,10 @@ Após o entendimento do modelo FURPS+, a Especificação Suplementar do sistema 
 | **P**erformance     | O aplicativo deve funcionar durante 168h semanais, sem a expectativa de instabilidade. </br>|
 | **S**uportabilidade | O aplicativo deve ser disponível para os principais sistemas operacionais de dispositivos Mobile, como iOS e Android </br>| 
 | **S**uportabilidade | Quando um teste ou manutenção for ocorrer no aplicativo, o [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve ser previamente avisado.</br>| 
+| **S**uportabilidade  | Conexão de Internet com 500Kbps ou mais: Requisitos do sistema - Ajuda do YouTube (google.com)</br> |
+| **S**uportabilidade  | 274,2 Mb de memória disponível no celular.</br> |
+| **S**uportabilidade  | Caso o acesso seja feito fora do App, é necessário utilizar algum navegador como Google Chrome, Firefox, MS Edge, Safari ou Opera </br> |
+| **S**uportabilidade  | O sistema deve ter um site para explicar suas Políticas e Segurança: Política, segurança e direitos autorais - Ajuda do YouTube (google.com).</br> |
 | **+**               | O sistema deve disponibilizar a opção de alterar o idioma das [notificações](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#notificacao) e o do sistema </br>|
 
 ## 4. Contato com o YouTube
@@ -98,10 +95,9 @@ O grupo enviou uma mensagem para a comunidade do YouTube a fim de buscar por inf
 
 <figcaption>Figura 1: Mensagem de Contato com o YouTube.</figcaption>
 
-Até o dia 18/07/2022 às 15:22, horário de Brasília, ainda não foram obtidas respostas relevantes para o projeto.
+Até o dia 03/08/2022 às 18:03, horário de Brasília, recebemos uma recomendação para postarmos a mensagem no StackOverflow, onde desenvolvedores poderiam ajudar com melhor eficácia.
 
 <a href='https://support.google.com/youtube/thread/171629913?hl=pt-BR' target="_blank"><button style="border-radius: 8px;font-size: 18px;background-color: #f44336;">Thread da Mensagem</button></a>
-
 
 </center>
 
@@ -114,7 +110,7 @@ O grupo fez uma pergunta na plataforma Stack Overflow a fim de intensificar a bu
 
 <figcaption>Figura 2: Pergunta enviada ao Stack Overflow.</figcaption>
 
-Até o dia 21/07/2022 às 18:00, horário de Brasília, ainda não foram obtidas respostas.
+Até o dia 03/08/2022 às 18:03, horário de Brasília, ainda não foram obtidas respostas.
 
 <a href='https://stackoverflow.com/questions/73072401/youtube-non-funcional-requirements' target="_blank"><button style="border-radius: 8px;font-size: 18px;background-color: #f44336;">Link da pergunta</button></a>
 
@@ -138,3 +134,4 @@ Até o dia 21/07/2022 às 18:00, horário de Brasília, ainda não foram obtidas
 | 1.5    | 24/07/2022 | Melhorias de links dos githubs no <a href="https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#historico" target="_blank">histórico</a> de versões | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> | <a href="https://github.com/owhenrique" target="_blank">@owhenrique</a> |
 | 1.6    | 24/07/2022 | Referência de links dos léxicos encontrados na página | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> | <a href="https://github.com/owhenrique" target="_blank">@owhenrique</a> |
 | 1.7    | 25/07/2022 | Correção dos links dos githubs no <a href="https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#historico" target="_blank">histórico</a> de versões | <a href="https://github.com/owhenrique" target="_blank">@owhenrique</a> | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> | 
+| 1.8    | 03/08/2022 | Correção dos requisitos de Funcionalidade e atualização das mensagens no youtube e stackoverflow | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> | <a href="https://github.com/owhenrique" target="_blank">@owhenrique</a> |
