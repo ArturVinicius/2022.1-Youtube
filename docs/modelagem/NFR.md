@@ -47,6 +47,72 @@ Dessa forma, a partir dos requisitos não-funcionais elicitados na fase de [Elic
 
 ## 3. NFR Framework
 
+### 3.1. [NFR01] NFR-Usabilidade
+<center>
+
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/nfr/Usabilidade1.png"/>
+
+<figcaption>Figura 4: NFR para <a href="https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/espsup/">Usabilidade</a> do sistema.</figcaption>
+
+<figcaption>Autores: Paulo Henrique Almeida e Victor Leão</figcaption>
+
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/nfr/Usabilidade2.png"/>
+
+<figcaption>Figura 5: ANFR para <a href="https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/espsup/">Usabilidade</a> do sistema.</figcaption>
+
+<figcaption>Autores: Paulo Henrique Almeida e Victor Leão</figcaption>
+</center>
+
+### 3.2. [NFR02] NFR-Confiabilidade
+<center>
+
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/nfr/Confiabilidade1.png"/>
+
+<figcaption>Figura 6: NFR para <a href="https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/espsup/">Confiabilidade</a> do sistema.</figcaption>
+
+<figcaption>Autores: Paulo Henrique Almeida e Victor Leão</figcaption>
+
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/nfr/Confiabilidade2.png"/>
+
+<figcaption>Figura 7: ANFR para <a href="https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/espsup/">Confiabilidade</a> do sistema.</figcaption>
+
+<figcaption>Autores: Paulo Henrique Almeida e Victor Leão</figcaption>
+</center>
+
+### 3.3. [NFR03] NFR-Performance
+
+<center>
+
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/nfr/Performance1.png"/>
+
+<figcaption>Figura 8: NFR para <a href="https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/espsup/">Performance</a> do sistema.</figcaption>
+
+<figcaption>Autores: Paulo Henrique Almeida e Victor Leão</figcaption>
+
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/nfr/Performance2.png"/>
+
+<figcaption>Figura 9: ANFR para <a href="https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/espsup/">Performance</a> do sistema.</figcaption>
+
+<figcaption>Autores: Paulo Henrique Almeida e Victor Leão</figcaption>
+</center>
+
+### 3.4. [NFR03] NFR-Suportabilidade
+
+<center>
+
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/nfr/Suportabilidade1.png"/>
+
+<figcaption>Figura 10: NFR para <a href="https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/espsup/">Suportabilidade</a> do sistema.</figcaption>
+
+<figcaption>Autores: Paulo Henrique Almeida e Victor Leão</figcaption>
+
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/nfr/Suportabilidade2.png"/>
+
+<figcaption>Figura 11: ANFR para <a href="https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/espsup/">Suportabilidade</a> do sistema.</figcaption>
+
+<figcaption>Autores: Paulo Henrique Almeida e Victor Leão</figcaption>
+</center>
+
 ## 4. Referências
 > - CHUNG, Lawrence; NIXON, Brian. Nixon, YU, Eric; MYLOPOULOS, John. "Non-Functional Requirements in Software Engineering". Springer US, 2000.
 > - SILVA, Reinaldo Antônio da. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019.
@@ -56,3 +122,4 @@ Dessa forma, a partir dos requisitos não-funcionais elicitados na fase de [Elic
 | ------ | ---- | --------- | --------- | ----------- |
 | 1.0    | 28/07/2022 | Criação da primeira versão do documento com a introdução e referências | <a href="https://github.com/owhenrique" target="_blank">@owhenrique</a> | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> |
 | 1.1    | 28/07/2022 | Adição da metodologia a ser utilizada no NFR Framework do projeto | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> | <a href="https://github.com/owhenrique" target="_blank">@owhenrique</a> |
+| 1.2    | 03/08/2022 | Adição dos gráficos NFR E ANFR do projeto | <a href="https://github.com/owhenrique" target="_blank">@owhenrique</a> | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> |
