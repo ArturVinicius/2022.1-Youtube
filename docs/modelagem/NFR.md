@@ -57,7 +57,7 @@ Dessa forma, a partir dos requisitos não-funcionais elicitados na fase de [Elic
 
 <figcaption>Autores: Paulo Henrique Almeida e Victor Leão</figcaption>
 
-<a href="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/nfr/Usabilidade1.png" target="_blank">Figura 4 extendida</a>
+<a href="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/nfr/Usabilidade1.png" target="_blank">Figura 4 ampliada</a>
 
 </center>
 
@@ -71,7 +71,7 @@ Dessa forma, a partir dos requisitos não-funcionais elicitados na fase de [Elic
 
 <figcaption>Autores: Paulo Henrique Almeida e Victor Leão</figcaption>
 
-<a href="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/nfr/Usabilidade2.png" target="_blank">Figura 5 extendida</a>
+<a href="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/nfr/Usabilidade2.png" target="_blank">Figura 5 ampliada</a>
 </center>
 
 ### 3.2. [NFR02] NFR-Confiabilidade
@@ -85,7 +85,7 @@ Dessa forma, a partir dos requisitos não-funcionais elicitados na fase de [Elic
 
 <figcaption>Autores: Paulo Henrique Almeida e Victor Leão</figcaption>
 
-<a href="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/nfr/Confiabilidade1.png" target="_blank">Figura 6 extendida</a>
+<a href="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/nfr/Confiabilidade1.png" target="_blank">Figura 6 ampliada</a>
 </center>
 
 #### 3.2.2. Gráfico ANFR
@@ -97,7 +97,7 @@ Dessa forma, a partir dos requisitos não-funcionais elicitados na fase de [Elic
 
 <figcaption>Autores: Paulo Henrique Almeida e Victor Leão</figcaption>
 
-<a href="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/nfr/Confiabilidade2.png" target="_blank">Figura 7 extendida</a>
+<a href="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/nfr/Confiabilidade2.png" target="_blank">Figura 7 ampliada</a>
 </center>
 
 ### 3.3. [NFR03] NFR-Performance
@@ -111,7 +111,7 @@ Dessa forma, a partir dos requisitos não-funcionais elicitados na fase de [Elic
 
 <figcaption>Autores: Paulo Henrique Almeida e Victor Leão</figcaption>
 
-<a href="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/nfr/Performance1.png" target="_blank">Figura 8 extendida</a>
+<a href="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/nfr/Performance1.png" target="_blank">Figura 8 ampliada</a>
 </center>
 
 #### 3.3.2. Gráfico ANFR
@@ -123,7 +123,7 @@ Dessa forma, a partir dos requisitos não-funcionais elicitados na fase de [Elic
 
 <figcaption>Autores: Paulo Henrique Almeida e Victor Leão</figcaption>
 
-<a href="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/nfr/Performance2.png" target="_blank">Figura 9 extendida</a>
+<a href="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/nfr/Performance2.png" target="_blank">Figura 9 ampliada</a>
 </center>
 
 ### 3.4. [NFR03] NFR-Suportabilidade
@@ -136,7 +136,7 @@ Dessa forma, a partir dos requisitos não-funcionais elicitados na fase de [Elic
 <figcaption>Figura 10: NFR para <a href="https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/espsup/" target="_blank">Suportabilidade</a> do sistema.</figcaption>
 
 <figcaption>Autores: Paulo Henrique Almeida e Victor Leão</figcaption>
-<a href="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/nfr/Suportabilidade1.png" target="_blank">Figura 10 extendida</a>
+<a href="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/nfr/Suportabilidade1.png" target="_blank">Figura 10 ampliada</a>
 </center>
 
 #### 3.4.2. Gráfico ANFR
@@ -147,7 +147,7 @@ Dessa forma, a partir dos requisitos não-funcionais elicitados na fase de [Elic
 <figcaption>Figura 11: ANFR para <a href="https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/espsup/" target="_blank">Suportabilidade</a> do sistema.</figcaption>
 
 <figcaption>Autores: Paulo Henrique Almeida e Victor Leão</figcaption>
-<a href="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/nfr/Suportabilidade2.png" target="_blank">Figura 11 extendida</a>
+<a href="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/nfr/Suportabilidade2.png" target="_blank">Figura 11 ampliada</a>
 </center>
 
 ## 4. Referências
@@ -160,3 +160,4 @@ Dessa forma, a partir dos requisitos não-funcionais elicitados na fase de [Elic
 | 1.0    | 28/07/2022 | Criação da primeira versão do documento com a introdução e referências | <a href="https://github.com/owhenrique" target="_blank">@owhenrique</a> | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> |
 | 1.1    | 28/07/2022 | Adição da metodologia a ser utilizada no NFR Framework do projeto | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> | <a href="https://github.com/owhenrique" target="_blank">@owhenrique</a> |
 | 1.2    | 03/08/2022 | Adição dos gráficos NFR E ANFR do projeto | <a href="https://github.com/owhenrique" target="_blank">@owhenrique</a> | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> |
+| 1.3    | 03/08/2022 | Adição de links e títulos dos gráficos | <a href="https://github.com/owhenrique" target="_blank">@owhenrique</a> | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> |
