@@ -14,14 +14,14 @@
 
 ## 2. Metodologia
 
-### 2.1 Especificação do Product Backlog
+### 2.1. Especificação do Product Backlog
 <p align="justify">&emsp;&emsp; Para o desenvolvimento do Product Backlog do projeto, a equipe utilizou de uma técnica de especificação dividida em 3 níveis de granularidade:</p>
 
 - **Épico**: nível superior composto por features que possuem um objetivo específico, mas comum.
 - **Features**: podem ser entendidas como as funcionalidades em si do Software, mas de forma geral, sem muito detalhamento.
 - **Histórias de Usuário**: é o nível em que o detalhamento do item em si acontece.
 
-### 2.2 Histórias de Usuário
+### 2.2. Histórias de Usuário
 <p align="justify">&emsp;&emsp; As histórias de usuário podem ser usadas para expressar uma funcionalidade/requisito de um Software na visão e perspectiva de um cliente que realmente usará a aplicação. Sendo assim, é possível entender quais são as expectativas e necessidades daqueles que serão os verdadeiros utilizadores do sistema.</p>
 
 <p align="justify">&emsp;&emsp; É essencial que todas as histórias de usuário possuam critérios de aceitação relacionadas a si, para que seja possível o levantamento da qualidade e do que seria uma história completa e bem-sucedida.</p>
@@ -29,9 +29,9 @@
 ### 2.3 Estrutura do Product Backlog com Histórias de Usuário
 <p align="justify">&emsp;&emsp; Com o entedimento da especificação do Product Backlog e das Histórias de Usuário, a equipe montou o Product Backlog do aplicativo YouTube, seguindo o seguinte formato:</p>
 
-#### Nome Épico
+#### [EPCXX] Nome Épico
 
-##### Nome Feature
+##### [FTRXX] Nome Feature
 
 <p align="justify">&emsp;&emsp; Lista de Histórias de Usuário ligadas a essa Feature e, consequentemente, Épico.</p>
 
@@ -43,16 +43,16 @@
 
 ## 3. Product Backlog
 
-### Épico - Conta
+### 3.1. [EPC01] Épico - Conta
 
-#### Feature - Gerenciamento de conta
+#### 3.1.1. [FTR01] Feature - Gerenciamento de conta
 
 | ID   | Eu, como     | Desejo         | Para que eu possa | Critérios de Aceitação        | Prioridade       |
 | :--: | :----------- | :------------- | :---------------- | :---------------------------- | :--------------: |
 | US01 | Usuário   | Adicionar uma conta | ter uma (ou mais) conta cadastrada para realizar login | - O usuário deve adicionar sua conta Google no aplicativo<br/>- O usuário deve ser redirecionado para uma página de cadastro/conta do google | Alta |
 | US02 | Usuário   | Remover uma conta | sair da minha conta adicionada no app | - Ter a opção de remover conta do dispositivo<br/>- O sistema deve pedir uma confirmação que a ação de logout realmente será executada | Alta |
 
-#### Feature - Plataforma e Interface
+#### 3.1.2. [FTR02] Feature - Plataforma e Interface
 
 | ID   | Eu, como     | Desejo         | Para que eu possa | Critérios de Aceitação        | Prioridade       |
 | :--: | :----------- | :------------- | :---------------- | :---------------------------- | :--------------: |
@@ -60,9 +60,9 @@
 | US04 | Usuário   | acessar o modo de navegação anônimo | ter um acesso mais restrito ao aplicativo | - O usuário deve clicar no botão "modo de navegação anônima" nas suas configurações<br/>- O aplicativo deve explicar as mudanças que o modo de navegação anônima tem para com o modo normal | Baixa |
 | US05 | Usuário   | mudar o modo de acordo com claridade (clara e escura) | ter um aplicativo com design noturno | - O usuário deve clicar no botão "geral" nas suas configurações<br/>- O usuário pode escolher enter a aparência escura ou a clara | Baixa |
 
-### Épico - Criação de Conteúdo
+### 3.2. [EPC02] Épico - Criação de Conteúdo
 
-#### Gerenciamento de canal
+#### 3.2.1. [FTR03] Feature - Gerenciamento de canal
 
 | ID   | Eu, como     | Desejo         | Para que eu possa | Critérios de Aceitação        | Prioridade       |
 | :--: | :----------- | :------------- | :---------------- | :---------------------------- | :--------------: |
@@ -71,7 +71,7 @@
 | US08 | Criador de conteúdo | Excluir um canal | não ter mais acesso a ele | - Um botão de "excluir canal" deve estar disponível nas configurações do canal<br/>- O sistema deve pedir uma confirmação que a ação será executada | Baixa |
 | US09 | Criador de conteúdo | Obter estatísticas do canal | ter noção dos meus números de performance | - Um ícone/botão de gráficos deve aparecer na tela inicial do canal<br/>- Ao clicar na tela, um dashboard com as estatísticas de inscritos e vídeos deve aparecer | Média |
 
-#### Feature - Gerenciamento de vídeos
+#### 3.2.2. [FTR04] Feature - Gerenciamento de vídeos
 
 | ID   | Eu, como     | Desejo         | Para que eu possa | Critérios de Aceitação        | Prioridade       |
 | :--: | :----------- | :------------- | :---------------- | :---------------------------- | :--------------: |
@@ -81,9 +81,9 @@
 | US13 | Criador de conteúdo | Obter estatísticas de um vídeo | ter noção da performance dele | - Um botão de "estatísticas" deve aparecer no menu do vídeo<br/>- Ao clicar na tela, um dashboard com as estatísticas do vídeos (visualizações, curtidas, entre outros) deve aparecer | Média |
 | US14 | Criador de conteúdo | Adicionar Thumbnail a um vídeo | ter uma imagem relacionada ao vídeo postado | - No menu do vídeo, deve ter um botão de alterar a imagem do vídeo<br/>- O aplicativo deve ter acesso às imagens no dispositivo para que o usuário selecione a Thumbnail desejada | Média |
 
-### Épico - Consumir Conteúdo
+### 3.3. [EPC03] Épico - Consumir Conteúdo
 
-#### Feature - Interação com vídeo
+#### 3.3.1. [FTR05] Feature - Interação com vídeo
 
 | ID   | Eu, como     | Desejo         | Para que eu possa | Critérios de Aceitação        | Prioridade       |
 | :--: | :----------- | :------------- | :---------------- | :---------------------------- | :--------------: |
@@ -95,7 +95,7 @@
 | US20 | Espectador | Mudar a qualidade de um vídeo | ver em uma maior ou menor qualidade | - O vídeo que está sendo assistido deve possuir um botão no seu menu de "alterar quadalide"<br/>- O usuário terá opções referentes às qualidades disponíveis (de 144p a 4k) | Baixa |
 | US21 | Espectador | Avançar ou retroceder 10 segundos de um vídeo | ir para uma minutagem desejada mais rapidamente | - O vídeo não pode estar minimizado<br/>- Ao clicar da metade para a direita, o vídeo deve avançar<br/>- Ao clicar da metade para a esquerda, o vídeo deve retroceder | Baixa |
 
-#### Feature - Interação com canal
+#### 3.3.2. [FTR06] Feature - Interação com canal
 
 | ID   | Eu, como     | Desejo         | Para que eu possa | Critérios de Aceitação        | Prioridade       |
 | :--: | :----------- | :------------- | :---------------- | :---------------------------- | :--------------: |
@@ -103,7 +103,7 @@
 | US23 | Espectador | Ativar notificações de um canal | ser notificado toda vez o canal postar um vídeo | - Deve haver um botão em ícone de sino simbolizando as notificações<br/>- O botão deve mudar para preenchido de cinza ao ser clicado | Baixa |
 | US24 | Espectador | Acessar os vídeos de um canal | ver todos os vídeos postados de um canal específico | - O usuário deve acessar a tela de um canal para encontrar o botão de "vídeos"<br/>- O usuário pode ordenar os vídeos por tempo de publicação ou relevância | Alta |
 
-#### Feature - Playlists
+#### 3.3.3. [FTR07] Feature - Playlists
 
 | ID   | Eu, como     | Desejo         | Para que eu possa | Critérios de Aceitação        | Prioridade       |
 | :--: | :----------- | :------------- | :---------------- | :---------------------------- | :--------------: |
@@ -112,16 +112,16 @@
 | US27 | Usuário | Adicionar um vídeo a playlist | salvar esse vídeo nela | - Deve haver um botão de "salvar" na tela inicial do vídeo<br/>- Ao pressionar o botão, o usuário deve selecionar a playlist que ele deseja adicionar o vídeo | Média |
 | US28 | Usuário | Excluir vídeo de uma playlist | não ter mais acesso a esse vídeo na playlist | - Deve haver um botão de "remover vídeo" na tela da playlist<br/>- O sistema deve pedir uma confirmação que a ação será executada | Baixa |
 
-### Épico - Navegação
+### 3.4. [EPC04] Épico - Navegação
 
-#### Feature - Página Inicial
+#### 3.4.1. [FTR08] Feature - Página Inicial
 
 | ID   | Eu, como     | Desejo         | Para que eu possa | Critérios de Aceitação        | Prioridade       |
 | :--: | :----------- | :------------- | :---------------- | :---------------------------- | :--------------: |
 | US29 | Espectador | ter vídeos recomendados na minha tela principal | encontrar vídeos de forma mais simples | - O sistema deve recomendar vídeos para o usuário na tela inicial<br/>- O vídeo na tela inicial pode ser reproduzido ao clicar nele. | Média |
 | US30 | Espectador | Ver os vídeos postados pelos canais que sou inscritos | acessá-los de forma mais simples | - Na tela inicial, o usuário tem a opção de menu "Inscrições"<br/>- A tela, a princípio, ordena os vídeos por publicação mais recente. | Média |
 
-#### Feature - Busca
+#### 3.4.2. [FTR09] Feature - Busca
 
 | ID   | Eu, como     | Desejo         | Para que eu possa | Critérios de Aceitação        | Prioridade       |
 | :--: | :----------- | :------------- | :---------------- | :---------------------------- | :--------------: |
@@ -139,4 +139,5 @@
 | 1.0    | 28/07/2022 | Criação do esqueleto do documento e introdução inicial. | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> | <a href="https://github.com/Alef012" target="_blank">@Alef012</a> |
 | 1.1    | 28/07/2022 | Reformulação da estrutura do Product Backlog. | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> | <a href="https://github.com/Alef012" target="_blank">@Alef012</a> |
 | 1.2    | 28/07/2022 | Adição de histórias, features e épicos iniciais. | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> | <a href="https://github.com/Alef012" target="_blank">@Alef012</a> |
-| 1.3    | 03/08/2022 | Numeração das histórias de usuário. | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> | <a href="https://github.com/Alef012" target="_blank">@Alef012</a> |
+| 1.3    | 03/08/2022 | Enumeração das histórias de usuário. | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> | <a href="https://github.com/Alef012" target="_blank">@Alef012</a> |
+| 1.4    | 04/08/2022 | Enumeração dos épicos e features. | <a href="https://github.com/owhenrique" target="_blank">@owhenrique</a>  | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a>  |
