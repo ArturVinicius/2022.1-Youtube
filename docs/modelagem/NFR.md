@@ -15,6 +15,7 @@
 <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/nfr/tipos-soft.png" width="256" height="256"/>
 
 <figcaption>Figura 1: Tipos de Softgoals.</figcaption>
+<figcaption>Fonte: (SILVA, 2019, p. 31).</figcaption>
 
 </center>
 
@@ -25,6 +26,7 @@
 <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/nfr/tipos-inter.png"/>
 
 <figcaption>Figura 2: Tipos de Interdependências.</figcaption>
+<figcaption>Fonte: (SILVA, 2019, p. 33).</figcaption>
 
 </center>
 
@@ -32,6 +34,8 @@
 
 <p align="justify">&emsp;&emsp; AND: Os softgoals ascendentes só são satifeitos se os descendentes também forem.</p>
 <p align="justify">&emsp;&emsp; OR: Se algum softgoal descendente for satisfeito, o ascendente também já será satisfeito.</p>
+<p align="justify">&emsp;&emsp; MAKE(++): Ao usar a contribuição suficientemente positiva (MAKE), se o softgoal descendente for satisfeito, o softgoal ascendente também será satisfeito.</p>
+<p align="justify">&emsp;&emsp; HELP(+): Ao usar a contribuição parcialmente positivas (HELP), se o softgoal decrescente for parcialmente satisfeito, o softgoal ascendente também será parcialmente satisfeito.</p>
 
 - **Procedimento de avaliação**: para determinar o grau de satisfação de um requisito não-funcional, algumas legendas podem ser usadas. A figura 3 mostra as usadas no projeto:
 
@@ -40,6 +44,7 @@
 <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/nfr/tipos-prod.png"/>
 
 <figcaption>Figura 3: Tipos de Procedimentos de Avaliação.</figcaption>
+<figcaption>Fonte: (SILVA, 2019, p. 38).</figcaption>
 
 </center>
 
@@ -161,3 +166,4 @@ Dessa forma, a partir dos requisitos não-funcionais elicitados na fase de [Elic
 | 1.1    | 28/07/2022 | Adição da metodologia a ser utilizada no NFR Framework do projeto | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> | <a href="https://github.com/owhenrique" target="_blank">@owhenrique</a> |
 | 1.2    | 03/08/2022 | Adição dos gráficos NFR E ANFR do projeto | <a href="https://github.com/owhenrique" target="_blank">@owhenrique</a> | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> |
 | 1.3    | 03/08/2022 | Adição de links e títulos dos gráficos | <a href="https://github.com/owhenrique" target="_blank">@owhenrique</a> | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> |
+| 1.4    | 04/08/2022 | Adição de fonte das imagens e contribuições MAKE e HELP | <a href="https://github.com/owhenrique" target="_blank">@owhenrique</a> | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> |
