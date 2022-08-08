@@ -56,9 +56,9 @@
 
 | ID   | Eu, como     | Desejo         | Para que eu possa | Critérios de Aceitação        | Prioridade       |
 | :--: | :----------- | :------------- | :---------------- | :---------------------------- | :--------------: |
-| US03 | Usuário   | espelhar o aplicativo a outro dispositivo | ter acesso à plataforma em outra tela | - O usuário deve clicar no botão de espelhar<br/>- Deve ser mostrada os dispositivos possíveis de espelhamento para que o usuário selecione o desejado | Baixa |
-| US04 | Usuário   | acessar o modo de navegação anônimo | ter um acesso mais restrito ao aplicativo | - O usuário deve clicar no botão "modo de navegação anônima" nas suas configurações<br/>- O aplicativo deve explicar as mudanças que o modo de navegação anônima tem para com o modo normal | Baixa |
-| US05 | Usuário   | mudar o modo de acordo com claridade (clara e escura) | ter um aplicativo com design noturno | - O usuário deve clicar no botão "geral" nas suas configurações<br/>- O usuário pode escolher enter a aparência escura ou a clara | Baixa |
+| US03 | Usuário   | Espelhar o aplicativo a outro dispositivo | ter acesso à plataforma em outra tela | - O usuário deve clicar no botão de espelhar<br/>- Deve ser mostrada os dispositivos possíveis de espelhamento para que o usuário selecione o desejado | Baixa |
+| US04 | Usuário   | Acessar o modo de navegação anônimo | ter um acesso mais restrito ao aplicativo | - O usuário deve clicar no botão "modo de navegação anônima" nas suas configurações<br/>- O aplicativo deve explicar as mudanças que o modo de navegação anônima tem para com o modo normal | Baixa |
+| US05 | Usuário   | Mudar o modo de acordo com claridade (clara e escura) | ter um aplicativo com design noturno | - O usuário deve clicar no botão "geral" nas suas configurações<br/>- O usuário pode escolher enter a aparência escura ou a clara | Baixa |
 
 ### 3.2. [EPC02] Épico - Criação de Conteúdo
 
@@ -76,7 +76,7 @@
 | ID   | Eu, como     | Desejo         | Para que eu possa | Critérios de Aceitação        | Prioridade       |
 | :--: | :----------- | :------------- | :---------------- | :---------------------------- | :--------------: |
 | US10 | Criador de conteúdo | Postar um vídeo | hospedar meu vídeo no meu canal | - O usuário deve adicionar sua conta Google no aplicativo<br/>- O usuário deve ser redirecionado para uma página de cadastro/conta do google | Alta |
-| US11 | Criador de conteúdo | Excluir um vídeo | não ter mais acesso a ele | - Um botão de "excluir vídeo" deve estar disponível na tela de edição do vídeo<br/>- O sistema deve pedir uma confirmação que a ação será executada | Alta |
+| US11 | Criador de conteúdo | Excluir um vídeo | não ter mais acesso a ele | - Um botão de "excluir vídeo" deve estar disponível na tela de edição do vídeo<br/>- O sistema deve pedir uma confirmação que a ação será executada | Média |
 | US12 | Criador de conteúdo | Adicionar legendas ao vídeo | ter a opção de legenda para os espectadores | - O usuário deve escolher o idioma que deseja adicionar as legendas<br/>- O usuário pode fazer a legenda com o aplicativo ou importar um arquivo com as legendas e os tempos que elas aparecem no vídeo | Baixa |
 | US13 | Criador de conteúdo | Obter estatísticas de um vídeo | ter noção da performance dele | - Um botão de "estatísticas" deve aparecer no menu do vídeo<br/>- Ao clicar na tela, um dashboard com as estatísticas do vídeos (visualizações, curtidas, entre outros) deve aparecer | Média |
 | US14 | Criador de conteúdo | Adicionar Thumbnail a um vídeo | ter uma imagem relacionada ao vídeo postado | - No menu do vídeo, deve ter um botão de alterar a imagem do vídeo<br/>- O aplicativo deve ter acesso às imagens no dispositivo para que o usuário selecione a Thumbnail desejada | Média |
