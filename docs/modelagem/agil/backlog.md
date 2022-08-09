@@ -41,6 +41,10 @@
 
 <p align="justify">&emsp;&emsp; As prioridades foram divididas entre Alta, Média ou Baixa levando em consideração uma análise na visão das técnicas de priorização já usadas no projeto (<a href="https://requisitos-de-software.github.io/2022.1-Youtube/elicitacao/priorizacao/moscow/" target="_blank">MoSCoW</a> e <a href="https://requisitos-de-software.github.io/2022.1-Youtube/elicitacao/priorizacao/100dol/" target="_blank">100 Dólares</a>). Sendo assim, itens de <b>Alta</b> prioridade são essenciais e mais recursos seriam destinados a eles, os de <b>Média</b> prioridade são importantes para o aplicativo, mas não vitais para seu funcionamento e os itens de <b>Baixa</b> prioridade são aperitivos sem foco inicial.</p>
 
+<p align="justify">&emsp;&emsp; Os integrantes da equipe Victor Leão e Pedro Torreão se reuniram em uma ligação do Teams e, a partir da personificação da persona por parte do Pedro, os integrantes priorizaram cada uma das histórias:</p>
+
+[Vídeo da Priorização com Roleplay de Persona](https://www.youtube.com/watch?v=dWk5gQk0r8A)
+
 ## 3. Product Backlog
 
 ### 3.1. [EPC01] Épico - Conta
@@ -141,3 +145,4 @@
 | 1.2    | 28/07/2022 | Adição de histórias, features e épicos iniciais. | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> | <a href="https://github.com/Alef012" target="_blank">@Alef012</a> |
 | 1.3    | 03/08/2022 | Enumeração das histórias de usuário. | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> | <a href="https://github.com/Alef012" target="_blank">@Alef012</a> |
 | 1.4    | 04/08/2022 | Enumeração dos épicos e features. | <a href="https://github.com/owhenrique" target="_blank">@owhenrique</a>  | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a>  |
+| 1.5    | 08/08/2022 | Adição do vídeo da priorização. | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a>, <a href="https://github.com/B3holder2" target="_blank">@B3holder2</a>  | <a href="https://github.com/owhenrique" target="_blank">@owhenrique</a>  |
