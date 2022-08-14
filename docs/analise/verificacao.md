@@ -40,7 +40,7 @@
 | Item | Inspeção |
 | :-------    | :------: | 
 | Os perfis de usuários estão separados entre espectador e criador de conteúdo? | Sim |
-| Os perfis de usuários possuem experiência, nível de alfabetização e faixa etária? | |
+| Os perfis de usuários possuem experiência, nível de alfabetização e faixa etária? | Sim |
 
 ### 3.5 Brainstorm
 | Item | Inspeção |
