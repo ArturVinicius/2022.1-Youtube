@@ -19,6 +19,7 @@
 
 ### 3.2 Rich Picture
 | Item        | Inspeção |
+| :-------    | :------: | 
 | Há legenda? | |
 | O ator principal está do lado direito? | |
 | Todos os elementos estão presentes? (atores, delimitação de sistema, operações, setas, bancos de dados) | |
@@ -28,6 +29,7 @@
 
 ### 3.3 Personas
 | Item | Inspeção |
+| :-------    | :------: | 
 | Há a descrição se a persona é primária, secundária ou anti-persona para todas as personas? | Não |
 | As personas possuem identidade? (Foto e Nome) | |
 | Foi feita uma descrição (objetivos, tarefas, ambiente, expectativas) acerca de cada uma das personas? | |
@@ -36,11 +38,13 @@
 
 ### 3.4 Perfil de Usuário
 | Item | Inspeção |
+| :-------    | :------: | 
 | Os perfis de usuários estão separados entre espectador e criador de conteúdo? | Sim |
 | Os perfis de usuários possuem experiência, nível de alfabetização e faixa etária? | |
 
 ### 3.5 Brainstorm
 | Item | Inspeção |
+| :-------    | :------: | 
 | Há uma lista de todos os participantes da reunião? | |
 | Os requisitos estão bem escritos e claros? | |
 | Todos os léxicos estão linkados? | Sim |
@@ -51,6 +55,7 @@
 
 ### 3.6 Introspecção
 | Item | Inspeção |
+| :-------    | :------: | 
 | Os requisitos estão bem escritos e claros? | |
 | Todos os léxicos estão linkados? | Sim |
 | Todos os requisitos possuem um ID? | |
@@ -59,6 +64,7 @@
 
 ### 3.7 Observação
 | Item | Inspeção |
+| :-------    | :------: | 
 | O usuário participante da observação foi identificado? | |
 | Há um vídeo da tela do aplicativo da observação feita? | Sim |
 | Os requisitos estão bem escritos e claros? | |
@@ -68,6 +74,7 @@
 
 ### 3.8 Entrevista
 | Item | Inspeção |
+| :-------    | :------: | 
 | O usuário participante da entrevista foi identificado? | |
 | Há uma gravação da entrevista realizada com o usuário? | Sim |
 | Há uma explicação de como a entrevista foi feita e as perguntas antes designadas? | |
@@ -78,18 +85,21 @@
 
 ### 3.9 MoSCoW
 | Item | Inspeção |
+| :-------    | :------: | 
 | Todos os requisitos elicitados tiveram sua prioridade selecionada? | |
 | Há uma descrição de cada um dos tipos de prioridade? (Must, Should, Could e Would) | |
 | O usuário que fez parte da priorização foi identificado? | Não |
 
 ### 3.10 100 Dólares
 | Item | Inspeção |
+| :-------    | :------: | 
 | Todos os requisitos elicitados tiveram sua prioridade feita? | |
 | O usuário que fez parte da priorização foi identificado? | Não |
 | A soma de todos os valores atribuídos é de 100? | |
 
 ### 3.11 Resultado Elicitação
 | Item | Inspeção |
+| :-------    | :------: | 
 | Todos os requisitos possuem uma identificação (ID)? | Sim |
 | Cada um dos requisitos tem a técnica de elicitação em que eles foram encontrados? | |
 | Os requisitos estão bem escritos e claros? | |
@@ -98,6 +108,7 @@
 
 ### 3.12 Cenários
 | Item | Inspeção |
+| :-------    | :------: | 
 | Todos os cenários possuem títulos? | |
 | Todos os cenários possuem todos os elementos? (objetivo, contexto, atores, recursos, episódios e exceções) | |
 | O objetivo de todos os cenários é claro? | |
@@ -110,6 +121,7 @@
 
 ### 3.13 Léxicos
 | Item | Inspeção |
+| :-------    | :------: | 
 | Os léxicos estão divididos entre estado, objeto e verbo? | |
 | Os nomes são condizentes? | |
 | Todos os léxicos possuem sinônimos corretos? | |
@@ -119,6 +131,7 @@
 
 ### 3.14 Casos de Uso
 | Item | Inspeção |
+| :-------    | :------: | 
 | Há uma legenda sobre cada um dos elementos usados? | |
 | Cada caso de uso presente no diagrama é descrito? | |
 | O ator principal está do lado esquerdo? | Sim | 
@@ -133,6 +146,7 @@
 
 ### 3.15 Especificação Suplementar
 | Item | Inspeção |
+| :-------    | :------: | 
 | Segue o FURPS+? | |
 | Há uma explicação acerca de cada uma das letras da sigla? | Sim |
 | Cada uma das letras possuem pelo menos um requisito relacionado a elas? | |
@@ -140,6 +154,7 @@
 
 ### 3.16 NFR Framework
 | Item | Inspeção |
+| :-------    | :------: | 
 | Todos os diagramas estão bem representados? | |
 | Os softgoals fazem sentido? | |
 | As decomposições são corretas? | |
@@ -149,6 +164,7 @@
 
 ### 3.17 Backlog do Produto + Histórias de Usuário
 | Item | Inspeção |
+| :-------    | :------: | 
 | Os épicos fazem sentido? | |
 | Todas as features são condizentes com seus épicos? | |
 | Todos os itens possuem IDs? | |
