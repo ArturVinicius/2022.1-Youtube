@@ -40,4 +40,7 @@ nav:
     - NFR Framework: modelagem/NFR.md
     - Ágil:
       - Backlog do Produto + Histórias de Usuário: modelagem/agil/backlog.md
+  - Análise:
+    - Verificação: analise/verificacao.md
+    - Validação: analise/validacao.md
   - Apresentações: apresentacao.md
