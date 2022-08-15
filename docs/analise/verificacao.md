@@ -184,3 +184,4 @@
 | ------ | ---- | --------- | --------- | ----------- |
 | 1.0    | 14/08/2022 | Início do documento com introdução, metodologia, checklists | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> | <a href="https://github.com/Alef012" target="_blank">@Alef012</a>, <a href="https://github.com/CDGodoy" target="_blank">@CDGodoy</a> |
 | 1.1    | 15/08/2022 | Correção do histórico de versão | <a href="https://github.com/owhenrique" target="_blank">@owhenrique</a> | <a href="https://github.com/Alef012" target="_blank">@Alef012</a> |
+| 1.2    | 15/08/2022 | Verificação os itens Rich Picture, Personas e Brainstorm | <a href="https://github.com/owhenrique" target="_blank">@owhenrique</a> | <a href="https://github.com/Alef012" target="_blank">@Alef012</a> |
