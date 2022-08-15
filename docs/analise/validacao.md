@@ -24,4 +24,7 @@
 > - Milene Serrano, Requisitos - Aula 23. Acesso em: 14 de agosto de 2022. Disponível em: Aprender3.
 
 ## 5. Histórico de Versão
-| 1.0    | 14/08/2022 | Início do documento com introdução e metodologia | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> | <a href="https://github.com/B3holder2" target="_blank">@B3holder2</a>, <a href="https://github.com/lramon2001" target="_blank">@lramon2001</a> |
+| Versão | Data | Descrição | Autor(es) | Revisor(es) |
+| ------ | ---- | --------- | --------- | ----------- |
+| 1.0 | 14/08/2022 | Início do documento com introdução e metodologia | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> | <a href="https://github.com/B3holder2" target="_blank">@B3holder2</a>, <a href="https://github.com/lramon2001" target="_blank">@lramon2001</a> |
+| 1.1    | 15/08/2022 | Correção do histórico de versão | <a href="https://github.com/owhenrique" target="_blank">@owhenrique</a> | <a href="https://github.com/Alef012" target="_blank">@Alef012</a> |
