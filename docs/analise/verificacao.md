@@ -20,21 +20,21 @@
 ### 3.2 Rich Picture
 | Item        | Inspeção |
 | :-------    | :------: | 
-| Há legenda? | |
-| O ator principal está do lado direito? | |
-| Todos os elementos estão presentes? (atores, delimitação de sistema, operações, setas, bancos de dados) | |
-| O(s) ator(es) está fora da fronteira do sistema? | |
-| Os fluxos fazem sentido? | |
+| Há legenda? | Sim |
+| O ator principal está do lado direito? | Sim |
+| Todos os elementos estão presentes? (atores, delimitação de sistema, operações, setas, bancos de dados) | Sim |
+| O(s) ator(es) está fora da fronteira do sistema? | Sim |
+| Os fluxos fazem sentido? | Sim |
 | Há título? | Sim |
 
 ### 3.3 Personas
 | Item | Inspeção |
 | :-------    | :------: | 
 | Há a descrição se a persona é primária, secundária ou anti-persona para todas as personas? | Não |
-| As personas possuem identidade? (Foto e Nome) | |
-| Foi feita uma descrição (objetivos, tarefas, ambiente, expectativas) acerca de cada uma das personas? | |
-| Todas as personas são condizentes com pessoas? | |
-| As imagens encontradas são de pessoas não existentes? | |
+| As personas possuem identidade? (Foto e Nome) | Sim |
+| Foi feita uma descrição (objetivos, tarefas, ambiente, expectativas) acerca de cada uma das personas? | Sim |
+| Todas as personas são condizentes com pessoas? | Sim |
+| As imagens encontradas são de pessoas não existentes? | Sim |
 
 ### 3.4 Perfil de Usuário
 | Item | Inspeção |
@@ -45,13 +45,13 @@
 ### 3.5 Brainstorm
 | Item | Inspeção |
 | :-------    | :------: | 
-| Há uma lista de todos os participantes da reunião? | |
-| Os requisitos estão bem escritos e claros? | |
+| Há uma lista de todos os participantes da reunião? | Sim |
+| Os requisitos estão bem escritos e claros? | Sim |
 | Todos os léxicos estão linkados? | Sim |
-| Há um registro de horário e dia da reunião? | |
-| Há uma divisão entre os requisitos funcionais e os não-funcionais? | |
+| Há um registro de horário e dia da reunião? | Sim |
+| Há uma divisão entre os requisitos funcionais e os não-funcionais? | Sim |
 | Há a gravação da reunião? | Não |
-| Todos os requisitos possuem um ID? | |
+| Todos os requisitos possuem um ID? | Sim |
 
 ### 3.6 Introspecção
 | Item | Inspeção |
