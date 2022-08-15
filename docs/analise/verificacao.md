@@ -132,16 +132,16 @@
 ### 3.14 Casos de Uso
 | Item | Inspeção |
 | :-------    | :------: | 
-| Há uma legenda sobre cada um dos elementos usados? | |
-| Cada caso de uso presente no diagrama é descrito? | |
+| Há uma legenda sobre cada um dos elementos usados? | Sim |
+| Cada caso de uso presente no diagrama é descrito? | Sim |
 | O ator principal está do lado esquerdo? | Sim | 
-| O ator principal está fora do sistema? | |
-| As informações são suscintas? | |
-| Os verbos estão no infinitivo? | |
-| Os relacionamentos estão corretamente feitos? | |
-| Os casos de uso possuem títulos auto-explicativos? | |
-| Os casos de uso fazem sentido com os requisitos? | |
-| Os fluxos principais são completos? | |
+| O ator principal está fora do sistema? | Sim |
+| As informações são suscintas? | Sim |
+| Os verbos estão no infinitivo? | Sim |
+| Os relacionamentos estão corretamente feitos? | Sim |
+| Os casos de uso possuem títulos auto-explicativos? | Sim |
+| Os casos de uso fazem sentido com os requisitos? | Sim |
+| Os fluxos principais são completos? | Sim |
 | Todos os léxicos estão linkados? | Sim | 
 
 ### 3.15 Especificação Suplementar
@@ -184,4 +184,4 @@
 | ------ | ---- | --------- | --------- | ----------- |
 | 1.0    | 14/08/2022 | Início do documento com introdução, metodologia, checklists | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> | <a href="https://github.com/Alef012" target="_blank">@Alef012</a>, <a href="https://github.com/CDGodoy" target="_blank">@CDGodoy</a> |
 | 1.1    | 15/08/2022 | Correção do histórico de versão | <a href="https://github.com/owhenrique" target="_blank">@owhenrique</a> | <a href="https://github.com/Alef012" target="_blank">@Alef012</a> |
-| 1.2    | 15/08/2022 | Verificação os itens Rich Picture, Personas e Brainstorm | <a href="https://github.com/owhenrique" target="_blank">@owhenrique</a> | <a href="https://github.com/Alef012" target="_blank">@Alef012</a> |
+| 1.2    | 15/08/2022 | Verificação os itens Rich Picture, Personas e Brainstorm e Caso de Uso | <a href="https://github.com/owhenrique" target="_blank">@owhenrique</a> | <a href="https://github.com/Alef012" target="_blank">@Alef012</a> |
