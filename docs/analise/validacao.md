@@ -58,6 +58,9 @@ Até o dia 16/08/2022 às 19:35, horário de Brasília, ainda não foram obtidas
 ## 5. Referências
 
 > - Milene Serrano, Requisitos - Aula 23. Acesso em: 14 de agosto de 2022. Disponível em: Aprender3.
+> - Jacinta Pereira e  Rossana Andrade, Processos de Engenharia de
+Requisitos. Acesso em: 16 de agosto de 2022. Disponível em: [Processos de Engenharia de
+Requisitos](http://disciplinas.lia.ufc.br/engsof081/arquivos/ProcessosEngRequisitos-v2.pdf).
 
 ## 5. Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
