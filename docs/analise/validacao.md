@@ -21,7 +21,7 @@
 
 ## 4. Comprovação informal 
 
-<p align="justify">&emsp;&emsp;Nesta etapa da validação nossa equipe tentou, de várias formas, contactar o time de desenvolvedores e colaboradores da [plataforma](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#plataforma) para que os mesmos nos devolvessem possíveis problemas encontrados na documentação produzida por nós.</p>
+<p align="justify">&emsp;&emsp;Nesta etapa da validação nossa equipe tentou, de várias formas, contactar o time de desenvolvedores e colaboradores da <a href="https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#plataforma" target="_blank">plataforma</a> para que os mesmos nos devolvessem possíveis problemas encontrados na documentação produzida por nós. </p>
 
 ### 4.1. Via Ajuda do Youtube
 <center>
