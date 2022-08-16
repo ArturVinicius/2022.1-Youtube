@@ -47,7 +47,7 @@ Até o dia 16/08/2022 às 19:35, horário de Brasília, ainda não foram obtidas
 
 ### 4.3. Via Twitter 
 <center>
-<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Youtube/main/docs/media/validacao/validacao_contato_tt.png"/>
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Youtube/main/docs/media/validacao/validacao_contato_tt.jpeg"/>
 
 <figcaption>Figura 3: Pergunta enviada via Twitter.</figcaption>
 
