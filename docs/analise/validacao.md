@@ -96,3 +96,4 @@ Requisitos](http://disciplinas.lia.ufc.br/engsof081/arquivos/ProcessosEngRequisi
 | 1.3    | 16/08/2022 | Correções no texto de metodologia | <a href="https://github.com/owhenrique" target="_blank">@owhenrique</a> | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> |
 | 1.4    | 17/08/2022 | Adição da prototipação do requisito funcional rf030 | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> | <a href="https://github.com/owhenrique" target="_blank">@owhenrique</a> |
 | 1.5    | 17/08/2022 | Adição da prototipação do requisito funcional rf026 | <a href="https://github.com/owhenrique" target="_blank">@owhenrique</a> | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> |
+| 1.6    | 17/08/2022 | Correção dos números das figuras | <a href="https://github.com/owhenrique" target="_blank">@owhenrique</a> | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> |
