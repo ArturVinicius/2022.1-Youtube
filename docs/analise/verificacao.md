@@ -147,31 +147,31 @@
 ### 3.15 Especificação Suplementar
 | Item | Inspeção |
 | :-------    | :------: | 
-| Segue o FURPS+? | |
+| Segue o FURPS+? | Sim |
 | Há uma explicação acerca de cada uma das letras da sigla? | Sim |
-| Cada uma das letras possuem pelo menos um requisito relacionado a elas? | |
-| Todos os requisitos são mesuráveis e avaliáveis? | |
+| Cada uma das letras possuem pelo menos um requisito relacionado a elas? | Sim |
+| Todos os requisitos são mesuráveis e avaliáveis? | Não |
 
 ### 3.16 NFR Framework
 | Item | Inspeção |
 | :-------    | :------: | 
-| Todos os diagramas estão bem representados? | |
-| Os softgoals fazem sentido? | |
-| As decomposições são corretas? | |
-| Todas as propagações são condizentes com o contexto dos diagramas? | |
-| Há uma legenda para cada elemento usado nos diagramas? | |
+| Todos os diagramas estão bem representados? | Sim |
+| Os softgoals fazem sentido? | Sim |
+| As decomposições são corretas? | Sim |
+| Todas as propagações são condizentes com o contexto dos diagramas? | Sim |
+| Há uma legenda para cada elemento usado nos diagramas? | Sim |
 | Há um diagrama para cada tipo de requisito não-funcional encontrado na especificação suplementar? | Sim |
 
 ### 3.17 Backlog do Produto + Histórias de Usuário
 | Item | Inspeção |
 | :-------    | :------: | 
-| Os épicos fazem sentido? | |
-| Todas as features são condizentes com seus épicos? | |
-| Todos os itens possuem IDs? | |
-| Todas as histórias estão priorizadas? | |
-| Todas as histórias possuem critérios de aceitação? | |
+| Os épicos fazem sentido? | Sim |
+| Todas as features são condizentes com seus épicos? | Sim |
+| Todos os itens possuem IDs? | Sim |
+| Todas as histórias estão priorizadas? | Sim |
+| Todas as histórias possuem critérios de aceitação? | Sim |
 | Há gravação para a reunião de priorização? | Sim |
-| As histórias seguem um padrão? (quem, o que, para que) | |
+| As histórias seguem um padrão? (quem, o que, para que) | Sim |
 | Todos os léxicos estão linkados? | Não | 
 
 ## 4. Referências
@@ -186,3 +186,4 @@
 | 1.1    | 15/08/2022 | Correção do histórico de versão | <a href="https://github.com/owhenrique" target="_blank">@owhenrique</a> | <a href="https://github.com/Alef012" target="_blank">@Alef012</a> |
 | 1.2    | 15/08/2022 | Verificação os itens Rich Picture, Personas e Brainstorm e Caso de Uso | <a href="https://github.com/owhenrique" target="_blank">@owhenrique</a> | <a href="https://github.com/Alef012" target="_blank">@Alef012</a> |
 | 1.3    | 17/08/2022 | Verificação dos itens: Cenários e Léxicos | <a href="https://github.com/Alef012" target="_blank">@Alef012</a> | <a href="https://github.com/lramon2001" target="_blank">@lramon2001</a> |
+| 1.4    | 17/08/2022 | Adição de verificação dos itens: especificação suplementar, nfr e backlog | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> | <a href="https://github.com/Alef012" target="_blank">@Alef012</a>, <a href="https://github.com/lramon2001" target="_blank">@lramon2001</a> |
