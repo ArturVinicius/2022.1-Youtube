@@ -56,32 +56,32 @@
 ### 3.6 Introspecção
 | Item | Inspeção |
 | :-------    | :------: | 
-| Os requisitos estão bem escritos e claros? | |
+| Os requisitos estão bem escritos e claros? | Sim |
 | Todos os léxicos estão linkados? | Sim |
-| Todos os requisitos possuem um ID? | |
-| Há uma divisão entre os requisitos funcionais e os não-funcionais? | |
-| Foi explicitado os participantes da instrospecção? | |
+| Todos os requisitos possuem um ID? | Sim |
+| Há uma divisão entre os requisitos funcionais e os não-funcionais? | Sim |
+| Foi explicitado os participantes da instrospecção? | Sim |
 
 ### 3.7 Observação
 | Item | Inspeção |
 | :-------    | :------: | 
-| O usuário participante da observação foi identificado? | |
+| O usuário participante da observação foi identificado? | Sim |
 | Há um vídeo da tela do aplicativo da observação feita? | Sim |
-| Os requisitos estão bem escritos e claros? | |
-| Todos os léxicos estão linkados? | |
-| Todos os requisitos possuem um ID? | |
+| Os requisitos estão bem escritos e claros? | Sim |
+| Todos os léxicos estão linkados? | Sim |
+| Todos os requisitos possuem um ID? | Sim |
 | Há uma divisão entre os requisitos funcionais e os não-funcionais? | Sim |
 
 ### 3.8 Entrevista
 | Item | Inspeção |
 | :-------    | :------: | 
-| O usuário participante da entrevista foi identificado? | |
+| O usuário participante da entrevista foi identificado? | Não |
 | Há uma gravação da entrevista realizada com o usuário? | Sim |
-| Há uma explicação de como a entrevista foi feita e as perguntas antes designadas? | |
-| Os requisitos estão bem escritos e claros? | |
+| Há uma explicação de como a entrevista foi feita e as perguntas antes designadas? | Sim |
+| Os requisitos estão bem escritos e claros? | Sim |
 | Todos os léxicos estão linkados? | Sim |
-| Todos os requisitos possuem um ID? | |
-| Há uma divisão entre os requisitos funcionais e os não-funcionais? | |
+| Todos os requisitos possuem um ID? | Sim |
+| Há uma divisão entre os requisitos funcionais e os não-funcionais? | Sim |
 
 ### 3.9 MoSCoW
 | Item | Inspeção |
@@ -101,10 +101,10 @@
 | Item | Inspeção |
 | :-------    | :------: | 
 | Todos os requisitos possuem uma identificação (ID)? | Sim |
-| Cada um dos requisitos tem a técnica de elicitação em que eles foram encontrados? | |
-| Os requisitos estão bem escritos e claros? | |
+| Cada um dos requisitos tem a técnica de elicitação em que eles foram encontrados? | Sim |
+| Os requisitos estão bem escritos e claros? | Sim |
 | Todos os léxicos estão linkados? | Sim |
-| Há uma divisão entre os requisitos funcionais e os não-funcionais? | |
+| Há uma divisão entre os requisitos funcionais e os não-funcionais? | Sim |
 
 ### 3.12 Cenários
 | Item | Inspeção |
@@ -187,3 +187,4 @@
 | 1.2    | 15/08/2022 | Verificação os itens Rich Picture, Personas e Brainstorm e Caso de Uso | <a href="https://github.com/owhenrique" target="_blank">@owhenrique</a> | <a href="https://github.com/Alef012" target="_blank">@Alef012</a> |
 | 1.3    | 17/08/2022 | Verificação dos itens: Cenários e Léxicos | <a href="https://github.com/Alef012" target="_blank">@Alef012</a> | <a href="https://github.com/lramon2001" target="_blank">@lramon2001</a> |
 | 1.4    | 17/08/2022 | Adição de verificação dos itens: especificação suplementar, nfr e backlog | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> | <a href="https://github.com/Alef012" target="_blank">@Alef012</a>, <a href="https://github.com/lramon2001" target="_blank">@lramon2001</a> |
+| 1.5    | 17/08/2022 | Término da verificação | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> | <a href="https://github.com/Alef012" target="_blank">@Alef012</a>, <a href="https://github.com/lramon2001" target="_blank">@lramon2001</a> |
