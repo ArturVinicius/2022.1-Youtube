@@ -12,7 +12,6 @@
 
 <p align="justify">&emsp;&emsp;Ao analisarmos todo o material desenvolvido encontramos as seguintes funcionalidades como ainda não implementadas no aplicativo:</p>
 
-- RF020 - O criador de conteúdo deve ser capaz de adicionar legenda a um vídeo.
 - RF026 - O usuário deve ser capaz de enviar um superchat (comentário através de uma doação monetária).
 - RF030 - O criador de conteúdo deve ser capaz de ver as estatísticas de um vídeo postado.
 
@@ -22,36 +21,26 @@
 <p align="justify">&emsp;&emsp;Outro tipo de validação feita foi a comprovação informal, em que uma mensagem foi enviada a equipe do YouTube, a fim de entender, com os criadores e desenvolvedores dos produtos, se nosso projeto está correto em relação ao aplicativo.</p>
 
 ## 3. Prototipação
-### 3.1 RF020 - O usuário deve ser capaz de enviar um superchat (comentário através de uma doação monetária).
-<p align="justify">&emsp;&emsp;A figura 1 abaixo mostra a prototipação realizada acerca do requisito funcional com ID RF020: O criador de conteúdo deve ser capaz de adicionar legenda a um vídeo.</p>
-<center>
+### 3.1 RF026 - O usuário deve ser capaz de enviar um superchat (comentário através de uma doação monetária).
 
-<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Youtube/main/docs/media/validacao/rf020.png"/>
-
-<figcaption>Figura 1: </figcaption>
-
-</center>
-
-### 3.2 RF026 - O usuário deve ser capaz de enviar um superchat (comentário através de uma doação monetária).
-
-<p align="justify">&emsp;&emsp;A figura 2 abaixo mostra a prototipação realizada acerca do requisito funcional com ID RF026: O usuário deve ser capaz de enviar um superchat (comentário através de uma doação monetária).</p>
+<p align="justify">&emsp;&emsp;A figura 1 abaixo mostra a prototipação realizada acerca do requisito funcional com ID RF026: O usuário deve ser capaz de enviar um superchat (comentário através de uma doação monetária).</p>
 
 <center>
 
 <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Youtube/main/docs/media/validacao/rf026.png"/>
 
-<figcaption>Figura 2: Prototipação da funcionalidade de enviar um Super Chat. Autor: Paulo Henrique Almeida</figcaption>
+<figcaption>Figura 1: Prototipação da funcionalidade de enviar um Super Chat. Autor: Paulo Henrique Almeida</figcaption>
 
 </center>
 
-### 3.3 RF030 - O criador de conteúdo deve ser capaz de ver as estatísticas de um vídeo postado.
-<p align="justify">&emsp;&emsp;A figura 3 abaixo mostra a prototipação realizada acerca do requisito funcional com ID RF030: O criador de conteúdo deve ser capaz de ver as estatísticas de um vídeo postado.</p>
+### 3.2 RF030 - O criador de conteúdo deve ser capaz de ver as estatísticas de um vídeo postado.
+<p align="justify">&emsp;&emsp;A figura 2 abaixo mostra a prototipação realizada acerca do requisito funcional com ID RF030: O criador de conteúdo deve ser capaz de ver as estatísticas de um vídeo postado.</p>
 
 <center>
 
 <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Youtube/main/docs/media/validacao/rf030.png"/>
 
-<figcaption>Figura 3: Prototipação da funcionalidade de ver estatísticas de um vídeo postado. Autor: Victor Hugo Oliveira Leão</figcaption>
+<figcaption>Figura 2: Prototipação da funcionalidade de ver estatísticas de um vídeo postado. Autor: Victor Hugo Oliveira Leão</figcaption>
 
 </center>
 
@@ -63,7 +52,7 @@
 <center>
 <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Youtube/main/docs/media/validacao/validacao_contato_adp.png"/>
 
-<figcaption>Figura 4: Pergunta enviada via Ajuda do Youtube.</figcaption>
+<figcaption>Figura 3: Pergunta enviada via Ajuda do Youtube.</figcaption>
 
 Até o dia 16/08/2022 às 19:35, horário de Brasília, ainda não foram obtidas respostas.
 
@@ -74,7 +63,7 @@ Até o dia 16/08/2022 às 19:35, horário de Brasília, ainda não foram obtidas
 <center>
 <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Youtube/main/docs/media/validacao/validacao_contato_so.png"/>
 
-<figcaption>Figura 5: Pergunta enviada via Stack Overflow.</figcaption>
+<figcaption>Figura 4: Pergunta enviada via Stack Overflow.</figcaption>
 
 Até o dia 16/08/2022 às 19:35, horário de Brasília, ainda não foram obtidas respostas.
 
@@ -85,7 +74,7 @@ Até o dia 16/08/2022 às 19:35, horário de Brasília, ainda não foram obtidas
 <center>
 <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Youtube/main/docs/media/validacao/validacao_contato_tt.jpeg"/>
 
-<figcaption>Figura 6: Pergunta enviada via Twitter.</figcaption>
+<figcaption>Figura 5: Pergunta enviada via Twitter.</figcaption>
 
 Até o dia 16/08/2022 às 19:35, horário de Brasília, ainda não foram obtidas respostas.
 
