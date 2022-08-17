@@ -6,20 +6,35 @@
 <p align="justify">&emsp;&emsp;Em geral, busca responder as seguintes perguntas: o artefato está correto? É o que o cliente esperava? Dessa forma, fica evidente que o usuário/cliente tem participação esperada nesse momento.</p>
 
 ## 2. Metodologia
-<p align="justify">&emsp;&emsp;Entre as diversas formas de realizar a validação, a equipe utilizou, a priore, duas formas de tentar validar a documentação produzida. Sendo elas a prototipação e a validação ou comprovação informal.</p>
+
+### 2.1 Prototipação
+<p align="justify">&emsp;&emsp;Entre as diversas formas de realizar a validação, a equipe utilizou, primariamente a prototipação.</p>
 
 <p align="justify">&emsp;&emsp;Ao analisarmos todo o material desenvolvido encontramos as seguintes funcionalidades como ainda não implementadas no aplicativo:</p>
 
 - RF020 - O criador de conteúdo deve ser capaz de adicionar legenda a um vídeo.
 - RF026 - O usuário deve ser capaz de enviar um superchat (comentário através de uma doação monetária).
 - RF030 - O criador de conteúdo deve ser capaz de ver as estatísticas de um vídeo postado.
-- RF033 - O criador de conteúdo deve ser capaz de ver a monetização de seus vídeos.
 
 <p align="justify">&emsp;&emsp;A partir destas, desenvolvemos protótipos que correspondem a essas funcionalidades.</p>
 
-## 3. Prototipagem
+### 2.2 Comprovação Informal
+<p align="justify">&emsp;&emsp;Outro tipo de validação feita foi a comprovação informal, em que uma mensagem foi enviada a equipe do YouTube, a fim de entender, com os criadores e desenvolvedores dos produtos, se nosso projeto está correto em relação ao aplicativo.</p>
 
-## 4. Comprovação informal 
+## 3. Prototipação
+
+### 3.1 RF030 - O criador de conteúdo deve ser capaz de ver as estatísticas de um vídeo postado.
+<p align="justify">&emsp;&emsp;A figura 1 abaixo mostra a prototipação realizada acerca do requisito funcional com ID RF030: O criador de conteúdo deve ser capaz de ver as estatísticas de um vídeo postado.</p>
+
+<center>
+
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Youtube/main/docs/media/validacao/rf030.png"/>
+
+<figcaption>Figura 1: Prototipação da funcionalidade de ver estatísticas de um vídeo postado. Autor: Victor Hugo Oliveira Leão</figcaption>
+
+</center>
+
+## 4. Comprovação Informal 
 
 <p align="justify">&emsp;&emsp;Nesta etapa da validação nossa equipe tentou, de várias formas, contactar o time de desenvolvedores e colaboradores da <a href="https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#plataforma" target="_blank">plataforma</a> para que os mesmos nos devolvessem possíveis problemas encontrados na documentação produzida por nós. </p>
 
@@ -69,3 +84,4 @@ Requisitos](http://disciplinas.lia.ufc.br/engsof081/arquivos/ProcessosEngRequisi
 | 1.1    | 15/08/2022 | Correção do histórico de versão | <a href="https://github.com/owhenrique" target="_blank">@owhenrique</a> | <a href="https://github.com/Alef012" target="_blank">@Alef012</a> |
 | 1.2    | 16/08/2022 | Adição das etapas de comprovação informal via Ajuda do Youtube, Stack Overflow e Twitter | <a href="https://github.com/owhenrique" target="_blank">@owhenrique</a> | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> |
 | 1.3    | 16/08/2022 | Correções no texto de metodologia | <a href="https://github.com/owhenrique" target="_blank">@owhenrique</a> | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> |
+| 1.4    | 17/08/2022 | Adição da prototipação do requisito funcional rf030 | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> | <a href="https://github.com/owhenrique" target="_blank">@owhenrique</a> |
