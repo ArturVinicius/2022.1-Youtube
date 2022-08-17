@@ -109,24 +109,24 @@
 ### 3.12 Cenários
 | Item | Inspeção |
 | :-------    | :------: | 
-| Todos os cenários possuem títulos? | |
-| Todos os cenários possuem todos os elementos? (objetivo, contexto, atores, recursos, episódios e exceções) | |
-| O objetivo de todos os cenários é claro? | |
-| Os contextos foram bem definidos? (local e pré-condição) | |
-| Todos os recursos fazem sentido e são necessários? | |
-| A exceção é condizente com a realidade? | |
-| Os episódios são bem descritos? | |
-| Os cenários fazem sentido com os requisitos? | |
+| Todos os cenários possuem títulos? | Sim |
+| Todos os cenários possuem todos os elementos? (objetivo, contexto, atores, recursos, episódios e exceções) | Sim |
+| O objetivo de todos os cenários é claro? | Sim |
+| Os contextos foram bem definidos? (local e pré-condição) | Sim |
+| Todos os recursos fazem sentido e são necessários? | Sim |
+| A exceção é condizente com a realidade? | Sim |
+| Os episódios são bem descritos? | Sim |
+| Os cenários fazem sentido com os requisitos? | Sim |
 | Todos os léxicos estão linkados? | Sim | 
 
 ### 3.13 Léxicos
 | Item | Inspeção |
 | :-------    | :------: | 
-| Os léxicos estão divididos entre estado, objeto e verbo? | |
-| Os nomes são condizentes? | |
-| Todos os léxicos possuem sinônimos corretos? | |
-| Todos os léxicos tem impactos relacionados a eles? | |
-| As noções de todos os léxicos fazem sentido com eles? | |
+| Os léxicos estão divididos entre estado, objeto e verbo? | Sim |
+| Os nomes são condizentes? | Sim |
+| Todos os léxicos possuem sinônimos corretos? | Sim |
+| Todos os léxicos tem impactos relacionados a eles? | Sim |
+| As noções de todos os léxicos fazem sentido com eles? | SIm |
 | Todos os léxicos estão linkados entre si? | Sim | 
 
 ### 3.14 Casos de Uso
@@ -185,3 +185,4 @@
 | 1.0    | 14/08/2022 | Início do documento com introdução, metodologia, checklists | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> | <a href="https://github.com/Alef012" target="_blank">@Alef012</a>, <a href="https://github.com/CDGodoy" target="_blank">@CDGodoy</a> |
 | 1.1    | 15/08/2022 | Correção do histórico de versão | <a href="https://github.com/owhenrique" target="_blank">@owhenrique</a> | <a href="https://github.com/Alef012" target="_blank">@Alef012</a> |
 | 1.2    | 15/08/2022 | Verificação os itens Rich Picture, Personas e Brainstorm e Caso de Uso | <a href="https://github.com/owhenrique" target="_blank">@owhenrique</a> | <a href="https://github.com/Alef012" target="_blank">@Alef012</a> |
+| 1.3    | 17/08/2022 | Verificação dos itens: Cenários e Léxicos | <a href="https://github.com/Alef012" target="_blank">@Alef012</a> | <a href="https://github.com/lramon2001" target="_blank">@lramon2001</a> |
