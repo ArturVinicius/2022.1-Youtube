@@ -86,16 +86,16 @@
 ### 3.9 MoSCoW
 | Item | Inspeção |
 | :-------    | :------: | 
-| Todos os requisitos elicitados tiveram sua prioridade selecionada? | |
-| Há uma descrição de cada um dos tipos de prioridade? (Must, Should, Could e Would) | |
+| Todos os requisitos elicitados tiveram sua prioridade selecionada? | Sim|
+| Há uma descrição de cada um dos tipos de prioridade? (Must, Should, Could e Would) |Sim|
 | O usuário que fez parte da priorização foi identificado? | Não |
 
 ### 3.10 100 Dólares
 | Item | Inspeção |
 | :-------    | :------: | 
-| Todos os requisitos elicitados tiveram sua prioridade feita? | |
+| Todos os requisitos elicitados tiveram sua prioridade feita? |Sim |
 | O usuário que fez parte da priorização foi identificado? | Não |
-| A soma de todos os valores atribuídos é de 100? | |
+| A soma de todos os valores atribuídos é de 100? |Sim|
 
 ### 3.11 Resultado Elicitação
 | Item | Inspeção |
