@@ -12,10 +12,6 @@
 
 <p align="justify">&emsp;&emsp; Para os requisitos não-funcionais, foram explicitados em quais das categorias da sigla <a href="https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/espsup/" target="_blank">FURPS+</a> eles se encaixam.</p>
 
-[Espectador](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#espectador) |
-[Criador de Conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#criador-conteudo) |
-[Ambos](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) |
-
 
 ## 3. Requisitos Funcionais
 | ID  | Requisito | Perfil de Usuário | Técnica |
