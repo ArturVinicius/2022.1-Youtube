@@ -93,7 +93,6 @@
 | RF075 | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve indicar se seu [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) é conteúdo infantil ou não | [Criador de Conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#criador-conteudo) | [Introspecção](https://requisitos-de-software.github.io/2022.1-Youtube/elicitacao/tecnicas/introspeccao/) |
 
 ## 4. Requisitos Não-Funcionais
-### 2.2 Requisitos Não-Funcionais
 | ID  | Requisito | Categoria | Técnica |
 | :-: | :-------- | :-------: | :-----: |
 | RNF01  | O sistema deve ser disponível para os principais sistemas operacionais mobile, como Android e iOS | Suportabilidade | [Brainstorm](https://requisitos-de-software.github.io/2022.1-Youtube/elicitacao/tecnicas/brainstorm/)<br/>[Introspecção](https://requisitos-de-software.github.io/2022.1-Youtube/elicitacao/tecnicas/introspeccao/)<br/>[Entrevista](https://requisitos-de-software.github.io/2022.1-Youtube/elicitacao/tecnicas/entrevista/) |
