@@ -43,4 +43,6 @@ nav:
   - Análise:
     - Verificação: analise/verificacao.md
     - Validação: analise/validacao.md
+  - Rastreabilidade:
+    - Backward-From: rastreabilidade/backward.md
   - Apresentações: apresentacao.md
