@@ -101,20 +101,20 @@
 
 
 ## 4. Requisitos Não-Funcionais
-| ID | Requisito | Épico | Feature | Histórias de Usuário | Cenário | Casos de Uso |
-| -- | --------- | ----- | ------- | -------------------- |---------|--------------|
-| RNF01  | O sistema deve ser disponível para os principais sistemas operacionais mobile, como Android e iOS | - | - | - | - | - |
-| RNF02  | O sistema deve recomendar novos [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s na tela de um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video). | EPC02 | FTR05 | US15 | CN01 | 2UC04 |
-| RNF03  | O sistema deve recomendar [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s na tela inicial do aplicativo. | EPC04 | FTR08 | US29 | CN01 | 2UC04 |
-| RNF04  | O sistema deve mostrar a opção de ativar modo de navegação anônima. | EPC01 | FTR02 | US04 | - | - |
-| RNF05 | O sistema deve proporcionar a opção de reprodução automática que reproduza [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s relacionados ao atual. | - | - | - | - | - |
-| RNF06 | O sistema deve proporcionar uma barra de pesquisa, com acessibilidade por voz, que funcione com exatidão de busca. | EPC04 | FTR09 | US31 | CN14 | 2UC05 |
-| RNF07 | O sistema deve proporcionar a maior quantidade de [qualidade](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#qualidade)s de [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) possível. | EPC03 | FTR05 | US20 | CN11 | 2UC10 |
-| RNF08 | Ao clicar em "Salvar" na tela de um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video), o sistema deve adicionar automaticamente o [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) a uma [playlist](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#playlist) "[Assistir](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#assistir) mais tarde" | EPC03 | FTR07 | US27 | CN07 | - |
-| RNF09 | O sistema deve dar apoio para criadores de conteúdo | EPC02 | FTR03 | US06, US07, US08, US09 | CN22, CN23, CN24, CN25 | 1UC01, 1UC02, 1UC03, 1UC04, 1UC05, 1UC06, 1UC07, 1UC08, 1UC09, 1UC10 |
-| RNF10 | O sistema deve proporcionar a integração entre plataformas | EPC01 | FTR02 | US03 | - | - |
-| RNF11 | O sistema deve ter um design direcionado aos [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s (praticidade) | EPC04 | FTR08, FTR09 | US29, US30, US31 | CN01 | 2UC04, 2UC05 |
-| RNF12 | O sistema deve oferecer um modo escuro para o aplicativo | EPC01 | FTR02 | US05 | - | - |
+| ID | Requisito | Especificação Suplementar | Épico | Feature | Histórias de Usuário | Cenário | Casos de Uso |
+| -- | --------- | -------------- | ----- | ------- | -------------------- |---------|--------------|
+| RNF01  | O sistema deve ser disponível para os principais sistemas operacionais mobile, como Android e iOS | Suportabilidade | - | - | - | - | - |
+| RNF02  | O sistema deve recomendar novos [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s na tela de um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video). | Usabilidade | EPC02 | FTR05 | US15 | CN01 | 2UC04 |
+| RNF03  | O sistema deve recomendar [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s na tela inicial do aplicativo. | Usabilidade | EPC04 | FTR08 | US29 | CN01 | 2UC04 |
+| RNF04  | O sistema deve mostrar a opção de ativar modo de navegação anônima. | Usabilidade | EPC01 | FTR02 | US04 | - | - |
+| RNF05 | O sistema deve proporcionar a opção de reprodução automática que reproduza [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s relacionados ao atual. | Usabilidade | - | - | - | - | - |
+| RNF06 | O sistema deve proporcionar uma barra de pesquisa, com acessibilidade por voz, que funcione com exatidão de busca. | Usabilidade | EPC04 | FTR09 | US31 | CN14 | 2UC05 |
+| RNF07 | O sistema deve proporcionar a maior quantidade de [qualidade](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#qualidade)s de [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) possível. | Performance | EPC03 | FTR05 | US20 | CN11 | 2UC10 |
+| RNF08 | Ao clicar em "Salvar" na tela de um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video), o sistema deve adicionar automaticamente o [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) a uma [playlist](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#playlist) "[Assistir](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#assistir) mais tarde" | Usabilidade | EPC03 | FTR07 | US27 | CN07 | - |
+| RNF09 | O sistema deve dar apoio para criadores de conteúdo | Usabilidade | EPC02 | FTR03 | US06, US07, US08, US09 | CN22, CN23, CN24, CN25 | 1UC01, 1UC02, 1UC03, 1UC04, 1UC05, 1UC06, 1UC07, 1UC08, 1UC09, 1UC10 |
+| RNF10 | O sistema deve proporcionar a integração entre plataformas |Suportabilidade | EPC01 | FTR02 | US03 | - | - |
+| RNF11 | O sistema deve ter um design direcionado aos [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s (praticidade) | Usabilidade | EPC04 | FTR08, FTR09 | US29, US30, US31 | CN01 | 2UC04, 2UC05 |
+| RNF12 | O sistema deve oferecer um modo escuro para o aplicativo | Usabilidade | EPC01 | FTR02 | US05 | - | - |
 
 ## 5. Referências
 >- SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 26. Acesso em: 20 de ago. de 2022. Disponível em: Aprender3. 
@@ -127,3 +127,4 @@
 | 1.1 | 23/08/2022 | Adição completa dos requisitos funcionais e parcial dos requisitos não funcionais | <a href="https://github.com/victorleaoo" target="_blank">@owhenrique</a> | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> |
 | 1.2 | 24/08/2022 | Adição completa dos requisitos não funcionais | <a href="https://github.com/victorleaoo" target="_blank">@owhenrique</a> | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> |
 | 1.3 | 24/08/2022 | Adição de alguns links para prints de funcionalidades | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> | <a href="https://github.com/victorleaoo" target="_blank">@owhenrique</a> |
+| 1.4 | 24/08/2022 | Categoria Especificação Suplementar nos não-funcionais | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> | <a href="https://github.com/victorleaoo" target="_blank">@owhenrique</a> |
