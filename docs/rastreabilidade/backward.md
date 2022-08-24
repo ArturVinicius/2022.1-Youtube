@@ -10,9 +10,6 @@
 
 <p align="justify">&emsp;&emsp; Além disso, como todos os artefatos e requisitos funcionais e não-funcionais foram desenvolvidos tendo a visão de dois tipos de <a href="https://requisitos-de-software.github.io/2022.1-Youtube/elicitacao/perfil/" target="_blank">perfis de usuário</a> (os espectadores e os criadores de conteúdo), também foram linkados os requisitos aos seus tipos de usuário ou para ambos, se fosse o caso.</p>
 
-<p align="justify">&emsp;&emsp; Para os requisitos não-funcionais, foram explicitados em quais das categorias da sigla <a href="https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/espsup/" target="_blank">FURPS+</a> eles se encaixam.</p>
-
-
 ## 3. Requisitos Funcionais
 | ID  | Requisito | Perfil de Usuário | Técnica |
 | :-: | :-------- | :---------------: | :-----: |

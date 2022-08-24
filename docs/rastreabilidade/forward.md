@@ -10,6 +10,8 @@
 
 <p align="justify">&emsp;&emsp; O aplicativo escolhido pela equipe não é um Open-Source Software, logo não tivemos acesso ao código fonte, então só foi possível relacionar os requisitos às funcionalidades já implementadas. Para isso, foram colocados links com os prints (ou gifs) referenciando as funcionalidades já aplicadas no aplicativo ou prototipada pela equipe.</p>
 
+<p align="justify">&emsp;&emsp; Para os requisitos não-funcionais, também foram explicitados em quais das categorias da sigla <a href="https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/espsup/" target="_blank">FURPS+</a> eles se encaixam.</p>
+
 ### 2.1 Legendas 
 
 >- RFXX: Requisito Funcional
