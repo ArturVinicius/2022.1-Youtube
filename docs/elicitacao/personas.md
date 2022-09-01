@@ -11,6 +11,7 @@ As imagens utilizadas foram obtidas pelo site ThisPersonDoesNotExist.
 O formato para a criação das personas foi inspirada no encontrado no site usability.gov.
 
 ### 2.1 Persona 1 - Primária
+|     |    |
 | :-: | :- |
 | **Foto** | <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/personas/persona1.jpg" width="128" height="128"/> |
 | **Nome** | Eduardo Nascimento |
@@ -22,6 +23,7 @@ O formato para a criação das personas foi inspirada no encontrado no site usab
 | **Frase** | “Só durmo quando terminar esse exercício” ou “Só durmo quando matar esse chefão”. |
 
 ### 2.2 Persona 2 - Primária
+|     |    |
 | :-: | :- |
 | **Foto** | <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/personas/persona2.jpg" width="128" height="128"/> |
 | **Nome** | Fernanda Santos |
@@ -33,6 +35,7 @@ O formato para a criação das personas foi inspirada no encontrado no site usab
 | **Frase** | “Meteu essa?” ou “Vasco e nada mais.”. |
 
 ### 2.3 Persona 3 - Primária
+|     |    |
 | :-: | :- |
 | **Foto** | <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/personas/persona3.jpg" width="128" height="128"/> |
 | **Nome** | Roberto Pattinson |
