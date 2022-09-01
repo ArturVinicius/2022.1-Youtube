@@ -21,6 +21,9 @@
 <p align="justify">&emsp;&emsp;Outro tipo de validação feita foi a comprovação informal, em que uma mensagem foi enviada a equipe do YouTube, a fim de entender, com os criadores e desenvolvedores dos produtos, se nosso projeto está correto em relação ao aplicativo.</p>
 
 ## 3. Prototipação
+
+<div id="superchat"></div>
+
 ### 3.1 RF026 - O usuário deve ser capaz de enviar um superchat (comentário através de uma doação monetária).
 
 <p align="justify">&emsp;&emsp;A figura 1 abaixo mostra a prototipação realizada acerca do requisito funcional com ID RF026: O usuário deve ser capaz de enviar um superchat (comentário através de uma doação monetária).</p>
@@ -32,6 +35,8 @@
 <figcaption>Figura 1: Prototipação da funcionalidade de enviar um Super Chat. Autor: Paulo Henrique Almeida</figcaption>
 
 </center>
+
+<div id="stats-video"></div>
 
 ### 3.2 RF030 - O criador de conteúdo deve ser capaz de ver as estatísticas de um vídeo postado.
 <p align="justify">&emsp;&emsp;A figura 2 abaixo mostra a prototipação realizada acerca do requisito funcional com ID RF030: O criador de conteúdo deve ser capaz de ver as estatísticas de um vídeo postado.</p>

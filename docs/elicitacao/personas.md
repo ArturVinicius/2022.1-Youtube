@@ -10,8 +10,7 @@ As imagens utilizadas foram obtidas pelo site ThisPersonDoesNotExist.
 
 O formato para a criação das personas foi inspirada no encontrado no site usability.gov.
 
-### 2.1 Persona 1
-|     |    |
+### 2.1 Persona 1 - Primária
 | :-: | :- |
 | **Foto** | <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/personas/persona1.jpg" width="128" height="128"/> |
 | **Nome** | Eduardo Nascimento |
@@ -22,8 +21,7 @@ O formato para a criação das personas foi inspirada no encontrado no site usab
 | **Expectativas** | Eduardo espera encontrar no YouTube vídeos ou cursos gratuitos relacionados a conteúdos extracurriculares, para que possa expandir seu conhecimento e criar Softwares para uso próprio. |
 | **Frase** | “Só durmo quando terminar esse exercício” ou “Só durmo quando matar esse chefão”. |
 
-### 2.2 Persona 2
-|     |    |
+### 2.2 Persona 2 - Primária
 | :-: | :- |
 | **Foto** | <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/personas/persona2.jpg" width="128" height="128"/> |
 | **Nome** | Fernanda Santos |
@@ -34,8 +32,7 @@ O formato para a criação das personas foi inspirada no encontrado no site usab
 | **Expectativas** | Fernanda espera encontrar no YouTube vídeos do Casé reagindo a preparos de pratos coreanos, vídeos do VASCO TV , vídeos motivacionais e relatos de pessoas que se tornaram juízes federais. |
 | **Frase** | “Meteu essa?” ou “Vasco e nada mais.”. |
 
-### 2.3 Persona 3
-|     |    |
+### 2.3 Persona 3 - Primária
 | :-: | :- |
 | **Foto** | <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/personas/persona3.jpg" width="128" height="128"/> |
 | **Nome** | Roberto Pattinson |
@@ -46,7 +43,7 @@ O formato para a criação das personas foi inspirada no encontrado no site usab
 | **Expectativas** | Roberto espera conseguir divulgar seus vídeos gravados no YouTube para que seu conhecimento compartilhado chegue ao maior número de pessoas possível. |
 | **Frase** | “Bazinga”, “EUREKA”, “Acabou o café”. |
 
-### 2.4 Persona 4
+### 2.4 Persona 4 - Secundária
 |     |    |
 | :-: | :- |
 | **Foto** | <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/personas/persona4.jpg" width="128" height="128"/> |
@@ -58,7 +55,7 @@ O formato para a criação das personas foi inspirada no encontrado no site usab
 | **Expectativas** | Roger espera encontrar no YouTube, vídeos sobre tecnologias e ferramentas que pretende utilizar em seus projetos, economizando seu tempo de prototipação. |
 | **Frase** | “Arredonda para três”, “No desenho encaixava”. |
 
-### 2.4 Persona 5
+### 2.4 Persona 5 - Primária
 |     |    |
 | :-: | :- |
 | **Foto** | <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/personas/persona5.jpg" width="128" height="128"/> |
@@ -70,7 +67,7 @@ O formato para a criação das personas foi inspirada no encontrado no site usab
 | **Expectativas** | Enzo espera encontrar no youtube vários vídeos de seus jogos favoritos assim como episódios de seus desenhos prediletos. |
 | **Frase** | “Porque isso acontece mãe?”, “coloca o desenho pra mim pai”. |
 
-### 2.4 Persona 6
+### 2.4 Persona 6 - Secundária
 |     |    |
 | :-: | :- |
 | **Foto** | <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/personas/persona6.jpg" width="128" height="128"/> |
@@ -108,3 +105,4 @@ O formato para a criação das personas foi inspirada no encontrado no site usab
 | 1.1    | 05/07/2022 | Adição de mais personas no elenco de personas e anti-persona. |  <a href="https://github.com/owhenrique" target="_blank">@owhenrique</a>, <a href="https://github.com/B3holder2" target="_blank">@B3holder2</a> | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a>, <a href="https://github.com/lramon2001" target="_blank">@lramon2001</a>, <a href="https://github.com/Alef012" target="_blank">@Alef012</a>, <a href="https://github.com/CDGodoy" target="_blank">@CDGodoy</a> |
 | 1.2    | 24/07/2022 | Adição de links dos githubs no <a href="https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#historico" target="_blank">histórico</a> de versões | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> | <a href="https://github.com/owhenrique" target="_blank">@owhenrique</a> | 
 | 1.3    | 25/07/2022 | Correção dos links dos githubs no <a href="https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#historico" target="_blank">histórico</a> de versões | <a href="https://github.com/owhenrique" target="_blank">@owhenrique</a> | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> | 
+| 1.4    | 01/09/2022 | Adição do nível das personas (primária, secundária ou anti-persona) | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> | <a href="https://github.com/lramon2001" target="_blank">@lramon2001</a>, <a href="https://github.com/Alef012" target="_blank">@Alef012</a> |
