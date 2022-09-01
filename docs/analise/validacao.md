@@ -28,7 +28,7 @@
 
 <div id="excluir-canal"></div>
 
-# 3.1 RF09 - O usuário deve ser capaz de excluir um canal.
+### 3.1 RF09 - O usuário deve ser capaz de excluir um canal.
 
 <p align="justify">&emsp;&emsp;A figura 1 abaixo mostra a prototipação realizada acerca do requisito funcional com ID RF09: O usuário deve ser capaz de excluir um canal.</p>
 
@@ -42,7 +42,7 @@
 
 <div id="add-legenda"></div>
 
-# 3.2 RF020 - O criador de conteúdo deve ser capaz de adicionar legenda a um vídeo.
+### 3.2 RF020 - O criador de conteúdo deve ser capaz de adicionar legenda a um vídeo.
 
 <p align="justify">&emsp;&emsp;A figura 2 abaixo mostra a prototipação realizada acerca do requisito funcional com ID RF020: O criador de conteúdo deve ser capaz de adicionar legenda a um vídeo.</p>
 
