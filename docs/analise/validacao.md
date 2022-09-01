@@ -12,8 +12,12 @@
 
 <p align="justify">&emsp;&emsp;Ao analisarmos todo o material desenvolvido encontramos as seguintes funcionalidades como ainda não implementadas no aplicativo:</p>
 
+- RF09 - O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve ser capaz de excluir um [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal).
+- RF020 - O [criador de conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#criador-conteudo) deve ser capaz de adicionar [legenda](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#legenda) a um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video).
 - RF026 - O usuário deve ser capaz de enviar um superchat (comentário através de uma doação monetária).
 - RF030 - O criador de conteúdo deve ser capaz de ver as estatísticas de um vídeo postado.
+- RF033 - O [criador de conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#criador-conteudo) deve ser capaz de ver a monetização de seus [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s.
+- RF035 - O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve poder adicionar um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) à [fila de reprodução](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#fila).
 
 <p align="justify">&emsp;&emsp;A partir destas, desenvolvemos protótipos que correspondem a essas funcionalidades.</p>
 
@@ -22,30 +26,84 @@
 
 ## 3. Prototipação
 
+<div id="excluir-canal"></div>
+
+# 3.1 RF09 - O usuário deve ser capaz de excluir um canal.
+
+<p align="justify">&emsp;&emsp;A figura 1 abaixo mostra a prototipação realizada acerca do requisito funcional com ID RF09: O usuário deve ser capaz de excluir um canal.</p>
+
+<center>
+
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Youtube/main/docs/media/validacao/rf09.png"/>
+
+<figcaption>Figura 1: Prototipação da funcionalidade de excluir um canal. Autor: Victor Hugo Oliveira Leão</figcaption>
+
+</center>
+
+<div id="add-legenda"></div>
+
+# 3.2 RF020 - O criador de conteúdo deve ser capaz de adicionar legenda a um vídeo.
+
+<p align="justify">&emsp;&emsp;A figura 2 abaixo mostra a prototipação realizada acerca do requisito funcional com ID RF020: O criador de conteúdo deve ser capaz de adicionar legenda a um vídeo.</p>
+
+<center>
+
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Youtube/main/docs/media/validacao/rf020.png"/>
+
+<figcaption>Figura 2: Prototipação da funcionalidade de adicionar legenda a um vídeo. Autor: Victor Hugo Oliveira Leão</figcaption>
+
+</center>
+
 <div id="superchat"></div>
 
-### 3.1 RF026 - O usuário deve ser capaz de enviar um superchat (comentário através de uma doação monetária).
+### 3.3 RF026 - O usuário deve ser capaz de enviar um superchat (comentário através de uma doação monetária).
 
-<p align="justify">&emsp;&emsp;A figura 1 abaixo mostra a prototipação realizada acerca do requisito funcional com ID RF026: O usuário deve ser capaz de enviar um superchat (comentário através de uma doação monetária).</p>
+<p align="justify">&emsp;&emsp;A figura 3 abaixo mostra a prototipação realizada acerca do requisito funcional com ID RF026: O usuário deve ser capaz de enviar um superchat (comentário através de uma doação monetária).</p>
 
 <center>
 
 <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Youtube/main/docs/media/validacao/rf026.png"/>
 
-<figcaption>Figura 1: Prototipação da funcionalidade de enviar um Super Chat. Autor: Paulo Henrique Almeida</figcaption>
+<figcaption>Figura 3: Prototipação da funcionalidade de enviar um Super Chat. Autor: Paulo Henrique Almeida</figcaption>
 
 </center>
 
 <div id="stats-video"></div>
 
-### 3.2 RF030 - O criador de conteúdo deve ser capaz de ver as estatísticas de um vídeo postado.
-<p align="justify">&emsp;&emsp;A figura 2 abaixo mostra a prototipação realizada acerca do requisito funcional com ID RF030: O criador de conteúdo deve ser capaz de ver as estatísticas de um vídeo postado.</p>
+### 3.4 RF030 - O criador de conteúdo deve ser capaz de ver as estatísticas de um vídeo postado.
+<p align="justify">&emsp;&emsp;A figura 4 abaixo mostra a prototipação realizada acerca do requisito funcional com ID RF030: O criador de conteúdo deve ser capaz de ver as estatísticas de um vídeo postado.</p>
 
 <center>
 
 <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Youtube/main/docs/media/validacao/rf030.png"/>
 
-<figcaption>Figura 2: Prototipação da funcionalidade de ver estatísticas de um vídeo postado. Autor: Victor Hugo Oliveira Leão</figcaption>
+<figcaption>Figura 4: Prototipação da funcionalidade de ver estatísticas de um vídeo postado. Autor: Victor Hugo Oliveira Leão</figcaption>
+
+</center>
+
+<div id="monetizacao"></div>
+
+### 3.5 RF033 - O criador de conteúdo deve ser capaz de ver a monetização de seus vídeos.
+<p align="justify">&emsp;&emsp;A figura 5 abaixo mostra a prototipação realizada acerca do requisito funcional com ID RF033: O criador de conteúdo deve ser capaz de ver a monetização de seus vídeos.</p>
+
+<center>
+
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Youtube/main/docs/media/validacao/rf033.png"/>
+
+<figcaption>Figura 5: Prototipação da funcionalidade de ver a monetização. Autor: Victor Hugo Oliveira Leão</figcaption>
+
+</center>
+
+<div id="fila"></div>
+
+### 3.6 RF035 - O usuário deve poder adicionar um vídeo à fila de reprodução.
+<p align="justify">&emsp;&emsp;A figura 6 abaixo mostra a prototipação realizada acerca do requisito funcional com ID RF035: O usuário deve poder adicionar um vídeo à fila de reprodução.</p>
+
+<center>
+
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Youtube/main/docs/media/validacao/rf035.png"/>
+
+<figcaption>Figura 6: Prototipação da funcionalidade de adicionar vídeo à fila de reprodução. Autor: Victor Hugo Oliveira Leão</figcaption>
 
 </center>
 
@@ -102,3 +160,4 @@ Requisitos](http://disciplinas.lia.ufc.br/engsof081/arquivos/ProcessosEngRequisi
 | 1.4    | 17/08/2022 | Adição da prototipação do requisito funcional rf030 | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> | <a href="https://github.com/owhenrique" target="_blank">@owhenrique</a> |
 | 1.5    | 17/08/2022 | Adição da prototipação do requisito funcional rf026 | <a href="https://github.com/owhenrique" target="_blank">@owhenrique</a> | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> |
 | 1.6    | 17/08/2022 | Correção dos números das figuras | <a href="https://github.com/owhenrique" target="_blank">@owhenrique</a> | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> |
+| 1.7    | 01/09/2022 | Adição de protótipos que estavam faltando | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a>  | <a href="https://github.com/owhenrique" target="_blank">@owhenrique</a> |
