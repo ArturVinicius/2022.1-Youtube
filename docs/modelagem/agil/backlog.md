@@ -70,7 +70,7 @@
 | US04 | Usuário   | Acessar o modo de navegação anônimo | ter um acesso mais restrito ao aplicativo | - O usuário deve clicar no botão "modo de navegação anônima" nas suas configurações<br/>- O aplicativo deve explicar as mudanças que o modo de navegação anônima tem para com o modo normal | Baixa |
 | US05 | Usuário   | Mudar o modo de acordo com claridade (clara e escura) | ter um aplicativo com design noturno | - O usuário deve clicar no botão "geral" nas suas configurações<br/>- O usuário pode escolher enter a aparência escura ou a clara | Baixa |
 
-<div id="epico-1"></div>
+<div id="epico-2"></div>
 
 ### 3.2. [EPC02] Épico - Criação de Conteúdo
 
