@@ -16,8 +16,12 @@ Esse documento orienta-se pelo FURPS+.
 ## 2. FURPS+
 O FURPS+ é um modelo em que cada letra entende-se por uma categoria de requisitos.
 
+<div id="func"></div>
+
 ### 2.1 F - Funcionality - Funcionalidade
 São requisitos relacionados à especificação das funcionalidades do sistema. Eles já foram [elicitados](https://requisitos-de-software.github.io/2022.1-Youtube/elicitacao/resultado/) e também podem ser encontrados como [casos de uso](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/casouso/) e [cenários](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/cenarios/).
+
+<div id="usab"></div>
 
 ### 2.2 U - Usability - Usabilidade
 São requisitos relacionados a interface com o [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario). Exemplos:
@@ -28,6 +32,8 @@ São requisitos relacionados a interface com o [usuário](https://requisitos-de-
 - Padrões.
 - Documentação.
 
+<div id="conf"></div>
+
 ### 2.3 R - Reliability - Confiabilidade
 São requisitos relacionados à integridade e interoperabilidade (comunicação com outros sistemas) do software. Exemplos:
 
@@ -36,6 +42,8 @@ São requisitos relacionados à integridade e interoperabilidade (comunicação 
 - Duração da falha.
 - Estabilidade.
 
+<div id="perf"></div>
+
 ### 2.4 P - Performance - Performance
 São requisitos relacionados ao desempenho do software. Exemplos:
 
@@ -43,6 +51,8 @@ São requisitos relacionados ao desempenho do software. Exemplos:
 - Consumo de recursos.
 - Escalabilidade.
 - Disponibilidade.
+
+<div id="supo"></div>
 
 ### 2.5 S - Suportability - Suportabilidade
 São requisitos relacionados a capacidade de suporte do software, tanto para consigo mesmo, quanto para o [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario). Exemplos:
@@ -53,6 +63,8 @@ São requisitos relacionados a capacidade de suporte do software, tanto para con
 - Compatibilidade.
 - Instalabilidade.
 - Portabilidade.
+
+<div id="mais"></div>
 
 ### 2.6 +
 Com a evolução do FURPS, foram encontradas algumas outras categorias para requisitos de software, tais como:

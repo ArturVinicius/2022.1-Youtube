@@ -18,6 +18,8 @@ Após a listagem dos cenários identificados pela equipe, eles foram detalhados 
 
 ## 3. Cenários
 
+<div id="cenario-1"></div>
+
 ### 3.1 Cenário 1 - [Assistir](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#assistir) a um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)
 | Elemento | Descrição |
 | :------: | :-------- |
@@ -28,6 +30,8 @@ Após a listagem dos cenários identificados pela equipe, eles foram detalhados 
 | Recursos | - [Dispositivo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#dispositivo) celular com conexão à internet<br/>- Acesso ao aplicativo YouTube |
 | Episódios| 1. O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) [clica](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#clicar) em um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)<br/>2. O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario), caso o [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) esteja pausado, [clica](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#clicar) no botão de [play](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#play) |
 | Exceções | 1. O [dispositivo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#dispositivo) desconectar da internet<br/>2. Acabar a bateria do [dispositivo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#dispositivo) |
+
+<div id="cenario-2"></div>
 
 ### 3.2 Cenário 2 - Avaliar um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)
 | Elemento | Descrição |
@@ -40,6 +44,8 @@ Após a listagem dos cenários identificados pela equipe, eles foram detalhados 
 | Episódios| 1. O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) [clica](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#clicar) em um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)<br/>2. O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) [clica](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#clicar) no ícone de "[curtir](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#curtir)" ou "não [curtir](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#curtir)" do [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) |
 | Exceções | 1. O [dispositivo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#dispositivo) desconectar da internet<br/>2. Acabar a bateria do [dispositivo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#dispositivo) |
 
+<div id="cenario-3"></div>
+
 ### 3.3 Cenário 3 - Comentar em um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)
 | Elemento | Descrição |
 | :------: | :-------- |
@@ -50,6 +56,8 @@ Após a listagem dos cenários identificados pela equipe, eles foram detalhados 
 | Recursos | - [Dispositivo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#dispositivo) celular com conexão à internet<br/>- Acesso ao aplicativo YouTube |
 | Episódios| 1. O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) [clica](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#clicar) em um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)<br/>2. O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) abre a aba de [comentário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#comentario)s de um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)<br/>3. O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) escreve seu [comentário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#comentario) na área designada<br/>4. O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) [clica](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#clicar) em "enviar" para [postar](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#postar) seu [comentário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#comentario)|
 | Exceções | 1. O [dispositivo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#dispositivo) desconectar da internet<br/>2. Acabar a bateria do [dispositivo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#dispositivo) |
+
+<div id="cenario-4"></div>
 
 ### 3.4 Cenário 4 - [Inscrever](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#inscrever)-se em um [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal)
 | Elemento | Descrição |
@@ -62,6 +70,8 @@ Após a listagem dos cenários identificados pela equipe, eles foram detalhados 
 | Episódios| 1. O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) [clica](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#clicar) em um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)<br/>2. O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) [clica](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#clicar) no botão "[inscrever](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#inscrever)" ao lado do nome do [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal)<br/>1. O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) [clica](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#clicar) em um [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal)<br/>2. O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) [clica](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#clicar) no botão "[inscrever](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#inscrever)" abaixo da foto do [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal), na página inicial do [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal)|
 | Exceções | 1. O [dispositivo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#dispositivo) desconectar da internet<br/>2. Acabar a bateria do [dispositivo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#dispositivo) |
 
+<div id="cenario-5"></div>
+
 ### 3.5 Cenário 5 - [Compartilhar](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#compartilhar) um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)
 | Elemento | Descrição |
 | :------: | :-------- |
@@ -72,6 +82,8 @@ Após a listagem dos cenários identificados pela equipe, eles foram detalhados 
 | Recursos | - [Dispositivo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#dispositivo) celular com conexão à internet<br/>- Acesso ao aplicativo YouTube |
 | Episódios| 1. O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) [clica](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#clicar) em um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)<br/>2. O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) [clica](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#clicar) no botão de "[Compartilhar](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#compartilhar)"<br/>3. O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) seleciona a rede social que deseja [compartilhar](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#compartilhar) o [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) |
 | Exceções | 1. O [dispositivo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#dispositivo) desconectar da internet<br/>2. Acabar a bateria do [dispositivo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#dispositivo) |
+
+<div id="cenario-6"></div>
 
 ### 3.6 Cenário 6 - Criar uma [Playlist](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#playlist)
 | Elemento | Descrição |
@@ -84,6 +96,8 @@ Após a listagem dos cenários identificados pela equipe, eles foram detalhados 
 | Episódios| 1. O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) abre a aba "biblioteca" na área inferior da tela<br/>2. O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) [clica](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#clicar) no botão de "Nova [Playlist](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#playlist)"<br/>3. O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) seleciona os [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s que farão parte da [playlist](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#playlist)<br/>4. O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) coloca o nome da [playlist](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#playlist)<br/>5. O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) decide a [privacidade](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#privacidade) de [playlist](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#playlist)<br/>6. O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) cria a [playlist](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#playlist) |
 | Exceções | 1. O [dispositivo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#dispositivo) desconectar da internet<br/>2. Acabar a bateria do [dispositivo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#dispositivo) |
 
+<div id="cenario-7"></div>
+
 ### 3.7 Cenário 7 - Adicionar [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) a uma [playlist](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#playlist)
 | Elemento | Descrição |
 | :------: | :-------- |
@@ -94,6 +108,8 @@ Após a listagem dos cenários identificados pela equipe, eles foram detalhados 
 | Recursos | - [Dispositivo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#dispositivo) celular com conexão à internet<br/>- Acesso ao aplicativo YouTube |
 | Episódios| 1. O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) [clica](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#clicar) em um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)<br/>2. O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) pressiona o botão de "Salvar"<br/>3. O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) seleciona a [playlist](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#playlist) em que quer adicionar o [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) |
 | Exceções | 1. O [dispositivo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#dispositivo) desconectar da internet<br/>2. Acabar a bateria do [dispositivo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#dispositivo) |
+
+<div id="cenario-8"></div>
 
 ### 3.8 Cenário 8 - Alterar [velocidade de reprodução](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#velocidade) de um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)
 | Elemento | Descrição |
@@ -106,6 +122,8 @@ Após a listagem dos cenários identificados pela equipe, eles foram detalhados 
 | Episódios| 1. O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) [clica](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#clicar) em um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)<br/>2. O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) [clica](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#clicar) nas opções de um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)<br/>3. O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) seleciona a opção "alterar [velocidade de reprodução](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#velocidade)"<br/>4. O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) seleciona a velocidade desejada |
 | Exceções | 1. O [dispositivo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#dispositivo) desconectar da internet<br/>2. Acabar a bateria do [dispositivo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#dispositivo) |
 
+<div id="cenario-9"></div>
+
 ### 3.9 Cenário 9 - Controlar tempo de um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)
 | Elemento | Descrição |
 | :------: | :-------- |
@@ -116,6 +134,8 @@ Após a listagem dos cenários identificados pela equipe, eles foram detalhados 
 | Recursos | - [Dispositivo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#dispositivo) celular com conexão à internet<br/>- Acesso ao aplicativo YouTube |
 | Episódios| 1. O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) [clica](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#clicar) em um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)<br/>2. O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) [clica](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#clicar) duas vezes na tela na parte direita (ou esquerda) do [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) |
 | Exceções | 1. O [dispositivo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#dispositivo) desconectar da internet<br/>2. Acabar a bateria do [dispositivo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#dispositivo) |
+
+<div id="cenario-10"></div>
 
 ### 3.10 Cenário 10 - Criar um [clipe](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#clipe) de um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)
 | Elemento | Descrição |
@@ -128,6 +148,8 @@ Após a listagem dos cenários identificados pela equipe, eles foram detalhados 
 | Episódios| 1. O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) [clica](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#clicar) em um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)<br/>2. O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) [clica](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#clicar) no botão "[clipe](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#clipe)"<br/>3. O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) adiciona uma descrição ao [clipe](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#clipe)<br/>4. O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) [clica](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#clicar) em "[compartilhar](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#compartilhar) [clipe](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#clipe)" e seleciona a rede social que irá [compartilhar](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#compartilhar) o [clipe](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#clipe) |
 | Exceções | 1. O [dispositivo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#dispositivo) desconectar da internet<br/>2. Acabar a bateria do [dispositivo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#dispositivo) |
 
+<div id="cenario-11"></div>
+
 ### 3.11 Cenário 11 - Alterar [qualidade](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#qualidade) de um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)
 | Elemento | Descrição |
 | :------: | :-------- |
@@ -138,6 +160,8 @@ Após a listagem dos cenários identificados pela equipe, eles foram detalhados 
 | Recursos | - [Dispositivo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#dispositivo) celular com conexão à internet<br/>- Acesso ao aplicativo YouTube |
 | Episódios| 1. O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) [clica](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#clicar) em um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)<br/>2. O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) [clica](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#clicar) nas opções de um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)<br/>3. O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) seleciona a opção "alterar [qualidade](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#qualidade)"<br/>4. O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) seleciona a [qualidade](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#qualidade) desejada |
 | Exceções | 1. O [dispositivo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#dispositivo) desconectar da internet<br/>2. Acabar a bateria do [dispositivo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#dispositivo) |
+
+<div id="cenario-12"></div>
 
 ### 3.12 Cenário 12 - Visualizar [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s [postado](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/estado/#postado)s dos [canais](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal) [inscrito](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/estado/#inscrito)s
 | Elemento | Descrição |
@@ -150,6 +174,8 @@ Após a listagem dos cenários identificados pela equipe, eles foram detalhados 
 | Episódios| 1. O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) [clica](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#clicar) na aba "inscrições" na área inferior da [interface](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#interface) inicial |
 | Exceções | 1. O [dispositivo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#dispositivo) desconectar da internet<br/>2. Acabar a bateria do [dispositivo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#dispositivo) |
 
+<div id="cenario-13"></div>
+
 ### 3.13 Cenário 13 - Acionar [notificações](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#notificacao) de um [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal)
 | Elemento | Descrição |
 | :------: | :-------- |
@@ -160,6 +186,8 @@ Após a listagem dos cenários identificados pela equipe, eles foram detalhados 
 | Recursos | - [Dispositivo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#dispositivo) celular com conexão à internet<br/>- Acesso ao aplicativo YouTube |
 | Episódios| 1. O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) abre a página inicial de um [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal)<br/>2. O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) [clica](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#clicar) no ícone de "sino" presente ao lado do botão de inscrição  |
 | Exceções | 1. O [dispositivo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#dispositivo) desconectar da internet<br/>2. Acabar a bateria do [dispositivo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#dispositivo) |
+
+<div id="cenario-14"></div>
 
 ### 3.14 Cenário 14 - Pesquisar por algum assunto
 | Elemento | Descrição |
@@ -172,6 +200,8 @@ Após a listagem dos cenários identificados pela equipe, eles foram detalhados 
 | Episódios| 1. O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) [clica](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#clicar) no ícone de "lupa" na área superior da tela<br/>2. O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) escreve o assunto que deseja pesquisar<br/>3. O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) [clica](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#clicar) no botão de enviar para que a busca seja efetuada |
 | Exceções | 1. O [dispositivo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#dispositivo) desconectar da internet<br/>2. Acabar a bateria do [dispositivo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#dispositivo) |
 
+<div id="cenario-15"></div>
+
 ### 3.15 Cenário 15 - Acessar o [histórico](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#historico) de [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s exibidos
 | Elemento | Descrição |
 | :------: | :-------- |
@@ -182,6 +212,8 @@ Após a listagem dos cenários identificados pela equipe, eles foram detalhados 
 | Recursos | - [Dispositivo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#dispositivo) celular com conexão à internet<br/>- Acesso ao aplicativo YouTube |
 | Episódios| 1. O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) abre a aba "biblioteca" na área inferior da tela<br/>2. O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) [clica](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#clicar) no botão de "Ver Tudo" na área de [histórico](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#historico) |
 | Exceções | 1. O [dispositivo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#dispositivo) desconectar da internet<br/>2. Acabar a bateria do [dispositivo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#dispositivo) |
+
+<div id="cenario-16"></div>
 
 ### 3.16 Cenário 16 - [Denunciar](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#denunciar) um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)
 | Elemento | Descrição |
@@ -194,6 +226,8 @@ Após a listagem dos cenários identificados pela equipe, eles foram detalhados 
 | Episódios| 1. O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) [clica](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#clicar) em um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)<br/>2. O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) abre as opções do [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)<br/>3. O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) seleciona a opção de "[Denunciar](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#denunciar)"<br/>4. O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) seleciona a razão da denúncia<br/>5. O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) [clica](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#clicar) no botão "[denunciar](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#denunciar)" para enviar a denúncia |
 | Exceções | 1. O [dispositivo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#dispositivo) desconectar da internet<br/>2. Acabar a bateria do [dispositivo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#dispositivo) |
 
+<div id="cenario-17"></div>
+
 ### 3.17 Cenário 17 - [Minimizar](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#minimizar) um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)
 | Elemento | Descrição |
 | :------: | :-------- |
@@ -204,6 +238,8 @@ Após a listagem dos cenários identificados pela equipe, eles foram detalhados 
 | Recursos | - [Dispositivo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#dispositivo) celular com conexão à internet<br/>- Acesso ao aplicativo YouTube |
 | Episódios| 1. O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) [clica](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#clicar) em um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)<br/>2. O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) arrasta o [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) para baixo |
 | Exceções | 1. O [dispositivo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#dispositivo) desconectar da internet<br/>2. Acabar a bateria do [dispositivo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#dispositivo) |
+
+<div id="cenario-18"></div>
 
 ### 3.18 Cenário 18 - Realizar Login
 | Elemento | Descrição |
@@ -216,6 +252,8 @@ Após a listagem dos cenários identificados pela equipe, eles foram detalhados 
 | Episódios| 1. O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) [clica](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#clicar) no botão de "fazer login"<br/>2. O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) preenche suas informações da conta do google |
 | Exceções | 1. O [dispositivo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#dispositivo) desconectar da internet<br/>2. Acabar a bateria do [dispositivo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#dispositivo) |
 
+<div id="cenario-19"></div>
+
 ### 3.19 Cenário 19 - Realizar Logout
 | Elemento | Descrição |
 | :------: | :-------- |
@@ -226,6 +264,8 @@ Após a listagem dos cenários identificados pela equipe, eles foram detalhados 
 | Recursos | - [Dispositivo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#dispositivo) celular com conexão à internet<br/>- Acesso ao aplicativo YouTube |
 | Episódios| 1. O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) [clica](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#clicar) na sua foto de conta na área superior da [interface](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#interface) para exibir suas informações<br/>2. O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) [clica](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#clicar) no botão "Usar o YouTube sem fazer login" |
 | Exceções | 1. O [dispositivo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#dispositivo) desconectar da internet<br/>2. Acabar a bateria do [dispositivo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#dispositivo) |
+
+<div id="cenario-20"></div>
 
 ### 3.20 Cenário 20 - Ativar [legendas](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#legenda) de um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)
 | Elemento | Descrição |
@@ -238,6 +278,8 @@ Após a listagem dos cenários identificados pela equipe, eles foram detalhados 
 | Episódios| 1. O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) [clica](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#clicar) em um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)<br/>2. O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) [clica](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#clicar) no botão de "CC" (closed captions, inglês para [legendas](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#legenda)) |
 | Exceções | 1. O [dispositivo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#dispositivo) desconectar da internet<br/>2. Acabar a bateria do [dispositivo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#dispositivo) |
 
+<div id="cenario-21"></div>
+
 ### 3.21 Cenário 21 - Acessar um [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal)
 | Elemento | Descrição |
 | :------: | :-------- |
@@ -248,6 +290,8 @@ Após a listagem dos cenários identificados pela equipe, eles foram detalhados 
 | Recursos | - [Dispositivo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#dispositivo) celular com conexão à internet<br/>- Acesso ao aplicativo YouTube |
 | Episódios| 1. O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) [clica](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#clicar) em um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)<br/>2. O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) [clica](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#clicar) na foto ou nome do [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal)<br/>3. O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) [clica](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#clicar) na foto de um [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal) de um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) na página inicial |
 | Exceções | 1. O [dispositivo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#dispositivo) desconectar da internet<br/>2. Acabar a bateria do [dispositivo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#dispositivo) |
+
+<div id="cenario-22"></div>
 
 ### 3.22 Cenário 22 - [Postar](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#postar) [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)
 | Elemento | Descrição |
@@ -260,6 +304,8 @@ Após a listagem dos cenários identificados pela equipe, eles foram detalhados 
 | Episódios| 1. O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) [clica](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#clicar) no "+" circulado na pagina principal<br/>2. O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) seleciona a opção "Enivar um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)"<br/>3. O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) seleciona o [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) da galeria que quer [postar](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#postar)<br/>4. O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) editar as informações do [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video), titulo, tags, visibilidade, etc<br/>5. O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) seleciona se o conteudo é ou não relacionado à crianças<br/>6. O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) [clica](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#clicar) em "Enviar um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)" |
 | Exceções | 1. O [dispositivo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#dispositivo) desconectar da internet<br/>2. Acabar a bateria do [dispositivo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#dispositivo) |
 
+<div id="cenario-23"></div>
+
 ### 3.23 Cenário 23 - Acessar o seu [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal)
 | Elemento | Descrição |
 | :------: | :-------- |
@@ -271,6 +317,8 @@ Após a listagem dos cenários identificados pela equipe, eles foram detalhados 
 | Episódios| 1. O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) [clica](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#clicar) na sua foto de perfil na página inicial<br/>2. O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) seleciona a opção "Seu [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal)" |
 | Exceções | 1. O [dispositivo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#dispositivo) desconectar da internet<br/>2. Acabar a bateria do [dispositivo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#dispositivo) |
 
+<div id="cenario-24"></div>
+
 ### 3.24 Cenário 24 - Gerenciar [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s
 | Elemento | Descrição |
 | :------: | :-------- |
@@ -281,6 +329,8 @@ Após a listagem dos cenários identificados pela equipe, eles foram detalhados 
 | Recursos | - [Dispositivo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#dispositivo) celular com conexão à internet<br/>- Acesso ao aplicativo YouTube |
 | Episódios| 1. O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) acessar o seu [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal) no Youtube<br/>2. Na página principal o [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) seleciona a opção "Gerenciar [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s" |
 | Exceções | 1. O [dispositivo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#dispositivo) desconectar da internet<br/>2. Acabar a bateria do [dispositivo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#dispositivo) |
+
+<div id="cenario-25"></div>
 
 ### 3.25 Cenário 25 - Editar [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s
 | Elemento | Descrição |

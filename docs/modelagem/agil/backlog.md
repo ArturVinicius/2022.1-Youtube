@@ -47,7 +47,11 @@
 
 ## 3. Product Backlog
 
+<div id="epico-1"></div>
+
 ### 3.1. [EPC01] Épico - Conta
+
+<div id="feature-1"></div>
 
 #### 3.1.1. [FTR01] Feature - Gerenciamento de conta
 
@@ -55,6 +59,8 @@
 | :--: | :----------- | :------------- | :---------------- | :---------------------------- | :--------------: |
 | US01 | Usuário   | Adicionar uma conta | ter uma (ou mais) conta cadastrada para realizar login | - O usuário deve adicionar sua conta Google no aplicativo<br/>- O usuário deve ser redirecionado para uma página de cadastro/conta do google | Alta |
 | US02 | Usuário   | Remover uma conta | sair da minha conta adicionada no app | - Ter a opção de remover conta do dispositivo<br/>- O sistema deve pedir uma confirmação que a ação de logout realmente será executada | Alta |
+
+<div id="feature-2"></div>
 
 #### 3.1.2. [FTR02] Feature - Plataforma e Interface
 
@@ -64,7 +70,11 @@
 | US04 | Usuário   | Acessar o modo de navegação anônimo | ter um acesso mais restrito ao aplicativo | - O usuário deve clicar no botão "modo de navegação anônima" nas suas configurações<br/>- O aplicativo deve explicar as mudanças que o modo de navegação anônima tem para com o modo normal | Baixa |
 | US05 | Usuário   | Mudar o modo de acordo com claridade (clara e escura) | ter um aplicativo com design noturno | - O usuário deve clicar no botão "geral" nas suas configurações<br/>- O usuário pode escolher enter a aparência escura ou a clara | Baixa |
 
+<div id="epico-1"></div>
+
 ### 3.2. [EPC02] Épico - Criação de Conteúdo
+
+<div id="feature-3"></div>
 
 #### 3.2.1. [FTR03] Feature - Gerenciamento de canal
 
@@ -74,6 +84,8 @@
 | US07 | Criador de conteúdo | Editar o banner do meu canal | ter uma apresentação personalizada | - O usuário deverá escolher uma de suas fotos no dispositivo<br/>- A imagem deve ter um tamanho máximo de 10Mb | Média |
 | US08 | Criador de conteúdo | Excluir um canal | não ter mais acesso a ele | - Um botão de "excluir canal" deve estar disponível nas configurações do canal<br/>- O sistema deve pedir uma confirmação que a ação será executada | Baixa |
 | US09 | Criador de conteúdo | Obter estatísticas do canal | ter noção dos meus números de performance | - Um ícone/botão de gráficos deve aparecer na tela inicial do canal<br/>- Ao clicar na tela, um dashboard com as estatísticas de inscritos e vídeos deve aparecer | Média |
+
+<div id="feature-4"></div>
 
 #### 3.2.2. [FTR04] Feature - Gerenciamento de vídeos
 
@@ -85,7 +97,11 @@
 | US13 | Criador de conteúdo | Obter estatísticas de um vídeo | ter noção da performance dele | - Um botão de "estatísticas" deve aparecer no menu do vídeo<br/>- Ao clicar na tela, um dashboard com as estatísticas do vídeos (visualizações, curtidas, entre outros) deve aparecer | Média |
 | US14 | Criador de conteúdo | Adicionar Thumbnail a um vídeo | ter uma imagem relacionada ao vídeo postado | - No menu do vídeo, deve ter um botão de alterar a imagem do vídeo<br/>- O aplicativo deve ter acesso às imagens no dispositivo para que o usuário selecione a Thumbnail desejada | Média |
 
+<div id="epico-3"></div>
+
 ### 3.3. [EPC03] Épico - Consumir Conteúdo
+
+<div id="feature-5"></div>
 
 #### 3.3.1. [FTR05] Feature - Interação com vídeo
 
@@ -99,6 +115,8 @@
 | US20 | Espectador | Mudar a qualidade de um vídeo | ver em uma maior ou menor qualidade | - O vídeo que está sendo assistido deve possuir um botão no seu menu de "alterar quadalide"<br/>- O usuário terá opções referentes às qualidades disponíveis (de 144p a 4k) | Baixa |
 | US21 | Espectador | Avançar ou retroceder 10 segundos de um vídeo | ir para uma minutagem desejada mais rapidamente | - O vídeo não pode estar minimizado<br/>- Ao clicar da metade para a direita, o vídeo deve avançar<br/>- Ao clicar da metade para a esquerda, o vídeo deve retroceder | Baixa |
 
+<div id="feature-6"></div>
+
 #### 3.3.2. [FTR06] Feature - Interação com canal
 
 | ID   | Eu, como     | Desejo         | Para que eu possa | Critérios de Aceitação        | Prioridade       |
@@ -106,6 +124,8 @@
 | US22 | Espectador | Inscrever-se em um canal | ter acesso a mais funcionalidades relacionadas ao canal | - O botão de "inscrever-se" deve aparecer na tela de um vídeo do canal ou na própria tela do canal<br/>- O botão deve mudar para cinza ao ser clicado | Alta |
 | US23 | Espectador | Ativar notificações de um canal | ser notificado toda vez o canal postar um vídeo | - Deve haver um botão em ícone de sino simbolizando as notificações<br/>- O botão deve mudar para preenchido de cinza ao ser clicado | Baixa |
 | US24 | Espectador | Acessar os vídeos de um canal | ver todos os vídeos postados de um canal específico | - O usuário deve acessar a tela de um canal para encontrar o botão de "vídeos"<br/>- O usuário pode ordenar os vídeos por tempo de publicação ou relevância | Alta |
+
+<div id="feature-7"></div>
 
 #### 3.3.3. [FTR07] Feature - Playlists
 
@@ -116,7 +136,11 @@
 | US27 | Usuário | Adicionar um vídeo a playlist | salvar esse vídeo nela | - Deve haver um botão de "salvar" na tela inicial do vídeo<br/>- Ao pressionar o botão, o usuário deve selecionar a playlist que ele deseja adicionar o vídeo | Média |
 | US28 | Usuário | Excluir vídeo de uma playlist | não ter mais acesso a esse vídeo na playlist | - Deve haver um botão de "remover vídeo" na tela da playlist<br/>- O sistema deve pedir uma confirmação que a ação será executada | Baixa |
 
+<div id="epico-4"></div>
+
 ### 3.4. [EPC04] Épico - Navegação
+
+<div id="feature-8"></div>
 
 #### 3.4.1. [FTR08] Feature - Página Inicial
 
@@ -124,6 +148,8 @@
 | :--: | :----------- | :------------- | :---------------- | :---------------------------- | :--------------: |
 | US29 | Espectador | ter vídeos recomendados na minha tela principal | encontrar vídeos de forma mais simples | - O sistema deve recomendar vídeos para o usuário na tela inicial<br/>- O vídeo na tela inicial pode ser reproduzido ao clicar nele. | Média |
 | US30 | Espectador | Ver os vídeos postados pelos canais que sou inscritos | acessá-los de forma mais simples | - Na tela inicial, o usuário tem a opção de menu "Inscrições"<br/>- A tela, a princípio, ordena os vídeos por publicação mais recente. | Média |
+
+<div id="feature-9"></div>
 
 #### 3.4.2. [FTR09] Feature - Busca
 

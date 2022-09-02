@@ -101,6 +101,8 @@ A figura 1 apresenta o diagrama de casos de uso para um [usuário](https://requi
 
 </center>
 
+<div id="cu-11"></div>
+
 #### Caso de Uso 1 - Criar [Canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal)
 | Informação     | Descrição |
 | :--------:     | :-------  |
@@ -110,6 +112,8 @@ A figura 1 apresenta o diagrama de casos de uso para um [usuário](https://requi
 | Pré-condições  | Estar [logado](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/estado/#logado)/autenticado |
 | Fluxo Principal| - [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) abre o aplicativo<br/>- Clica na sua foto de perfil<br/>- Entra em "meu [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal)"<br/>- Preenche foto e nome do [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal)|
 | Pós-condição   | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) tem um [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal) criado|
+
+<div id="cu-12"></div>
 
 #### Caso de Uso 2 - Autenticar [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario)
 | Informação     | Descrição |
@@ -121,6 +125,8 @@ A figura 1 apresenta o diagrama de casos de uso para um [usuário](https://requi
 | Fluxo Principal| - [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) abre o aplicativo<br/>- [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) clica em "Fazer [Login](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#login)"<br/>- [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) se autentica com sua conta Google|
 | Pós-condição   | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) está no estado [logado](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/estado/#logado) e pode acessar ferramentas antes restritas|
 
+<div id="cu-13"></div>
+
 #### Caso de Uso 3 - [Postar](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#postar) [Conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#conteudo)
 | Informação     | Descrição |
 | :--------:     | :-------  |
@@ -130,6 +136,8 @@ A figura 1 apresenta o diagrama de casos de uso para um [usuário](https://requi
 | Pré-condições  | - Estar [logado](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/estado/#logado)/autenticado<br/>- Ter um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) armazenado no computador para [postar](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#postar) |
 | Fluxo Principal| - [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) abre o aplicativo<br/>- [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) clica no ícone "+" na área inferior<br/>- Seleciona o envio de [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)<br/>- Coloca as informações do [conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#conteudo) (título, descrição e visibilidade)<br/>- Clica em "[postar](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#postar)" |
 | Pós-condição   | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) terá um conteúdo [postado](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/estado/#postado) em seu [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal) |
+
+<div id="cu-14"></div>
 
 #### Caso de Uso 4 - Criar [Playlist](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#playlist)s
 | Informação     | Descrição |
@@ -141,6 +149,8 @@ A figura 1 apresenta o diagrama de casos de uso para um [usuário](https://requi
 | Fluxo Principal| - [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) abre o aplicativo<br/>- [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) abre a tela de biblioteca<br/>- Seleciona a opção de "nova [playlist](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#playlist)"<br/>- Adiciona [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s à [playlist](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#playlist)<br/>- Informa o nome e [privacidade](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#privacidade) da [playlist](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#playlist)<br/>- Clica em "criar [playlist](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#playlist)" |
 | Pós-condição   | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) terá uma [playlist](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#playlist) associada a sua conta criada |
 
+<div id="cu-15"></div>
+
 #### Caso de Uso 5 - Excluir [Conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#conteudo)
 | Informação     | Descrição |
 | :--------:     | :-------  |
@@ -150,6 +160,8 @@ A figura 1 apresenta o diagrama de casos de uso para um [usuário](https://requi
 | Pré-condições  | - Estar [logado](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/estado/#logado)/autenticado<br/>- Ter um [conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#conteudo) [postado](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/estado/#postado) |
 | Fluxo Principal| - [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) abre o aplicativo<br/>- [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) abre a aba de gerenciamento de [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s<br/>- Abre o menu de um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) representado por um ícone de "3 pontos verticais"<br/>- Seleciona o botão de excluir<br/>- Confirma a remoção do [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) |
 | Pós-condição   | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) terá seu conteúdo antes [postado](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/estado/#postado), agora deletado |
+
+<div id="cu-16"></div>
 
 #### Caso de Uso 6 - Ver estatísticas do [conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#conteudo)
 | Informação     | Descrição |
@@ -161,6 +173,8 @@ A figura 1 apresenta o diagrama de casos de uso para um [usuário](https://requi
 | Fluxo Principal| - [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) abre o aplicativo<br/>- [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) abre a tela de seu [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal)<br/>- [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) abre a aba de estatísticas |
 | Pós-condição   | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) terá acesso às estatísticas de seus conteúdos [postado](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/estado/#postado)s |
 
+<div id="cu-17"></div>
+
 #### Caso de Uso 7 - Editar informações do [conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#conteudo)
 | Informação     | Descrição |
 | :--------:     | :-------  |
@@ -170,6 +184,8 @@ A figura 1 apresenta o diagrama de casos de uso para um [usuário](https://requi
 | Pré-condições  | - Estar [logado](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/estado/#logado)/autenticado<br/>- Ter um [conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#conteudo) [postado](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/estado/#postado) |
 | Fluxo Principal| - [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) abre o aplicativo<br/>- [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) abre a aba de gerenciamento de [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s<br/>- Abre o menu de um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) representado por um ícone de "3 pontos verticais"<br/>- Seleciona o botão de editar<br/>- Faz as edições desejadas no [conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#conteudo)<br/>- Clica em "salvar" |
 | Pós-condição   | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) terá as informações de um conteúdo já [postado](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/estado/#postado) alteradas |
+
+<div id="cu-18"></div>
 
 #### Caso de Uso 8 - Adicionar [Thumbnail](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#thumbnail)
 | Informação     | Descrição |
@@ -181,6 +197,8 @@ A figura 1 apresenta o diagrama de casos de uso para um [usuário](https://requi
 | Fluxo Principal| - [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) abre o aplicativo<br/>- [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) abre a aba de gerenciamento de [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s<br/>- Abre o menu de um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) representado por um ícone de "3 pontos verticais"<br/>- Seleciona o botão de editar<br/>- Clica no ícone de adicionar imagem ao [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)<br/>- Clica em "salvar" |
 | Pós-condição   | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) terá uma imagem inicial (thumbnail) relacionada a ele |
 
+<div id="cu-19"></div>
+
 #### Caso de Uso 9 - Fazer transmissão ao vivo
 | Informação     | Descrição |
 | :--------:     | :-------  |
@@ -190,6 +208,8 @@ A figura 1 apresenta o diagrama de casos de uso para um [usuário](https://requi
 | Pré-condições  | - Estar [logado](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/estado/#logado)/autenticado |
 | Fluxo Principal| - [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) abre o aplicativo<br/>- [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) clica no ícone "+" na área inferior<br/>- Seleciona a opção de "transmissão ao vivo"<br/>- Coloca as informações da transmissão<br/>- Clica em "iniciar transmissão" |
 | Pós-condição   | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) estará realizando uma transmissão ao vivo no seu [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal)|
+
+<div id="cu-110"></div>
 
 #### Caso de Uso 10 - [Postar](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#postar) [Shorts](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#shorts)
 | Informação     | Descrição |
@@ -212,6 +232,8 @@ A figura 2 apresenta o diagrama de casos de uso para um [espectador](https://req
 
 </center>
 
+<div id="cu-21"></div>
+
 #### Caso de Uso 1 - Criar [Canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal)
 | Informação     | Descrição |
 | :--------:     | :-------  |
@@ -221,6 +243,8 @@ A figura 2 apresenta o diagrama de casos de uso para um [espectador](https://req
 | Pré-condições  | Estar [logado](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/estado/#logado)/autenticado |
 | Fluxo Principal| - [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) abre o aplicativo<br/>- Clica na sua foto de perfil<br/>- Entra em "meu [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal)"<br/>- Preenche foto e nome do [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal) |
 | Pós-condição   | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) tem um [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal) criado |
+
+<div id="cu-22"></div>
 
 #### Caso de Uso 2 - [Inscrever](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#inscrever) em [Canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal)
 | Informação     | Descrição |
@@ -232,6 +256,8 @@ A figura 2 apresenta o diagrama de casos de uso para um [espectador](https://req
 | Fluxo Principal| - [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) abre o aplicativo<br/>- Clica no ícone/nome do [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal) que deseja se [inscrever](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#inscrever) <br/>- Clica em "[inscrever](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#inscrever)-se"<br/>|
 | Pós-condição   | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) está inscrito no [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal) |
 
+<div id="cu-23"></div>
+
 #### Caso de Uso 3 - Autenticar [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario)
 | Informação     | Descrição |
 | :--------:     | :-------  |
@@ -241,6 +267,8 @@ A figura 2 apresenta o diagrama de casos de uso para um [espectador](https://req
 | Pré-condições  | Ter uma conta Google |
 | Fluxo Principal| - [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) abre o aplicativo<br/>- [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) clica em "Fazer [Login](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#login)"<br/>- [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) se autentica com sua conta Google |
 | Pós-condição   | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) está no estado [logado](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/estado/#logado) e pode acessar ferramentas antes restritas |
+
+<div id="cu-24"></div>
 
 #### Caso de Uso 4 - Consumir [Conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#conteudo)
 | Informação     | Descrição |
@@ -252,6 +280,8 @@ A figura 2 apresenta o diagrama de casos de uso para um [espectador](https://req
 | Fluxo Principal| - [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) abre o aplicativo<br/>- [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) clica em um card de [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)<br/>- [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) consome o [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) |
 | Pós-condição   | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) consimiu/assistiu um [conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#conteudo) |
 
+<div id="cu-25"></div>
+
 #### Caso de Uso 5 - Pesquisar [Conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#conteudo)
 | Informação     | Descrição |
 | :--------:     | :-------  |
@@ -261,6 +291,8 @@ A figura 2 apresenta o diagrama de casos de uso para um [espectador](https://req
 | Pré-condições  | Abrir o aplicativo |
 | Fluxo Principal| - [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) abre o aplicativo<br/>- [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) clica na ferramenta de pesquisa<br/>- [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) digita título de [conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#conteudo)/[vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) que deseja consumir<br/>- [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) clica em buscar |
 | Pós-condição   | O sistema disponibilzia ao [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) o [conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#conteudo) desejado/relacionado na pesquisa |
+
+<div id="cu-26"></div>
 
 #### Caso de Uso 6 - Criar [Playlist](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#playlist)s
 | Informação     | Descrição |
@@ -272,6 +304,8 @@ A figura 2 apresenta o diagrama de casos de uso para um [espectador](https://req
 | Fluxo Principal| - [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) abre o aplicativo<br/>- [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) abre a tela de biblioteca<br/>- Seleciona a opção de "nova [playlist](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#playlist)"<br/>- Adiciona [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s à [playlist](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#playlist)<br/>- Informa o nome e [privacidade](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#privacidade) da [playlist](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#playlist)<br/>- Clica em "criar [playlist](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#playlist)" |
 | Pós-condição   | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) terá uma [playlist](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#playlist) associada a sua conta criada |
 
+<div id="cu-27"></div>
+
 #### Caso de Uso 7 - Avaliar
 | Informação     | Descrição |
 | :--------:     | :-------  |
@@ -281,6 +315,8 @@ A figura 2 apresenta o diagrama de casos de uso para um [espectador](https://req
 | Pré-condições  | - Estar [logado](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/estado/#logado)/autenticado |
 | Fluxo Principal| - [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) abre o aplicativo<br/>- [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) abre um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)<br/>- [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) clica no joinha para avaliar positivamente ou no joinha invertido para avaliar negativamente <br/> |
 | Pós-condição   | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) terá avaliado um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) |
+
+<div id="cu-28"></div>
 
 #### Caso de Uso 8 - Comentar
 | Informação     | Descrição |
@@ -292,6 +328,8 @@ A figura 2 apresenta o diagrama de casos de uso para um [espectador](https://req
 | Fluxo Principal| - [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) abre o aplicativo<br/>- [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) abre um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)<br/>- [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) clica em comentários<br/>- [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) clica em "Adicione um comentário..."</br>- [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) digita um comentário e clica na seta à direita para [postar](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#postar) comentário |
 | Pós-condição   | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) terá comentado um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) |
 
+<div id="cu-29"></div>
+
 #### Caso de Uso 9 - [Compartilhar](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#compartilhar)
 | Informação     | Descrição |
 | :--------:     | :-------  |
@@ -302,6 +340,8 @@ A figura 2 apresenta o diagrama de casos de uso para um [espectador](https://req
 | Fluxo Principal| - [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) abre o aplicativo<br/>- [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) abre um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)<br/>- [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) clica em [compartilhar](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#compartilhar)<br/>- [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) seleciona a forma que deseja [compartilhar](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#compartilhar) o [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)</br>- [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) possuirá o link do [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) ou terá compartilhado o [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) em alguma rede social |
 | Pós-condição   | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) terá compartilhado um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) |
 
+<div id="cu-210"></div>
+
 #### Caso de Uso 10 - Alterar [velocidade](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#velocidade) e [Qualidade](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#qualidade) do [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)
 | Informação     | Descrição |
 | :--------:     | :-------  |
@@ -311,6 +351,8 @@ A figura 2 apresenta o diagrama de casos de uso para um [espectador](https://req
 | Pré-condições  | - Estar com um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) aberto |
 | Fluxo Principal| - [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) abre o aplicativo<br/>- [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) abre um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)<br/>- [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) clica nos três pontinhos no canto superior direito do [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)<br/>- [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) clica em "[Velocidade](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#velocidade) de reprodução" ou "[Qualidade](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#qualidade)"</br>- [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) seleciona a [velocidade](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#velocidade) de reprodução ou [qualidade](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#qualidade) desejada |
 | Pós-condição   | O [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) aberto estará na [Velocidade](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#velocidade) de reprodução ou [qualidade](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#qualidade) desejada |
+
+<div id="cu-211"></div>
 
 #### Caso de Uso 11 - Ver [legendas](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#legenda)
 | Informação     | Descrição |
