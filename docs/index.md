@@ -7,11 +7,11 @@
 </center>
 
 ## 1. Sobre o Projeto
-<p align="justify">&emsp;&emsp;Repositório destinado ao desenvolvimento do trabalho da disciplina Requisitos de Software na Universidade de Brasília - Faculdade do Gama (UnB - FGA). Nesse repositório será possível encontrar as etapas e processos desenvolvidos para a entrega final do projeto desejado. O aplicativo base do projeto é o **Youtube**.</p>
+<p align="justify">&emsp;&emsp;Repositório destinado ao desenvolvimento do trabalho da disciplina Requisitos de Software na Universidade de Brasília - Faculdade do Gama (UnB - FGA). Nesse repositório será possível encontrar as etapas e processos desenvolvidos para a entrega final do projeto desejado. O aplicativo base do projeto é o <b>Youtube</b>.</p>
 
 ## 2. Sobre o Youtube
 
-<p align="justify">&emsp;&emsp;Youtube é uma [plataforma](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#plataforma) que permite a criação e postagem de [vídeos](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) de diversos gêneros em [canais](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal). Esses [vídeos](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) de diversos gêneros podem ser assistidos, curtidos, comentados e compartilhados por usuários que podem, também, se [inscreverem](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#inscrever) nos [canais](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal). O aplicativo possui mais de 3.7 milhões de avaliações na Apple Store em junho/2022 e é amplamente conhecido e usado no mundo todo.</p>
+<p align="justify">&emsp;&emsp;Youtube é uma plataforma que permite a criação e postagem de vídeos de diversos gêneros em canais. Esses vídeos de diversos gêneros podem ser assistidos, curtidos, comentados e compartilhados por usuários que podem, também, se inscreverem nos canais. O aplicativo possui mais de 3.7 milhões de avaliações na Apple Store em junho/2022 e é amplamente conhecido e usado no mundo todo.</p>
 
 ## 2. Equipe
 

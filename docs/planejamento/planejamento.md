@@ -13,7 +13,7 @@
 4. **Cartola FC**: Jogo eletrônico de futebol no estilo fantasy game, um jogo fictício no qual as pessoas montam seus times com jogadores de futebol da vida real.
 5. **Youtube**: Plataforma que permite a criação e postagem de vídeos de diversos gêneros em canais. Esses vídeos podem ser assistidos, curtidos, comentados e compartilhados por usuários que podem, também, se inscreverem nos canais.
 
-<p align="justify">&emsp;&emsp;Após pesquisar um pouco sobre cada app, o **Youtube** foi escolhido como o aplicativo a ser trabalhado dentro da disciplina pelos seguintes motivos:</p>
+<p align="justify">&emsp;&emsp;Após pesquisar um pouco sobre cada app, o <b>Youtube</b> foi escolhido como o aplicativo a ser trabalhado dentro da disciplina pelos seguintes motivos:</p>
 
 - Possui funcionalidades que podem ser acessadas e apreciadas por todos os integrantes do grupo.
 - É altamente conhecido e possui um público muito amplo no Brasil.

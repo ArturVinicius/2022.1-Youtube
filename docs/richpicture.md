@@ -18,7 +18,7 @@
 </center>
 
 ### 2.2 Versão 2
-<p align="justify">&emsp;&emsp;A Figura 2 é a versão 2 e oficial do Rich Picture do projeto. Foi feita utilizando a ferramenta Figma e possui legenda dos componentes.<p align="justify">&emsp;&emsp;
+<p align="justify">&emsp;&emsp;A Figura 2 é a versão 2 e oficial do Rich Picture do projeto. Foi feita utilizando a ferramenta Figma e possui legenda dos componentes.</p>
 
 <center>
 
