@@ -1,16 +1,16 @@
 # Entrevista
 
 ## 1. Introdução
-A entrevista é uma das técnicas mais utilizadas de coleta de dados e levantamento de requisitos. Trata-se de uma conversa guiada por um roteiro de perguntas ou tópicos, na qual um entrevistador busca obter informação de um entrevistado (Seidman, 2019).
+<p align="justify">&emsp;&emsp;A entrevista é uma das técnicas mais utilizadas para coleta de dados e levantamento de requisitos. Trata-se de uma conversa guiada por um roteiro de perguntas ou tópicos, na qual um entrevistador busca obter informação de um entrevistado (Seidman, 2019).</p>
 
-A entrevista tem como vantagens:
+<p align="justify">&emsp;&emsp;A entrevista tem como vantagens:</p>
 
-- Permitir coletar muitas informações dos [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario)s individualmente.
+- Permitir coletar muitas informações dos usuários individualmente.
 - Ser flexível: permite fazer perguntas de follow-up e se aprofundar mais do que questionários ou grupos de foco.
 (Simone Diniz, Interação Humano-Computador. - Cáp. 7, páginas 143, 144)
 
 ## 2. Metodologia
-A partir de um roteiro de perguntas, um participante do grupo entrevistou um [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) do aplicativo YouTube. O roteiro foi o seguinte:
+<p align="justify">&emsp;&emsp;A partir de um roteiro de perguntas, um participante do grupo entrevistou um usuário do aplicativo YouTube. O roteiro foi o seguinte:</p>
 
 - Para o que você usa o Youtube?
 - O que você gosta no Youtube?
@@ -24,7 +24,7 @@ A partir de um roteiro de perguntas, um participante do grupo entrevistou um [us
 - Caso você fosse o criador do youtube o que você adicionaria?
 - Acerca do design do app, teria algo que mudaria? Alguma funcionalidade nova?
 
-A partir das respostas do [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario), foram elicitados requisitos que já são implementados no aplicativo e alguns outros que podem vir a serem.
+<p align="justify">&emsp;&emsp;A partir das respostas do usuário, foram elicitados requisitos que já são implementados no aplicativo e alguns outros que podem vir a serem.</p>
 
 [Áudio da Entrevista](https://user-images.githubusercontent.com/33530818/178569542-d2e32903-021d-424a-bdd0-fb63df893b2f.mp4)
 

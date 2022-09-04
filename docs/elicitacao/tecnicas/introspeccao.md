@@ -1,12 +1,12 @@
 # Introspecção
 
 ## 1. Introdução
-A introspecção consiste em entender quais propriedades o sistema deve possuir para que seja um sucesso. Demanda imagina o gostaria, se fosse desempenhar uma dada tarefa, com os equipamentos disponíveis e demais recursos. (Milene Serrano, Requisitos - Aula 07, página 25).
+<p align="justify">&emsp;&emsp;A introspecção consiste em entender quais propriedades o sistema deve possuir para que seja um sucesso. Demanda imaginar o que se gostaria presente, se fosse desempenhar uma dada tarefa, com os equipamentos disponíveis e demais recursos. (Milene Serrano, Requisitos - Aula 07, página 25).</p>
 
 ## 2. Metodologia
-A partir do conceito da técnica, os dois participantes fizeram suas elicitações individualmente e, depois, fizeram uma discussão para comparação e análise.
+<p align="justify">&emsp;&emsp;A partir do conceito da técnica, os dois participantes fizeram suas elicitações individualmente e, depois, fizeram uma discussão para comparação e análise.</p>
 
-De forma mais específica, um dos integrantes teve uma visão mais focada em requisitos relacionados ao [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) espectador, enquanto o outro buscou por uma introspecção na visão do criador de conteúdo.
+<p align="justify">&emsp;&emsp;De forma mais específica, um dos integrantes teve uma visão mais focada em requisitos relacionados ao usuário espectador, enquanto o outro buscou por uma introspecção na visão do criador de conteúdo.</p>
 
 ## 3. Participantes
 - Victor Hugo Oliveira Leão

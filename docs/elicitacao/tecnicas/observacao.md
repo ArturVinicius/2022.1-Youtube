@@ -1,19 +1,19 @@
 # Observação
 
 ## 1. Introdução
-A observação é uma técnica que possibilita observar, no próprio ambiente, no qual o software será implantado, as tarefas sendo executadas pelos interessados, sem interferir no ambiente. A partir disso, os requisitos são obtidos com base nas tarefas realizadas pelos interessados.(Milene Serrano, Requisitos - Aula 07, página 24).
+<p align="justify">&emsp;&emsp;A observação é uma técnica que possibilita observar, no próprio ambiente do qual o software será implantado, as tarefas sendo executadas pelos interessados, sem interferir no ambiente. A partir disso, os requisitos são obtidos com base nas tarefas realizadas pelos interessados.(Milene Serrano, Requisitos - Aula 07, página 24).</p>
 
-A observação tem como vantagens:
+<p align="justify">&emsp;&emsp;A observação tem como vantagens:</p>
 
-- Obtenção de uma visão prática e realista do negócio(SOMMERVILLE, 2006).
-- Ótima opção para identificar requisitos de usabilidade (BIAS, 2005).
+- A obtenção de uma visão prática e realista do negócio(SOMMERVILLE, 2006).
+- Ser ótima opção para identificar requisitos de usabilidade (BIAS, 2005).
 
-(Carlos Vazquez, Engenharia de Requisitos, páginas 161, 162)
+<p align="justify">&emsp;&emsp;(Carlos Vazquez, Engenharia de Requisitos, páginas 161, 162)</p>
 
 ## 2. Metodologia
-Um dos integrantes do grupo pediu a um [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) para que usasse o aplicativo e utilizasse o máximo de funcionalidades que ele pudesse lembrar e/ou usasse no dia-a-dia. Enquanto isso, o integrante do grupo observaria a utilização e elicitaria requisitos a partir do que visse.
+<p align="justify">&emsp;&emsp;Um dos integrantes do grupo pediu a um usuário para que usasse o aplicativo e utilizasse o máximo de funcionalidades que ele pudesse lembrar e/ou usasse no dia-a-dia. Enquanto isso, o integrante do grupo observaria a utilização e elicitaria requisitos a partir do que visse.</p>
 
-Além disso, foi pedido para o [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) que gravasse a tela de uso do aplicativo, para que, assim, pudesse ser extraído o máximo de requisitos pela técnica:
+<p align="justify">&emsp;&emsp;Além disso, foi pedido para o usuário que gravasse a tela de uso do aplicativo, para que, assim, pudesse ser extraído o máximo de requisitos pela técnica:</p>
 
 [Vídeo da Observação](https://user-images.githubusercontent.com/33530818/178572814-c4af9a44-c9fe-42f3-be98-4f2f377a77e8.mp4)
 

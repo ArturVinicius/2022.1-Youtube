@@ -6,11 +6,44 @@
 <p align="justify">&emsp;&emsp;Normalmente, busca-se responder as seguintes perguntas: tem algo errado no nosso modelo em termos de notação, processo e/ou procedimentos? O modelo está de acordo com o que se espera dele? Sendo assim, normalmente, a verificação é um processo que só interessa aos engenheiros de software, sem a necessidade de envolver o cliente.</p>
 
 ## 2. Metodologia
+
+### 2.1 Inspeção
 <p align="justify">&emsp;&emsp;Há diversas formas de se realizar uma verificação, porém, o grupo seguiu a de Inspeção.</p>
 
 <p align="justify">&emsp;&emsp;Basicamente, na Inspeção, são feitos checklists que buscam encontrar defeitos nos documentos desenvolvidos. Os itens de cada um dos checklists estão de acordo com o que esperaria do artefato e sua notação em si.</p>
 
-<p align="justify">&emsp;&emsp;Seguindo os seis passos de Fagan para um método de inspeção, a equipe planejou os artefatos que seriam inspecionados, fez-se uma visão geral, juntamente com a preparação, de entendimento de cada um do que seria necessário colocar no checklist para cada parte do projeto. A partir disso, foi feita a inspeção (análise e anotação dos itens do checklist) e correção dos que estivesse errado. Com isso, pode-se fazer o acompanhamento do projeto.</p>
+### 2.2 Fagan
+
+<p align="justify">&emsp;&emsp;A equipe seguiu os seis passos de Fagan para um método de inspeção:</p>
+
+- Planejamento: definir os artefatos a serem inspecionados em quem faria a inspeção de qual;
+- Visão geral: entendimento de cada um dos documentos;
+- Planejamento: criação dos checklists a partir do que foi levantado como necessário;
+- Correção: após analisar os resultados, uma correção foi feita para cada um dos artefatos;
+- Acompanhamento: com o fim de inspeção, é possível continuar o acompanhamento de cada um dos artefatos. 
+
+#### 2.3 Planejamento
+| Artefato | Criador do Checklist | Inspetor |
+| :------: | :------------------: | :-----------: |
+| Rich Picture              | Paulo  | Carlos |
+| Personas                  | Victor | Carlos |
+| Perfil de Usuário         | Felipe | Victor |
+| Brainstorm                | Victor | Pedro  |
+| Introspecção              | Victor | Pedro  |
+| Observação                | Victor | Pedro  |
+| Entrevista                | Victor | Pedro  |
+| MoSCoW                    | Felipe | Lucas  |
+| 100 Dólares               | Carlos | Lucas  |
+| Resultado Elicitação      | Pedro  | Lucas  |
+| Cenários                  | Pedro  | Felipe |
+| Léxicos                   | Lucas  | Felipe |
+| Casos de Uso              | Paulo  | Felipe |
+| Especificação Suplementar | Lucas  | Victor |
+| NFR Framework             | Victor | Paulo  |
+| Backlog + Histórias       | Pedro  | Victor |
+| Validação                 | Carlos | Paulo  |
+| Backward-From             | Victor | Felipe |
+| Forward-From              | Victor | Lucas  |
 
 ## 3. Inspeção
 
@@ -27,6 +60,9 @@
 | Os fluxos fazem sentido? | Sim |
 | Há título? | Sim |
 
+#### 3.2.1 Correção e Acompanhamento
+<p align="justify">&emsp;&emsp;Todos os itens do checklist foram atendidos. Dessa forma, nenhuma correção foi necessária.</p>
+
 ### 3.3 Personas
 | Item | Inspeção |
 | :-------    | :------: | 
@@ -36,11 +72,19 @@
 | Todas as personas são condizentes com pessoas? | Sim |
 | As imagens encontradas são de pessoas não existentes? | Sim |
 
+#### 3.3.1 Correção e Acompanhamento
+<p align="justify">&emsp;&emsp;Um item do checklist não foi atendido, o que resultou em uma taxa de 80% de satisfação nesse artefato.</p>
+
+<p align="justify">&emsp;&emsp;Com isso, o problema encontrado foi corrigido ao aidicionar o tipo da persona (primária, secundária ou anti-persona) a cada uma delas presentes no documento.</p>
+
 ### 3.4 Perfil de Usuário
 | Item | Inspeção |
 | :-------    | :------: | 
 | Os perfis de usuários estão separados entre espectador e criador de conteúdo? | Sim |
 | Os perfis de usuários possuem experiência, nível de alfabetização e faixa etária? | Sim |
+
+#### 3.4.1 Correção e Acompanhamento
+<p align="justify">&emsp;&emsp;Todos os itens do checklist foram atendidos. Dessa forma, nenhuma correção foi necessária.</p>
 
 ### 3.5 Brainstorm
 | Item | Inspeção |
@@ -53,6 +97,11 @@
 | Há a gravação da reunião? | Não |
 | Todos os requisitos possuem um ID? | Sim |
 
+#### 3.5.1 Correção e Acompanhamento
+<p align="justify">&emsp;&emsp;Um item do checklist não foi atendido, o que resultou em uma taxa de 85% de satisfação nesse artefato.</p>
+
+<p align="justify">&emsp;&emsp;O problema encontrado ainda não foi corrigido, uma vez que a equipe não gravou a reunião.</p>
+
 ### 3.6 Introspecção
 | Item | Inspeção |
 | :-------    | :------: | 
@@ -61,6 +110,9 @@
 | Todos os requisitos possuem um ID? | Sim |
 | Há uma divisão entre os requisitos funcionais e os não-funcionais? | Sim |
 | Foi explicitado os participantes da instrospecção? | Sim |
+
+#### 3.6.1 Correção e Acompanhamento
+<p align="justify">&emsp;&emsp;Todos os itens do checklist foram atendidos. Dessa forma, nenhuma correção foi necessária.</p>
 
 ### 3.7 Observação
 | Item | Inspeção |
@@ -71,6 +123,9 @@
 | Todos os léxicos estão linkados? | Sim |
 | Todos os requisitos possuem um ID? | Sim |
 | Há uma divisão entre os requisitos funcionais e os não-funcionais? | Sim |
+
+#### 3.7.1 Correção e Acompanhamento
+<p align="justify">&emsp;&emsp;Todos os itens do checklist foram atendidos. Dessa forma, nenhuma correção foi necessária.</p>
 
 ### 3.8 Entrevista
 | Item | Inspeção |
@@ -83,6 +138,11 @@
 | Todos os requisitos possuem um ID? | Sim |
 | Há uma divisão entre os requisitos funcionais e os não-funcionais? | Sim |
 
+#### 3.8.1 Correção e Acompanhamento
+<p align="justify">&emsp;&emsp;Um item do checklist não foi atendido, o que resultou em uma taxa de 85% de satisfação nesse artefato.</p>
+
+<p align="justify">&emsp;&emsp;O problema encontrado foi corrigido, já que o usuário participante da entrevista já foi identificado no documento.</p>
+
 ### 3.9 MoSCoW
 | Item | Inspeção |
 | :-------    | :------: | 
@@ -90,12 +150,22 @@
 | Há uma descrição de cada um dos tipos de prioridade? (Must, Should, Could e Would) |Sim|
 | O usuário que fez parte da priorização foi identificado? | Não |
 
+#### 3.9.1 Correção e Acompanhamento
+<p align="justify">&emsp;&emsp;Um item do checklist não foi atendido, o que resultou em uma taxa de 67% de satisfação nesse artefato.</p>
+
+<p align="justify">&emsp;&emsp;O problema encontrado foi corrigido, já que o usuário participante da priorização já foi identificado no documento.</p>
+
 ### 3.10 100 Dólares
 | Item | Inspeção |
 | :-------    | :------: | 
 | Todos os requisitos elicitados tiveram sua prioridade feita? |Sim |
 | O usuário que fez parte da priorização foi identificado? | Não |
 | A soma de todos os valores atribuídos é de 100? |Sim|
+
+#### 3.10.1 Correção e Acompanhamento
+<p align="justify">&emsp;&emsp;Um item do checklist não foi atendido, o que resultou em uma taxa de 67% de satisfação nesse artefato.</p>
+
+<p align="justify">&emsp;&emsp;O problema encontrado foi corrigido, já que o usuário participante da priorização já foi identificado no documento.</p>
 
 ### 3.11 Resultado Elicitação
 | Item | Inspeção |
@@ -105,6 +175,9 @@
 | Os requisitos estão bem escritos e claros? | Sim |
 | Todos os léxicos estão linkados? | Sim |
 | Há uma divisão entre os requisitos funcionais e os não-funcionais? | Sim |
+
+#### 3.11.1 Correção e Acompanhamento
+<p align="justify">&emsp;&emsp;Todos os itens do checklist foram atendidos. Dessa forma, nenhuma correção foi necessária.</p>
 
 ### 3.12 Cenários
 | Item | Inspeção |
@@ -119,6 +192,9 @@
 | Os cenários fazem sentido com os requisitos? | Sim |
 | Todos os léxicos estão linkados? | Sim | 
 
+#### 3.12.1 Correção e Acompanhamento
+<p align="justify">&emsp;&emsp;Todos os itens do checklist foram atendidos. Dessa forma, nenhuma correção foi necessária.</p>
+
 ### 3.13 Léxicos
 | Item | Inspeção |
 | :-------    | :------: | 
@@ -128,6 +204,9 @@
 | Todos os léxicos tem impactos relacionados a eles? | Sim |
 | As noções de todos os léxicos fazem sentido com eles? | SIm |
 | Todos os léxicos estão linkados entre si? | Sim | 
+
+#### 3.13.1 Correção e Acompanhamento
+<p align="justify">&emsp;&emsp;Todos os itens do checklist foram atendidos. Dessa forma, nenhuma correção foi necessária.</p>
 
 ### 3.14 Casos de Uso
 | Item | Inspeção |
@@ -144,13 +223,21 @@
 | Os fluxos principais são completos? | Sim |
 | Todos os léxicos estão linkados? | Sim | 
 
+#### 3.14.1 Correção e Acompanhamento
+<p align="justify">&emsp;&emsp;Todos os itens do checklist foram atendidos. Dessa forma, nenhuma correção foi necessária.</p>
+
 ### 3.15 Especificação Suplementar
 | Item | Inspeção |
 | :-------    | :------: | 
 | Segue o FURPS+? | Sim |
 | Há uma explicação acerca de cada uma das letras da sigla? | Sim |
 | Cada uma das letras possuem pelo menos um requisito relacionado a elas? | Sim |
-| Todos os requisitos são mesuráveis e avaliáveis? | Não |
+| Todos os requisitos são mensuráveis e avaliáveis? | Não |
+
+#### 3.15.1 Correção e Acompanhamento
+<p align="justify">&emsp;&emsp;Um item do checklist não foi atendido, o que resultou em uma taxa de 75% de satisfação nesse artefato.</p>
+
+<p align="justify">&emsp;&emsp;O problema encontrado foi parcialmente corrigido. Os requisitos não mensuráveis e avaliáveis foram identificados como estimados pela equipe.</p>
 
 ### 3.16 NFR Framework
 | Item | Inspeção |
@@ -161,6 +248,9 @@
 | Todas as propagações são condizentes com o contexto dos diagramas? | Sim |
 | Há uma legenda para cada elemento usado nos diagramas? | Sim |
 | Há um diagrama para cada tipo de requisito não-funcional encontrado na especificação suplementar? | Sim |
+
+#### 3.16.1 Correção e Acompanhamento
+<p align="justify">&emsp;&emsp;Todos os itens do checklist foram atendidos. Dessa forma, nenhuma correção foi necessária.</p>
 
 ### 3.17 Backlog do Produto + Histórias de Usuário
 | Item | Inspeção |

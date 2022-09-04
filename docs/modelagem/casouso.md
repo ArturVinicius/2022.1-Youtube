@@ -1,20 +1,20 @@
 # Casos de Uso
 
 ## 1. Introdução
-Caso de Uso é uma documentação acerca do comportamento do sistema em desenvolvimento, isto é, o que funcionalmente deve ser fornecido pelo sistema.(Andrey Pimentel, Projeto de Software Usando a UML, página 13).
+<p align="justify">&emsp;&emsp;Caso de Uso é uma documentação acerca do comportamento do sistema em desenvolvimento, isto é, o que funcionalmente deve ser fornecido pelo sistema.(Andrey Pimentel, Projeto de Software Usando a UML, página 13).</p>
 
-A partir disso, podem ser criados modelos para ilustar/representar os casos de uso de um sistema.
+<p align="justify">&emsp;&emsp;A partir disso, podem ser criados modelos para ilustar/representar os casos de uso de um sistema.</p>
 
 ## 2. Composição de um Diagrama de Casos de Uso
-Um Diagrama de Casos de Uso compõe diversos elementos e relacionamentos. Dito isso, é importante entendê-los antes de criar ou até mesmo ver e analisar um diagrama desse tipo.
+<p align="justify">&emsp;&emsp;Um Diagrama de Casos de Uso compõe diversos elementos e relacionamentos. Dito isso, é importante entendê-los antes de criar ou até mesmo ver e analisar um diagrama desse tipo.</p>
 
 ### 2.1 Elementos
-Primeiramente, o diagrama tem 3 elementos gerais que o compõem: atores, casos de uso e sistema.
+<p align="justify">&emsp;&emsp;Primeiramente, o diagrama tem 3 elementos gerais que o compõem: atores, casos de uso e sistema.</p>
 
 #### 2.1.1 Atores
-Atores representam algo ou alguém que deve interagir com o sistema, sem fazer parte dele.
+<p align="justify">&emsp;&emsp;Atores representam algo ou alguém que deve interagir com o sistema, sem fazer parte dele.</p>
 
-São representados por um homem palito, como representado na figura 1.
+<p align="justify">&emsp;&emsp;São representados por um homem palito, como representado na figura 1.</p>
 
 <center>
 
@@ -25,9 +25,9 @@ São representados por um homem palito, como representado na figura 1.
 </center>
 
 #### 2.1.2 Casos de Uso
-Casos de Uso representam a funcionalidade fornecida pelo sistema. Basicamente, é um diálogo entre um ator e o sistema.
+<p align="justify">&emsp;&emsp;Casos de Uso representam a funcionalidade fornecida pelo sistema. Basicamente, é um diálogo entre um ator e o sistema.</p>
 
-São representados por uma figura oval, como representado na figura 2.
+<p align="justify">&emsp;&emsp;São representados por uma figura oval, como representado na figura 2.</p>
 
 <center>
 
@@ -38,9 +38,9 @@ São representados por uma figura oval, como representado na figura 2.
 </center>
 
 #### 2.1.3 Sistema
-O sistema, ou limite de sistema, é a delimitação de atuação da aplicação em si.
+<p align="justify">&emsp;&emsp;O sistema, ou limite de sistema, é a delimitação de atuação da aplicação em si.</p>
 
-É representado por uma figura retangular, como representado na figura 3.
+<p align="justify">&emsp;&emsp;É representado por uma figura retangular, como representado na figura 3.</p>
 
 <center>
 
@@ -51,12 +51,12 @@ O sistema, ou limite de sistema, é a delimitação de atuação da aplicação 
 </center>
 
 ### 2.2 Relacionamentos
-Relacionamentos podem ser estabelecidos entre atores e casos de uso ou entre atores e, basicamente, representam as interações que eles podem ter.
+<p align="justify">&emsp;&emsp;Relacionamentos podem ser estabelecidos entre atores e casos de uso e, basicamente, representam as interações que eles podem ter.</p>
 
 #### 2.2.1 Include
-Relacionamentos include são aqueles que ocorrem sempre que o caso de uso base a que se refere for executado.
+<p align="justify">&emsp;&emsp;Relacionamentos include são aqueles que ocorrem sempre que o caso de uso base a que se refere for executado.</p>
 
-É representado por uma seta pontilhada direcionada ao caso de uso a ser executado após o base, como representado na figura 4.
+<p align="justify">&emsp;&emsp;É representado por uma seta pontilhada direcionada ao caso de uso a ser executado após o base, como representado na figura 4.</p>
 
 <center>
 
@@ -67,9 +67,9 @@ Relacionamentos include são aqueles que ocorrem sempre que o caso de uso base a
 </center>
 
 #### 2.2.2 Extend
-Relacionamentos extend são aqueles que podem ocorrer quando o caso de uso base a que se refere for executado, não sendo obrigatoriamente sempre executado.
+<p align="justify">&emsp;&emsp;Relacionamentos extend são aqueles que podem ocorrer quando o caso de uso base a que se refere for executado, não sendo obrigatoriamente sempre executado.</p>
 
-É representado por uma seta pontilhada direcionada para o caso de uso base executado, como representado na figura 5.
+<p align="justify">&emsp;&emsp;É representado por uma seta pontilhada direcionada para o caso de uso base executado, como representado na figura 5.</p>
 
 <center>
 
@@ -80,7 +80,7 @@ Relacionamentos extend são aqueles que podem ocorrer quando o caso de uso base 
 </center>
 
 ## 3. Metodologia
-A partir da listagem dos diagramas de caso de uso identificados, o grupo modelou-os e fez suas especificações com as seguintes informações:
+<p align="justify">&emsp;&emsp;A partir da listagem dos diagramas de caso de uso identificados, o grupo modelou-os e fez suas especificações com as seguintes informações:</p>
 
 - **Descrição**: explicação da funcionalidade representada.
 - **Ator**: quem performa a ação.

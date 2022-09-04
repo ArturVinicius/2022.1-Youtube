@@ -1,14 +1,14 @@
 # Personas
 
 ## 1. Introdução
-Personas são arquétipos, personagens ficcionais, concebidos a partir da síntese de comportamentos observados entre consumidores com perfis extremos. Representam as motivações, desejos, expectativas e necessidades, reunindo características significativas de um grupo mais abrangente (Maurício Vianna, Design Thinking: Inovação em Negócios, página 80).
+<p align="justify">&emsp;&emsp;Personas são arquétipos, personagens ficcionais, concebidos a partir da síntese de comportamentos observados entre consumidores com perfis extremos. Representam as motivações, desejos, expectativas e necessidades, reunindo características significativas de um grupo mais abrangente (Maurício Vianna, Design Thinking: Inovação em Negócios, página 80).</p>
 
-A partir disso, foi projetado um elenco de personas e uma anti-persona para descrever usuários típicos do YouTube.
+<p align="justify">&emsp;&emsp;A partir disso, foi projetado um elenco de personas e uma anti-persona para descrever usuários típicos do YouTube.</p>
 
 ## 2. Elenco de Persona e Anti-Persona
-As imagens utilizadas foram obtidas pelo site ThisPersonDoesNotExist.
+<p align="justify">&emsp;&emsp;As imagens utilizadas foram obtidas no site ThisPersonDoesNotExist.</p>
 
-O formato para a criação das personas foi inspirada no encontrado no site usability.gov.
+<p align="justify">&emsp;&emsp;O formato para a criação das personas foi inspirada no encontrado no site usability.gov.</p>
 
 ### 2.1 Persona 1 - Primária
 |     |    |

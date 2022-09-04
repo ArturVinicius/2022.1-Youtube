@@ -1,10 +1,10 @@
 # Perfil de Usuário
 
 ## 1. Introdução
-Perfil de usuário é uma descrição detalhada das características dos usuários cujos objetivos devem ser apoiados pelo sistema sendo projetado.(Barbosa e Silva, Livro IHC, página 174).
+<p align="justify">&emsp;&emsp;Perfil de usuário é uma descrição detalhada das características dos usuários cujos objetivos devem ser apoiados pelo sistema sendo projetado.(Barbosa e Silva, Livro IHC, página 174).</p>
 
 ## 2. Perfil de Usuário - YouTube
-A priori, podem ser definidos dois tipos de perfis de usuário para o aplicativo do projeto (YouTube), um para espectadores/consumidores de vídeos e outro para criadores de conteúdo.
+<p align="justify">&emsp;&emsp;A priori, podem ser definidos dois tipos de perfis de usuário para o aplicativo do projeto (YouTube), um para espectadores/consumidores de vídeos e outro para criadores de conteúdo.</p>
 
 ### 2.1 Espectadores:
 1. **Cargo**: Indefinido (variado);
@@ -16,8 +16,8 @@ A priori, podem ser definidos dois tipos de perfis de usuário para o aplicativo
 ### 2.2 Criadores de Conteúdo:
 1. **Cargo**: Indefinido (variado);
 2. **Função**: Indefinido (variado);
-3. **Experiência**: A experiência com tecnologias mobile necessária é, no mínimo intermediária. O aplicativo possui outras ferramentas para criadores que possam exigir certo conhecimento avançado com aplicações mobile.
-4. **Nível de Alfabetização**: É necessário que o usuário seja completamente alfabetizado, sabendo ler e escrever com excelência.
+3. **Experiência**: A experiência com tecnologias mobile necessária é, no mínimo, intermediária. O aplicativo possui outras ferramentas para criadores que possam exigir certo conhecimento avançado com aplicações mobile.
+4. **Nível de Alfabetização**: É necessário que o usuário seja completamente alfabetizado, sabendo ler e escrever.
 5. **Faixa Etária**: 14-40 anos (jovens e adultos).
 
 ## 3. Referências

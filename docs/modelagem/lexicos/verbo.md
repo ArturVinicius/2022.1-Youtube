@@ -1,12 +1,12 @@
 # Léxicos - Verbo
 
 ## 1. Introdução
-Trata-se de uma técnica que procura descrever os símbolos de uma linguagem. Tem como principal objetivo a identificação de palavras ou frases peculiares ao meio social da aplicação.(Milene Serrano, Requisitos - Aula 10, página 13).
+<p align="justify">&emsp;&emsp;Trata-se de uma técnica que procura descrever os símbolos de uma linguagem. Tem como principal objetivo a identificação de palavras ou frases peculiares ao meio social da aplicação.(Milene Serrano, Requisitos - Aula 10, página 13).</p>
 
-Os léxicos podem ser dividos em 3 tipos: Estado, Objeto e Verbo. Essa página é dedicada aos **verbos**.
+<p align="justify">&emsp;&emsp;Os léxicos podem ser dividos em 3 tipos: Estado, Objeto e Verbo. Essa página é dedicada aos <b>verbos</b>.</p>
 
 ## 2. Metodologia
-Após a listagem dos léxicos do tipo verbo identificados pela equipe, eles foram detalhados compondo os seguintes elementos:
+<p align="justify">&emsp;&emsp;Após a listagem dos léxicos do tipo verbo identificados pela equipe, eles foram detalhados compondo os seguintes elementos:</p>
 
 - **Nome**: nome do léxico em si.
 - **Sinônimos**: palavras ou expressões com significado similar ao léxico.

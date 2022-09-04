@@ -1,21 +1,21 @@
 # Brainstorm
 
 ## 1. Introdução
-Essa técnica fornece informações sobre os tipos de conteúdo e características que os [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario)s querem e desejam em um produto (Courage e Baxter, 2005).
+<p align="justify">&emsp;&emsp;Essa técnica fornece informações sobre os tipos de conteúdo e características que os usuários querem e desejam em um produto (Courage e Baxter, 2005).</p>
 
-É uma das técnicas de reuniões em grupo mais conhecidas para levantamento de requisitos. Cada componente tem a função de estimular ao outro a criação de ideias, visando à resolução do problema em questão. (Milene Serrano, Requisitos - Aula 07, página 19).
+<p align="justify">&emsp;&emsp;É uma das técnicas de reuniões em grupo mais conhecidas para levantamento de requisitos. Cada componente tem a função de estimular ao outro a criação de ideias, visando à resolução do problema em questão. (Milene Serrano, Requisitos - Aula 07, página 19).</p>
 
-O brainstorm tem como vantagens:
+<p align="justify">&emsp;&emsp;O brainstorm tem como vantagens:</p>
 
 - Poder se preparar, conduzir e analisar dados da atividade em pouco tempo e com poucos recursos.
 - Precisar de pouco esforço para conduzir e analisar dados.
 (Simone Diniz, Interação Humano-Computador - Cáp. 7, página 144)
 
 ## 2. Metodologia
-O grupo se reuniu em uma chamada no Google Meet e a partir da compartilhamento da tela de um arquivo de texto em branco, os integrantes compartilharam suas ideias seguindo o objetivo: Elicitar requisitos do aplicativo YouTube. Um dos integrantes trabalhou como facilitador, apenas anotando as ideias e ajudando no direcionamento da técnica.
+<p align="justify">&emsp;&emsp;O grupo se reuniu em uma chamada no Google Meet e a partir de um arquivo de texto em branco, os integrantes compartilharam suas ideias seguindo o objetivo: elicitar requisitos do aplicativo YouTube. Um dos integrantes trabalhou como facilitador, anotando as ideias e ajudando no direcionamento da técnica.</p>
 
 ## 3. Participantes
-A reunião ocorreu na data 11/07/2022 no horário de 20h30. Os participantes foram os seguintes integrantes do grupo:
+<p align="justify">&emsp;&emsp;A reunião ocorreu na data 11/07/2022 no horário de 20h30. Os participantes foram os seguintes integrantes do grupo:</p>
 
 - Felipe Alef
 - Lucas Ramon

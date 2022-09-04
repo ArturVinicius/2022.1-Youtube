@@ -1,15 +1,15 @@
 # Ferramentas do Projeto
 
 ## 1. Introdução
-Durante todo o desenvolvimento do projeto, a equipe utilizará diversas ferramentas de auxílio. Dessa forma, abaixo estão elas listadas para conhecimento geral.
+<p align="justify">&emsp;&emsp;Durante todo o desenvolvimento do projeto, a equipe utiliza diversas ferramentas de auxílio. Dessa forma, abaixo estão elas listadas para conhecimento geral.</p>
 
 ## 2. Ferramentas
-A equipe selecionou as seguintes ferramentas para serem usadas como auxílio durante o desenvolvimento do projeto ao longo do semestre:
+<p align="justify">&emsp;&emsp;A equipe selecionou as seguintes ferramentas para serem usadas como auxílio durante o desenvolvimento do projeto ao longo do semestre:</p>
 
 | Logo | Ferramenta | Função |
 | :--: | :--------: | :----- |
 | <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/logo-figma.png" width="128" height="128"/> | Figma | Criação de protótipos e imagens. |
-| <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/logo-github.png" width="128" height="128"/> | Github | Hospedagem do site e arquivos do projeto. Versionamento. |
+| <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/logo-github.png" width="128" height="128"/> | Github | Hospedagem do site e arquivos do projeto.<br/>Versionamento. |
 | <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/logo-docs.png" width="128" height="128"/> | Google Docs | Anotações compartilhadas. |
 | <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/logo-teams.png" width="128" height="128"/> | Teams | Gravações das apresentações. |
 | <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/logo-vscode.png" width="128" height="128"/>  | Visual Studio Code | Edição das páginas (formato markdown) do site do projeto. |

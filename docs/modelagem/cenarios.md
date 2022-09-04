@@ -6,7 +6,7 @@
 <p align="justify">&emsp;&emsp; Em adição, segundo Carroll, o fato de um cenário projetar uma descrição concreta de uma atividade em que o usuário se engaja no momento em que está realizando uma tarefa específica é a propriedade que melhor define um cenário.(Cenários - Rastreamento de Cenários, página 47). </p>
 
 ## 2. Metodologia
-Após a listagem dos cenários identificados pela equipe, eles foram detalhados compondo os seguintes elementos:
+<p align="justify">&emsp;&emsp;Após a listagem dos cenários identificados pela equipe, eles foram detalhados compondo os seguintes elementos:</p>
 
 - **Título**: breve identificação do cenário.
 - **Objetivo**: o que se busca no cenário.

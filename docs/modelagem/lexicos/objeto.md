@@ -1,12 +1,12 @@
 # Léxicos - Objeto
 
 ## 1. Introdução
-Trata-se de uma técnica que procura descrever os símbolos de uma linguagem. Tem como principal objetivo a identificação de palavras ou frases peculiares ao meio social da aplicação.(Milene Serrano, Requisitos - Aula 10, página 13).
+<p align="justify">&emsp;&emsp;Trata-se de uma técnica que procura descrever os símbolos de uma linguagem. Tem como principal objetivo a identificação de palavras ou frases peculiares ao meio social da aplicação.(Milene Serrano, Requisitos - Aula 10, página 13).</p>
 
-Os léxicos podem ser dividos em 3 tipos: Estado, Objeto e Verbo. Essa página é dedicada aos **objetos**.
+<p align="justify">&emsp;&emsp;Os léxicos podem ser dividos em 3 tipos: Estado, Objeto e Verbo. Essa página é dedicada aos <b>objetos</b>.</p>
 
 ## 2. Metodologia
-Após a listagem dos léxicos do tipo objeto identificados pela equipe, eles foram detalhados compondo os seguintes elementos:
+<p align="justify">&emsp;&emsp;Após a listagem dos léxicos do tipo objeto identificados pela equipe, eles foram detalhados compondo os seguintes elementos:</p>
 
 - **Nome**: nome do léxico em si.
 - **Sinônimos**: palavras ou expressões com significado similar ao léxico.

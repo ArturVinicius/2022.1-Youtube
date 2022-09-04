@@ -1,12 +1,12 @@
 # MoSCoW
 
 ## 1. Introdução
-Dado que são elicitados vários requisitos, para saber por onde começar o desenvolvimento, torna-se necessário priorizar esses requisitos. (Milene Serrano, Requisitos - Aula 07, página 30).
+<p align="justify">&emsp;&emsp;Dado que são elicitados vários requisitos, para saber por onde começar o desenvolvimento, torna-se necessário priorizar esses requisitos. (Milene Serrano, Requisitos - Aula 07, página 30).</p>
 
-Dessa forma, nessa seção a técnica utilizada para a priorização dos requisitos é a MoSCoW, muito conhecida e simples.
+<p align="justify">&emsp;&emsp;Dessa forma, nessa seção a técnica utilizada para a priorização dos requisitos é a MoSCoW, muito conhecida e simples.</p>
 
 ## 2. Metodologia
-Essa técnica consiste em, basicamente, atribuir para cada um dos requisitos uma das quatro classificações (cada uma com significado diferente):
+<p align="justify">&emsp;&emsp;Essa técnica consiste em, basicamente, atribuir para cada um dos requisitos uma das quatro classificações (cada uma com significado diferente):</p>
 
 - **M**ust: Prioritários ou críticos para o negócio. Se um desses itens não é concluído e entregue, o projeto não pode ser considerado como sendo concluído com sucesso.
 - **S**hould: Importantes, mas não necessários para entrega no momento. Normalmente, ou tem outro meio de atender a necessidade ou pode-se esperar para trabalhar nela.
@@ -14,7 +14,7 @@ Essa técnica consiste em, basicamente, atribuir para cada um dos requisitos uma
 - **W**ould/**W**ant/**W**on't: Menos críticos e com menor retorno sobre o investimento. Devem ter a concordância dos clientes.
 (Milene Serrano, Requisitos - Aula 07, página 33).
 
-A partir disso, um integrante do grupo (Lucas Ramon) se reuniu com um [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) do YouTube (não integrante da equipe) e pediu/guiou a realização da técnica.
+<p align="justify">&emsp;&emsp;A partir disso, o integrante do grupo Lucas Ramon se reuniu com um usuário do YouTube não integrante da equipe e pediu/guiou a realização da técnica. O nome desse usuário externo é Mateus Fernando.</p>
 
 ## 3. Resultados
 ### 3.1 Requisitos Funcionais

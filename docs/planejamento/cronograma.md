@@ -1,7 +1,7 @@
 # Cronograma do Projeto
 
 ## 1. Introdução
-A partir do plano de ensino, foi formado um cronograma com as principais atividades que a equipe deverá realizar, para que, assim, o grupo possa se organizar e seguir um semestre com entregas e desenvolvimento saudável.
+<p align="justify">&emsp;&emsp;A partir do plano de ensino, foi formado um cronograma com as principais atividades que a equipe deverá realizar, para que, assim, o grupo possa se organizar e seguir um semestre com entregas e desenvolvimento saudável.</p>
 
 ## 2. Cronograma Geral
 

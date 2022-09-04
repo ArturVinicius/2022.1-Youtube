@@ -1,7 +1,7 @@
 # Resultado Elicitação
 
 ## 1. Introdução
-Esse documento reúne o resultado de todas as técnicas de elicitação de requisitos usadas (brainstorm, introspecção, entrevista e observação) em um único espaço, rastreando cada um dos requisitos com suas respectivas técnicas.
+<p align="justify">&emsp;&emsp;Esse documento reúne o resultado de todas as técnicas de elicitação de requisitos usadas (brainstorm, introspecção, entrevista e observação) em um único espaço, rastreando cada um dos requisitos com suas respectivas técnicas.</p>
 
 ## 2. Resultado
 ### 2.1 Requisitos Funcionais

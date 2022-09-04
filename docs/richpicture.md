@@ -2,12 +2,12 @@
 
 ## 1. Introdução
 
-Rich Picture é uma maneira de conceitualizar as principais características de um sistema, uma vez que ele capta os principais relacionamentos conceituais entre as principais entidades conceituais de um sistema. (David Benyon, Interação Humano-Computador, página 30).
+<p align="justify">&emsp;&emsp;Rich Picture é uma técnica de conceitualizar as principais características de um sistema, uma vez que ele capta os principais relacionamentos conceituais entre as principais entidades conceituais de um sistema. (David Benyon, Interação Humano-Computador, página 30).</p>
 
 ## 2. Rich Pictures do Projeto
 
 ### 2.1 Versão 1
-A Figura 1 se refere à primeira versão do Rich Picture do aplicativo. Por ser uma visão inicial, foi feita à mão:
+<p align="justify">&emsp;&emsp;A Figura 1 se refere à primeira versão do Rich Picture do aplicativo. Por ser uma visão inicial, foi feita à mão:</p>
 
 <center>
 
@@ -18,7 +18,7 @@ A Figura 1 se refere à primeira versão do Rich Picture do aplicativo. Por ser 
 </center>
 
 ### 2.2 Versão 2
-A Figura 2 é a versão 2 e oficial do Rich Picture do projeto. Foi feita utilizando a ferramenta Figma e possui legenda dos componentes.
+<p align="justify">&emsp;&emsp;A Figura 2 é a versão 2 e oficial do Rich Picture do projeto. Foi feita utilizando a ferramenta Figma e possui legenda dos componentes.<p align="justify">&emsp;&emsp;
 
 <center>
 
