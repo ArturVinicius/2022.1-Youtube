@@ -264,6 +264,11 @@
 | As histórias seguem um padrão? (quem, o que, para que) | Sim |
 | Todos os léxicos estão linkados? | Não | 
 
+#### 3.17.1 Correção e Acompanhamento
+<p align="justify">&emsp;&emsp;Um item do checklist não foi atendido, o que resultou em uma taxa de 87.5% de satisfação nesse artefato.</p>
+
+<p align="justify">&emsp;&emsp;O problema encontrado foi corrigido. Os léxicos que aparecem no documento foram linkados.</p>
+
 ## 4. Referências
 
 > - Gerência e Qualidade de Software - Aula 05 - Verificação e Validação, UNIVESP. Acesso em: 14 de agosto de 2022. Disponível em: https://www.youtube.com/watch?v=1Y-1zz6rZxo&t=22s
@@ -278,3 +283,4 @@
 | 1.3    | 17/08/2022 | Verificação dos itens: Cenários e Léxicos | <a href="https://github.com/Alef012" target="_blank">@Alef012</a> | <a href="https://github.com/lramon2001" target="_blank">@lramon2001</a> |
 | 1.4    | 17/08/2022 | Adição de verificação dos itens: especificação suplementar, nfr e backlog | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> | <a href="https://github.com/Alef012" target="_blank">@Alef012</a>, <a href="https://github.com/lramon2001" target="_blank">@lramon2001</a> |
 | 1.5    | 17/08/2022 | Término da verificação | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> | <a href="https://github.com/Alef012" target="_blank">@Alef012</a>, <a href="https://github.com/lramon2001" target="_blank">@lramon2001</a> |
+| 1.6    | 05/09/2022 | Adição do método de Fagan completo para as verificações | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> | <a href="https://github.com/Alef012" target="_blank">@Alef012</a>, <a href="https://github.com/lramon2001" target="_blank">@lramon2001</a> |
