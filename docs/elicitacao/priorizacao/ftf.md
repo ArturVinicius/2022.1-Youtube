@@ -22,8 +22,8 @@
 <p align="justify">&emsp;&emsp;A partir disso, o integrante do grupo Lucas Ramon se reuniu com um usuário do YouTube não integrante da equipe e pediu/guiou a realização da técnica. O nome desse usuário externo é Mateus Fernando.</p>
 
 ## 2. Resultado - Requisitos Funcionais
-| ID  | Requisito | Técnica | Benefício Relativo | Penalidade Relativa | Valor Total | Custo Relativo | Risco Relativo | Prioridade |
-| :-: | :-------- | :-----: | :----------------: | :-----------------: | :---------: | :------------: | :------------: | :--------: |
+| ID  | Requisito | Técnica | Benefício Relativo | Penalidade Relativa | Valor Total | Valor % | Custo Relativo | Custo % | Risco Relativo | Risco % | Prioridade |
+| :-: | :-------- | :-----: | :----------------: | :-----------------: | :---------: | :-----: | :------------: | :-----: | :------------: | :-----: | :--------: |
 | RF01 | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve ser capaz de [postar](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#postar) um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video). | Brainstorm<br/>Entrevista<br/>Introspecção |
 | RF02 | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve poder [assistir](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#assistir) um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video). | Brainstorm<br/>Entrevista<br/>Introspecção |
 | RF04 | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve ser capaz de comentar um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video). | Brainstorm<br/>Introspecção |
