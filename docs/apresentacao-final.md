@@ -14,13 +14,13 @@
 ### 2.3 A execução do projeto (as fases/etapas desenvolvidas no projeto)
 <p align="justify">&emsp;&emsp;A equipe teve 7 etapas durante a execução do projeto:</p>
 
-- Etapa 1: Criação da equipe, definição do aplicativo, planejamento (cronograma e ferramentas) do projeto e desenvolvimento do Rich Picture do aplicativo.
-- Etapa 2: Elicitação de requisitos, separando entre técnicas de elicitação em si e priorização.
-- Etapa 3: Parte 1 da modelagem de requisitos, com a criação de cenários, léxicos, casos de uso e especificação suplementar.
-- Etapa 4: Parte 2 da modelagem de requisitos, com o desenvolvimento de histórias de usuário, juntamente com o backlog do produto (metodologias ágeis) e do NFR Framework.
-- Etapa 5: Análise do projeto, com documentos de verificação (inspeção) e validação (prototipação e comprovação informal).
-- Etapa 6: Pós-Rastreabilidade, com as técnicas de Backward-From e Forward-From.
-- Etapa 7: Desenvolvimento final do projeto, com revisão e finalização do necessário.
+- **Etapa 1:** Criação da equipe, definição do aplicativo, planejamento (cronograma e ferramentas) do projeto e desenvolvimento do Rich Picture do aplicativo.
+- **Etapa 2:** Elicitação de requisitos, separando entre técnicas de elicitação em si e priorização.
+- **Etapa 3:** Parte 1 da modelagem de requisitos, com a criação de cenários, léxicos, casos de uso e especificação suplementar.
+- **Etapa 4:** Parte 2 da modelagem de requisitos, com o desenvolvimento de histórias de usuário, juntamente com o backlog do produto (metodologias ágeis) e do NFR Framework.
+- **Etapa 5:** Análise do projeto, com documentos de verificação (inspeção) e validação (prototipação e comprovação informal).
+- **Etapa 6:** Pós-Rastreabilidade, com as técnicas de Backward-From e Forward-From.
+- **Etapa 7:** Desenvolvimento final do projeto, com revisão e finalização do necessário.
 
 <p align="justify">&emsp;&emsp;Esse é um sumário de cada uma das fases que a equipe teve durante o desenvolvimento do projeto, cada uma será melhor explorada em itens mais à frente.</p>
 
@@ -31,11 +31,14 @@
 
 <p align="justify">&emsp;&emsp;Para alguns integrantes da equipe, o desenvolvimento do projeto não trouxe conhecimentos apenas na área textual de requisitos de software, mas também no que convém à prototipação e criação de diagramas em ferramentas como Figma.</p>
 
-<p align="justify">&emsp;&emsp;Por terem um comprometimento com a disciplina e cin os membros da equipe, todos os estudantes puderam tirar o máximo de uma metodologia orientada a projeto, uma vez que todas as etapas definidas e propostas pela disciplina foram seguidas e entregues com excelência e totalidade nos prazos definidos. Sem citar que a equipe toda pôde exercer e melhorar suas habilidades e qualidades em apresentações, já que durante cada etapa os integrantes tinham que apresentar o desenvolvido (seja em sala, ou em vídeos).</p>
+<p align="justify">&emsp;&emsp;Por terem um comprometimento com a disciplina e com os membros da equipe, todos os estudantes puderam tirar o máximo de uma metodologia orientada a projeto, uma vez que todas as etapas definidas e propostas pela disciplina foram seguidas e entregues com excelência e totalidade nos prazos definidos. Sem citar que a equipe toda pôde exercer e melhorar suas habilidades e qualidades em apresentações, já que durante cada etapa os integrantes tinham que apresentar o desenvolvido (seja em sala, ou em vídeos).</p>
 
 <p align="justify">&emsp;&emsp;Outro resultado obtido no campo de soft skills foi o desenvolvimento da organização e planejamento. Com o intuito de acompanhar o desenvolvimento dos documentos ao longo do projeto, cada integrante que modificasse algum desses documentos, deveria se identificar como autor e comprometer outro integrante da equipe a revisar suas mudanças. Assim, toda a equipe pode obter conhecimento do que cada integrante estava realizando.</p>
 
 ### 2.5 Tabela com técnicas utilizadas em cada parte do projeto
+
+<center>
+
 | Etapa          | Técnicas |
 | :------------: | :------- |
 | 1              | [Rich Picture](https://requisitos-de-software.github.io/2022.1-Youtube/richpicture/) |
@@ -47,6 +50,8 @@
 | 5 - Verificação| [Inspeção](https://requisitos-de-software.github.io/2022.1-Youtube/analise/verificacao/) |
 | 5 - Validação  | [Prototipação](https://requisitos-de-software.github.io/2022.1-Youtube/analise/validacao/)<br/>[Comprovação Informal](https://requisitos-de-software.github.io/2022.1-Youtube/analise/validacao/) |
 | 6              | [Backward-From](https://requisitos-de-software.github.io/2022.1-Youtube/rastreabilidade/backward/)<br/>[Forward-From](https://requisitos-de-software.github.io/2022.1-Youtube/rastreabilidade/forward/) |
+
+</center>
 
 ### 2.6 Tabela com artefatos criados em cada etapa com autores e revisores
 | Etapa | Artefato | Autor(es) | Revisor(es) |
@@ -83,6 +88,8 @@
 ### 2.7 Tabelas com verificação e validação dos artefatos com autores e revisores
 <p align="justify">&emsp;&emsp;Para <a href='https://requisitos-de-software.github.io/2022.1-Youtube/analise/verificacao/' target="_blank">verificação</a> dos artefatos do projeto foi utilizada a técnica de inspeção. Com isso, cada artefato verificado teve um checklist criado por um integrante da equipe e um diferente inspetor que verificou o checklist no artefator. A tabela a seguir mostra tal distribuição: </p>
 
+<center>
+
 | Artefato | Criador do Checklist | Inspetor |
 | :------: | :------------------: | :-----------: |
 | Rich Picture              | Paulo  | Carlos |
@@ -105,12 +112,18 @@
 | Backward-From             | Victor | Felipe |
 | Forward-From              | Victor | Lucas  |
 
+</center>
+
 <p align="justify">&emsp;&emsp;Por outro lado, para a <a href='https://requisitos-de-software.github.io/2022.1-Youtube/analise/validacao/' target="_blank">validação</a> do projeto, foram usadas 2 estratégias: prototipação e comprovação informal. A tabela a seguir mostra os autor(es) e revisor(es) de tais técnicas: </p>
+
+<center>
 
 | Técnica | Autor(es) | Revisor(es) |
 | :-----: | :-------: | :---------: |
 | Prototipação | Paulo, Victor | Pedro, Lucas |
 | Comprovação Informal | Paulo | Felipe |
+
+</center>
 
 ### 2.8 Tabela com ferramentas e onde foram utilizadas
 <p align="justify">&emsp;&emsp;Há um <a href='https://requisitos-de-software.github.io/2022.1-Youtube/planejamento/ferramentas/' target="_blank">documento com todas as ferramentas</a> usadas no projeto. Além de que no <a href='https://requisitos-de-software.github.io/2022.1-Youtube/planejamento/cronograma/' target="_blank">cronograma</a>, há em cada item, qual ferramenta foi utilizada na tarefa. Entretanto, outra tabela foi criada sintetizando cada uso das ferramentas nas etapas: </p>
