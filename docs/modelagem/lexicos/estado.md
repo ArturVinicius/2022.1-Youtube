@@ -103,8 +103,8 @@
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ----------- |
 | 1.0    | 17/07/2022 | Criação da primeira versão do documento com a introdução, metodologia e estrutura de léxico - estado | <a href="https://github.com/victorleaoo">@victorleaoo</a> | <a href="https://github.com/Alef012">@Alef012</a> |
-| 1.1    | 17/07/2022 | Adição sem ordenação de léxicos de estado e um exemplo de como deve ser feito | <a href="https://github.com/victorleaoo">@victorleaoo</a> | <a href="https://github.com/Alef012">@Alef012</a> |
-| 1.2    | 18/07/2022 | Descrição de todos os léxicos de estado e ordenação em ordem alfabética | <a href="https://github.com/victorleaoo">@victorleaoo</a> | <a href="https://github.com/Alef012">@Alef012</a> |
+| 1.1    | 17/07/2022 | Adição sem ordenação de léxicos de estado e um exemplo de como deve ser feito | <a href="https://github.com/CDGodoy" target="_blank">@CDGodoy</a> | <a href="https://github.com/Alef012">@Alef012</a>, <a href="https://github.com/victorleaoo">@victorleaoo</a> |
+| 1.2    | 18/07/2022 | Descrição de todos os léxicos de estado e ordenação em ordem alfabética | <a href="https://github.com/CDGodoy" target="_blank">@CDGodoy</a> | <a href="https://github.com/Alef012">@Alef012</a>, <a href="https://github.com/victorleaoo">@victorleaoo</a> |
 | 1.3    | 24/07/2022 | Adição de links dos githubs no histórico de versões | <a href="https://github.com/victorleaoo">@victorleaoo</a> | <a href="https://github.com/owhenrique">@owhenrique</a> |
 | 1.4    | 24/07/2022 | Correção de erro em que estava léxicos de "verbo" | <a href="https://github.com/victorleaoo">@victorleaoo</a> | <a href="https://github.com/owhenrique">@owhenrique</a> |
 | 1.5    | 24/07/2022 | Adição de ID para cada um dos léxicos para que possam ser referenciados em outras páginas | <a href="https://github.com/victorleaoo">@victorleaoo</a> | <a href="https://github.com/owhenrique">@owhenrique</a> |

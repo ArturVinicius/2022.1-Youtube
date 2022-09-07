@@ -28,6 +28,6 @@
 ## 4. Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ----------- |
-| 1.0    | 06/07/2022 | Criação da primeira versão do documento com as primeiras características dos perfis de usuário | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> | <a href="https://github.com/B3holder2" target="_blank">@B3holder2</a> |
+| 1.0    | 06/07/2022 | Criação da primeira versão do documento com as primeiras características dos perfis de usuário | <a href="https://github.com/Alef012" target="_blank">@Alef012</a> | <a href="https://github.com/B3holder2" target="_blank">@B3holder2</a> |
 | 1.2    | 24/07/2022 | Adição de links dos githubs no <a href="https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#historico" target="_blank">histórico</a> de versões | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> | <a href="https://github.com/owhenrique" target="_blank">@owhenrique</a> | 
 | 1.4    | 25/07/2022 | Correção dos links dos githubs no <a href="https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#historico" target="_blank">histórico</a> de versões | <a href="https://github.com/owhenrique" target="_blank">@owhenrique</a> | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> | 

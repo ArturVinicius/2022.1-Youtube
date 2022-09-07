@@ -168,7 +168,7 @@
 | ------ | ---- | --------- | --------- | ----------- |
 | 1.0    | 28/07/2022 | Criação do esqueleto do documento e introdução inicial. | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> | <a href="https://github.com/Alef012" target="_blank">@Alef012</a> |
 | 1.1    | 28/07/2022 | Reformulação da estrutura do Product Backlog. | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> | <a href="https://github.com/Alef012" target="_blank">@Alef012</a> |
-| 1.2    | 28/07/2022 | Adição de histórias, features e épicos iniciais. | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> | <a href="https://github.com/Alef012" target="_blank">@Alef012</a> |
+| 1.2    | 28/07/2022 | Adição de histórias, features e épicos iniciais. | <a href="https://github.com/B3holder2" target="_blank">@B3holder2</a> | <a href="https://github.com/Alef012" target="_blank">@Alef012</a> |
 | 1.3    | 03/08/2022 | Enumeração das histórias de [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario). | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> | <a href="https://github.com/Alef012" target="_blank">@Alef012</a> |
 | 1.4    | 04/08/2022 | Enumeração dos épicos e features. | <a href="https://github.com/owhenrique" target="_blank">@owhenrique</a>  | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a>  |
 | 1.5    | 08/08/2022 | Adição do vídeo da priorização. | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a>, <a href="https://github.com/B3holder2" target="_blank">@B3holder2</a>  | <a href="https://github.com/owhenrique" target="_blank">@owhenrique</a>  |
