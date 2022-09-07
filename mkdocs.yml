@@ -28,6 +28,7 @@ nav:
     - Priorização:
       - MoSCoW: elicitacao/priorizacao/moscow.md
       - 100 Dólares: elicitacao/priorizacao/100dol.md
+      - First Things First: elicitacao/priorizacao/ftf.md
     - Resultado Elicitação: elicitacao/resultado.md
   - Modelagem:
     - Cenários: modelagem/cenarios.md
