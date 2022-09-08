@@ -74,7 +74,7 @@
 
 </center>
 
-<p align="justify">&emsp;&emsp;<b>Comentário do usuário:</b> "Atendeu o requisito de forma efetiva, aparenta ser fácil de usar".</p>
+<p align="justify">&emsp;&emsp;<b>Comentário do usuário:</b> "Ficou interessante, uma nova forma de poder interagir com o criador de conteúdo".</p>
 
 <div id="stats-video"></div>
 
@@ -89,6 +89,8 @@
 
 </center>
 
+<p align="justify">&emsp;&emsp;<b>Comentário do usuário:</b> "Muito legal, a pessoa pode ter noção de que tipo de conteúdo o público mais gosta, além de acompanhar o seu desenvolvimento na plataforma".</p>
+
 <div id="monetizacao"></div>
 
 ### 3.5 RF033 - O criador de conteúdo deve ser capaz de ver a monetização de seus vídeos.
@@ -102,6 +104,8 @@
 
 </center>
 
+<p align="justify">&emsp;&emsp;<b>Comentário do usuário:</b> "Atende de forma efetiva o criador, já que auxilia ele mostrando qual o tipo de conteúdo que o público mais gosta e o que ele mais é apoiado para fazer".</p>
+
 <div id="fila"></div>
 
 ### 3.6 RF035 - O usuário deve poder adicionar um vídeo à fila de reprodução.
@@ -114,6 +118,8 @@
 <figcaption>Figura 6: Prototipação da funcionalidade de adicionar vídeo à fila de reprodução. Autor: Victor Hugo Oliveira Leão</figcaption>
 
 </center>
+
+<p align="justify">&emsp;&emsp;<b>Comentário do usuário:</b> "Simples, mas atende".</p>
 
 ## 4. Comprovação Informal 
 
