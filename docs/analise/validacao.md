@@ -21,6 +21,8 @@
 
 <p align="justify">&emsp;&emsp;A partir destas, desenvolvemos protótipos que correspondem a essas funcionalidades.</p>
 
+<p align="justify">&emsp;&emsp;Uma entrevista foi feita com o usuário não-integrante do grupo Felipe Nascimento Amorim, estudante de Engenharia de Energia pela UnB, para validar os protótipos desenvolvidos.</p>
+
 ### 2.2 Comprovação Informal
 <p align="justify">&emsp;&emsp;Outro tipo de validação feita foi a comprovação informal, em que uma mensagem foi enviada a equipe do YouTube, a fim de entender, com os criadores e desenvolvedores dos produtos, se nosso projeto está correto em relação ao aplicativo.</p>
 
@@ -40,6 +42,8 @@
 
 </center>
 
+<p align="justify">&emsp;&emsp;<b>Comentário do usuário:</b> "Ficou clara a aplicação da funcionalidade de exclusão, simples e objetivo".</p>
+
 <div id="add-legenda"></div>
 
 ### 3.2 RF020 - O criador de conteúdo deve ser capaz de adicionar legenda a um vídeo.
@@ -54,6 +58,8 @@
 
 </center>
 
+<p align="justify">&emsp;&emsp;<b>Comentário do usuário:</b> "Atendeu o requisito de forma efetiva, aparenta ser fácil de usar".</p>
+
 <div id="superchat"></div>
 
 ### 3.3 RF026 - O usuário deve ser capaz de enviar um superchat (comentário através de uma doação monetária).
@@ -67,6 +73,8 @@
 <figcaption>Figura 3: Prototipação da funcionalidade de enviar um Super Chat. Autor: Paulo Henrique Almeida</figcaption>
 
 </center>
+
+<p align="justify">&emsp;&emsp;<b>Comentário do usuário:</b> "Atendeu o requisito de forma efetiva, aparenta ser fácil de usar".</p>
 
 <div id="stats-video"></div>
 
@@ -161,3 +169,4 @@ Requisitos](http://disciplinas.lia.ufc.br/engsof081/arquivos/ProcessosEngRequisi
 | 1.5    | 17/08/2022 | Adição da prototipação do requisito funcional rf026 | <a href="https://github.com/owhenrique" target="_blank">@owhenrique</a> | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> |
 | 1.6    | 17/08/2022 | Correção dos números das figuras | <a href="https://github.com/owhenrique" target="_blank">@owhenrique</a> | <a href="https://github.com/B3holder2" target="_blank">@B3holder2</a>, <a href="https://github.com/lramon2001" target="_blank">@lramon2001</a> |
 | 1.7    | 01/09/2022 | Adição de protótipos que estavam faltando | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a>  | <a href="https://github.com/owhenrique" target="_blank">@owhenrique</a> |
+| 1.8    | 08/09/2022 | Adição de comentários de validação com o usuário | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a>  | <a href="https://github.com/owhenrique" target="_blank">@owhenrique</a> |
