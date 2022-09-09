@@ -93,13 +93,13 @@
 ### 3.2 Requisitos Não-Funcionais
 | ID  | Requisito | Técnica | Prioridade |
 | :-: | :-------- | :-----: | :--------: |
-| RNF01  | O sistema deve ser disponível para os principais sistemas operacionais mobile, como Android e iOS | Introspecção<br/>Brainstorm<br/>Entrevista | must |
-| RNF02  | O sistema deve recomendar novos [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s na tela de um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video). | Introspecção<br/>Entrevista | should |
-| RNF03  | O sistema deve recomendar [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s na tela inicial do aplicativo. | Introspecção<br/>Brainstorm<br/>Entrevista | should |
-| RNF04  | O sistema deve mostrar a opção de ativar modo de navegação anônima. | Introspecção | could |
-| RNF05 | O sistema deve proporcionar a opção de reprodução automática que reproduza [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s relacionados ao atual. | Brainstorm | must |
-| RNF06 | O sistema deve proporcionar uma barra de pesquisa, com acessibilidade por voz, que funcione com exatidão de busca. | Brainstorm | must |
-| RNF07 | O sistema deve proporcionar a maior quantidade de qualidades de [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) possível. | Brainstorm | must |
+| RNF01  | O sistema deve ser disponível para os principais sistemas operacionais mobile, como Android e iOS | Introspecção<br/>Brainstorm<br/>Entrevista | in |
+| RNF02  | O sistema deve recomendar novos [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s na tela de um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video). | Introspecção<br/>Entrevista | in |
+| RNF03  | O sistema deve recomendar [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s na tela inicial do aplicativo. | Introspecção<br/>Brainstorm<br/>Entrevista | out |
+| RNF04  | O sistema deve mostrar a opção de ativar modo de navegação anônima. | Introspecção | out |
+| RNF05 | O sistema deve proporcionar a opção de reprodução automática que reproduza [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s relacionados ao atual. | Brainstorm | in |
+| RNF06 | O sistema deve proporcionar uma barra de pesquisa, com acessibilidade por voz, que funcione com exatidão de busca. | Brainstorm | in |
+| RNF07 | O sistema deve proporcionar a maior quantidade de qualidades de [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) possível. | Brainstorm | in |
 | RNF08 | Ao clicar em "Salvar" na tela de um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video), o sistema deve adicionar automaticamente o [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) a uma [playlist](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#playlist) "[assistir](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#assistir) mais tarde" | Observação | out |
 | RNF09 | O sistema deve dar apoio para criadores de conteúdo | Entrevista | in |
 | RNF10 | O sistema deve proporcionar a integração entre plataformas | Entrevista | in |
