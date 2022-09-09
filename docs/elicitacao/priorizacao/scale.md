@@ -18,7 +18,7 @@
 ### 3.1 Requisitos Funcionais
 | ID  | Requisito | Técnica | Prioridade |
 | :-: | :-------- | :-----: | :--------: |
-| RF01 | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve ser capaz de [postar](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#postar) um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video). | Brainstorm<br/>Entrevista<br/>Introspecção | must |
+| RF01 | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve ser capaz de [postar](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#postar) um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video). | Brainstorm<br/>Entrevista<br/>Introspecção | Alta prioridade |
 | RF02 | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve poder [assistir](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#assistir) um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video). | Brainstorm<br/>Entrevista<br/>Introspecção | Alta prioridade |
 | RF03 | O [criador de conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#criador-conteudo) deve poder editar o título do próprio [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video). | Brainstorm<br/>Introspecção | Média prioridade |
 | RF04 | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve ser capaz de comentar um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video). | Brainstorm<br/>Introspecção | Média prioridade 
@@ -98,17 +98,17 @@
 | ID  | Requisito | Técnica | Prioridade |
 | :-: | :-------- | :-----: | :--------: |
 | RNF01  | O sistema deve ser disponível para os principais sistemas operacionais mobile, como Android e iOS | Introspecção<br/>Brainstorm<br/>Entrevista | Alta prioridade |
-| RNF02  | O sistema deve recomendar novos [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s na tela de um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video). | Introspecção<br/>Entrevista | should |
-| RNF03  | O sistema deve recomendar [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s na tela inicial do aplicativo. | Introspecção<br/>Brainstorm<br/>Entrevista | should |
-| RNF04  | O sistema deve mostrar a opção de ativar modo de navegação anônima. | Introspecção | could |
+| RNF02  | O sistema deve recomendar novos [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s na tela de um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video). | Introspecção<br/>Entrevista | Média prioridade |
+| RNF03  | O sistema deve recomendar [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s na tela inicial do aplicativo. | Introspecção<br/>Brainstorm<br/>Entrevista | Média prioridade |
+| RNF04  | O sistema deve mostrar a opção de ativar modo de navegação anônima. | Introspecção | Baixa prioridade |
 | RNF05 | O sistema deve proporcionar a opção de reprodução automática que reproduza [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s relacionados ao atual. | Brainstorm | Alta prioridade |
 | RNF06 | O sistema deve proporcionar uma barra de pesquisa, com acessibilidade por voz, que funcione com exatidão de busca. | Brainstorm | Alta prioridade |
 | RNF07 | O sistema deve proporcionar a maior quantidade de qualidades de [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) possível. | Brainstorm | Alta prioridade |
-| RNF08 | Ao clicar em "Salvar" na tela de um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video), o sistema deve adicionar automaticamente o [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) a uma [playlist](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#playlist) "[assistir](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#assistir) mais tarde" | Observação | could |
+| RNF08 | Ao clicar em "Salvar" na tela de um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video), o sistema deve adicionar automaticamente o [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) a uma [playlist](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#playlist) "[assistir](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#assistir) mais tarde" | Observação | Baixa prioridade |
 | RNF09 | O sistema deve dar apoio para criadores de conteúdo | Entrevista | Alta prioridade |
 | RNF10 | O sistema deve proporcionar a integração entre plataformas | Entrevista | Alta prioridade |
 | RNF11 | O sistema deve ter um design direcionado aos [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s (praticidade) |Entrevista | Alta prioridade |
-| RNF12 | O sistema deve oferecer um modo escuro para o aplicativo | Entrevista | could |
+| RNF12 | O sistema deve oferecer um modo escuro para o aplicativo | Entrevista | Baixa prioridade |
 
 ## 4. Referências
 > - Milene Serrano, Requisitos - Aula 07. Acesso em: 06 de jul. de 2022. Disponível em: Aprender3.
