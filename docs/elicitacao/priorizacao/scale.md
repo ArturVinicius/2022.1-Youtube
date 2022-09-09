@@ -118,3 +118,4 @@
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ----------- |
 | 1.0    | 07/09/2022 | Criação do esqueleto do documento e introdução inicial. | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> | <a href="https://github.com/lramon2001" target="_blank">@lramon2001</a> |
+| 1.1 | 09/09/2022 | Priorização de todos os requistos levantados utilizando o método three level-scale | <a href="https://github.com/lramon2001" target="_blank">@lramon2001</a> | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a>  |
