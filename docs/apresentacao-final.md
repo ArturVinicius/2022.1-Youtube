@@ -71,6 +71,7 @@
 | 2     | [100 Dólares](https://requisitos-de-software.github.io/2022.1-Youtube/elicitacao/priorizacao/100dol/)         | Felipe, Lucas | Victor |
 | 2     | [In or Out](https://requisitos-de-software.github.io/2022.1-Youtube/elicitacao/priorizacao/inorout/) | Lucas, Victor | Felipe |
 | 2     | [Three-level Scale](https://requisitos-de-software.github.io/2022.1-Youtube/elicitacao/priorizacao/scale/) | Lucas, Felipe | Victor |
+| 2     | [First Things First](https://requisitos-de-software.github.io/2022.1-Youtube/elicitacao/priorizacao/ftf/) | Victor | Lucas |
 | 2     | [Resultado Elicitação](https://requisitos-de-software.github.io/2022.1-Youtube/elicitacao/resultado/)| Victor        | Paulo  |
 | 3     | [Cenários](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/cenarios/)            | Pedro, Victor | Carlos |
 | 3     | [Léxico - Estado](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/estado/)     | Carlos        | Felipe, Victor |
