@@ -146,6 +146,9 @@
 #### 2.9.1 Victor
 <p align="justify">&emsp;&emsp;"Acredito que a realização do projeto como um todo foi bem equilibrada, tive algumas dificuldades em alguns momentos e facilidades em outros. Para citar uma dificuldade primeiro, diria que sempre que nos enfrentamos com novos conceitos e técnicas, há uma natural problematização do entendimento. Entretanto, uma das facilidades encontradas seria a fácil acessibilidade do professor para responder dúvidas, sem citar que a flexibilidade (não ter uma estruturação única para realizar as tarefas) da equipe com o projeto também foi outra facilidade. Por último, uma outra dificuldade que tive durante o projeto foi a falta de um feedback alguns momentos, exemplifico: quando minha equipe não apresentava presencialmente, não tínhamos como saber se alguma coisa deveria ser aprimorada no projeto da equipe de imediato (claro que o feedback das outras equipes ajudavam, mas não de forma completa). Todavia, como dito no ínicio, o desenvolvimento da disciplina como um todo foi bem equilibrada e, pelo menos para mim, muito edificante academicamente."</p>
 
+#### 2.9.1 Carlos Godoy
+<p align="justify">&emsp;&emsp;"O projeto foi um desafio muito bom de se cumprir, apesar de algumas dificuldades (principalmente com técnicas e conceitos que vi pela primeira vez), foi possível obter um enorme aprendizado e também, boas práticas para aplicar no mercado. Minha principal dificuldade foi inicialmente abstrair e implementar os conceitos apresentados e estudados em sala de aula, após um determinado tempo de projeto, esta dificuldade foi diminuindo, visto que passei a compreender o método da disciplina. Num geral, o desenvolvimento da disciplina foi bem linear, sendo tranquilo de acompanhar e trazendo um grande conhecimento."</p>
+
 ## 3. Referências
 
 > - Figma. Acesso em: 29 de jun. de 2022. Disponível em: https://www.figma.com/about
