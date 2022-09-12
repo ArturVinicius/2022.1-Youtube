@@ -1,7 +1,7 @@
 # Apresentações e Entregas
 
 ## 1. Introdução
-As entregas das etapas das disciplinas são feitas por vídeos de apresentações postados no YouTube como "não-listados".
+<p align="justify">&emsp;&emsp;As entregas das etapas das disciplinas são feitas por vídeos de apresentações postados no YouTube como "não-listados".</p>
 
 ## 2. Apresentação Etapa 1
 
