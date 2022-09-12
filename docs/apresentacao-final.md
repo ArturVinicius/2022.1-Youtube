@@ -155,10 +155,10 @@
 #### 2.9.4 Felipe Alef
 <p align="justify">&emsp;&emsp;"No geral, acredito que a metodologia usada na disciplina deixou bem tranquila a realização do projeto. Inicialmente tive um pouco de dificuldade com a quantidade de conceitos novos apresentados, mas colocar essas técnicas e conceitos em prática deixou o processo de aprendizado mais fácil. Uma outra facilidade da disciplina é a organização do cronograma e plano de ensino, que facilitou o planejamento do projeto no módulo inicial e evitando mudanças inesperadas no meio do semestre."</p>
 
-#### 2.9.4 Pedro Victor Lima Torreão
+#### 2.9.5 Pedro Victor Lima Torreão
 <p align="justify">&emsp;&emsp;"Gostei muito do que aprendi nessa matéria. Realmente requisitos é uma área onde eu botava muita pouco expectativa, mas que me surpreendeu muito. Tive dificuldades no inicio já que era uma área que não havia tido contato, primeira vez usando MarkDown, mas com a ajuda de um bom grupo fui aprendendo e obtendo novas experiências e muito conhecimento também. Sobre o andamento do trabalho, tudo ocorreu de forma bem simples e intuitiva, bom espaço entre as datas de entrega, otimos feedbacks dados pelo professor ao final das apresentações que nos ajudou bastante para sabermos oque melhorar ou oque acrescentar no trabalho. Julgo que foi uma disciplina traquila e que agregou muito no meu conhecimento e em como devo me portar como futuro profissinal."</p>
 
-#### 2.9.4  Lucas Ramon Alves de Oliveira
+#### 2.9.6  Lucas Ramon Alves de Oliveira
 <p align="justify">&emsp;&emsp;"A disciplina foi enriquecedora em virtude da abordagem integral e pronfunda sobre engenharia de requisitos. Começamos com uma ideia superficial sobre elicitação de requisitos, mas com o desenvolvimento do curso tivemos a noção da dimensão do tema ao pesquisar sobre as técnicas, rastreabilidade, verificação, validação, modelagem e casos de usos. Foi apresentado para turma diversos elementos que são capazes de orientar o engenheiro de software em seu ofício. Quanto ao grupo, a experiência não poderia ser melhor. Fiz verdadeiros amigos com o projeto e que colaboraram para um ambiente colaborativo."</p>
 
 ## 3. Referências
