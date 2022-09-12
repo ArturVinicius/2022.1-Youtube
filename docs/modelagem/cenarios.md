@@ -20,7 +20,7 @@
 
 <div id="cenario-1"></div>
 
-### 3.1 Cenário 1 - [Assistir](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#assistir) a um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)
+### 3.1 CN01 - Cenário 1 - [Assistir](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#assistir) a um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)
 | Elemento | Descrição |
 | :------: | :-------- |
 | Título   | [Assistir](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#assistir) a um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) |
@@ -33,7 +33,7 @@
 
 <div id="cenario-2"></div>
 
-### 3.2 Cenário 2 - Avaliar um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)
+### 3.2 CN02 - Cenário 2 - Avaliar um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)
 | Elemento | Descrição |
 | :------: | :-------- |
 | Título   | Avaliar um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) |
@@ -46,7 +46,7 @@
 
 <div id="cenario-3"></div>
 
-### 3.3 Cenário 3 - Comentar em um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)
+### 3.3 CN03 - Cenário 3 - Comentar em um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)
 | Elemento | Descrição |
 | :------: | :-------- |
 | Título   | Comentar em um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) |
@@ -59,7 +59,7 @@
 
 <div id="cenario-4"></div>
 
-### 3.4 Cenário 4 - [Inscrever](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#inscrever)-se em um [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal)
+### 3.4 CN04 - Cenário 4 - [Inscrever](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#inscrever)-se em um [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal)
 | Elemento | Descrição |
 | :------: | :-------- |
 | Título   | [Inscrever](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#inscrever)-se em um [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal) |
@@ -72,7 +72,7 @@
 
 <div id="cenario-5"></div>
 
-### 3.5 Cenário 5 - [Compartilhar](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#compartilhar) um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)
+### 3.5 CN05 - Cenário 5 - [Compartilhar](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#compartilhar) um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)
 | Elemento | Descrição |
 | :------: | :-------- |
 | Título   | [Compartilhar](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#compartilhar) um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) |
@@ -85,7 +85,7 @@
 
 <div id="cenario-6"></div>
 
-### 3.6 Cenário 6 - Criar uma [Playlist](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#playlist)
+### 3.6 CN06 - Cenário 6 - Criar uma [Playlist](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#playlist)
 | Elemento | Descrição |
 | :------: | :-------- |
 | Título   | Criar uma [Playlist](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#playlist) |
@@ -98,7 +98,7 @@
 
 <div id="cenario-7"></div>
 
-### 3.7 Cenário 7 - Adicionar [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) a uma [playlist](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#playlist)
+### 3.7 CN07 - Cenário 7 - Adicionar [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) a uma [playlist](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#playlist)
 | Elemento | Descrição |
 | :------: | :-------- |
 | Título   | Adicionar [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) a uma [playlist](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#playlist) |
@@ -111,7 +111,7 @@
 
 <div id="cenario-8"></div>
 
-### 3.8 Cenário 8 - Alterar [velocidade de reprodução](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#velocidade) de um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)
+### 3.8 CN08 - Cenário 8 - Alterar [velocidade de reprodução](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#velocidade) de um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)
 | Elemento | Descrição |
 | :------: | :-------- |
 | Título   | Alterar [velocidade de reprodução](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#velocidade) de um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) |
@@ -124,7 +124,7 @@
 
 <div id="cenario-9"></div>
 
-### 3.9 Cenário 9 - Controlar tempo de um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)
+### 3.9 CN09 - Cenário 9 - Controlar tempo de um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)
 | Elemento | Descrição |
 | :------: | :-------- |
 | Título   | Controlar tempo de um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) |
@@ -137,7 +137,7 @@
 
 <div id="cenario-10"></div>
 
-### 3.10 Cenário 10 - Criar um [clipe](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#clipe) de um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)
+### 3.10 CN10 - Cenário 10 - Criar um [clipe](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#clipe) de um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)
 | Elemento | Descrição |
 | :------: | :-------- |
 | Título   | Criar um [clipe](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#clipe) de um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) |
@@ -150,7 +150,7 @@
 
 <div id="cenario-11"></div>
 
-### 3.11 Cenário 11 - Alterar [qualidade](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#qualidade) de um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)
+### 3.11 CN11 - Cenário 11 - Alterar [qualidade](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#qualidade) de um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)
 | Elemento | Descrição |
 | :------: | :-------- |
 | Título   | Alterar [qualidade](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#qualidade) de um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) |
@@ -163,7 +163,7 @@
 
 <div id="cenario-12"></div>
 
-### 3.12 Cenário 12 - Visualizar [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s [postado](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/estado/#postado)s dos [canais](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal) [inscrito](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/estado/#inscrito)s
+### 3.12 CN12 - Cenário 12 - Visualizar [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s [postado](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/estado/#postado)s dos [canais](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal) [inscrito](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/estado/#inscrito)s
 | Elemento | Descrição |
 | :------: | :-------- |
 | Título   | Visualizar [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s [postado](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/estado/#postado)s dos [canais](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal) [inscrito](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/estado/#inscrito)s |
@@ -176,7 +176,7 @@
 
 <div id="cenario-13"></div>
 
-### 3.13 Cenário 13 - Acionar [notificações](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#notificacao) de um [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal)
+### 3.13 CN13 - Cenário 13 - Acionar [notificações](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#notificacao) de um [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal)
 | Elemento | Descrição |
 | :------: | :-------- |
 | Título   | Acionar [notificações](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#notificacao) de um [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal) |
@@ -189,7 +189,7 @@
 
 <div id="cenario-14"></div>
 
-### 3.14 Cenário 14 - Pesquisar por algum assunto
+### 3.14 CN14 - Cenário 14 - Pesquisar por algum assunto
 | Elemento | Descrição |
 | :------: | :-------- |
 | Título   | Pesquisar por algum assunto |
@@ -202,7 +202,7 @@
 
 <div id="cenario-15"></div>
 
-### 3.15 Cenário 15 - Acessar o [histórico](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#historico) de [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s exibidos
+### 3.15 CN15 - Cenário 15 - Acessar o [histórico](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#historico) de [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s exibidos
 | Elemento | Descrição |
 | :------: | :-------- |
 | Título   | Acessar o [histórico](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#historico) de [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s exibidos |
@@ -215,7 +215,7 @@
 
 <div id="cenario-16"></div>
 
-### 3.16 Cenário 16 - [Denunciar](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#denunciar) um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)
+### 3.16 CN16 - Cenário 16 - [Denunciar](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#denunciar) um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)
 | Elemento | Descrição |
 | :------: | :-------- |
 | Título   | [Denunciar](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#denunciar) um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) |
@@ -228,7 +228,7 @@
 
 <div id="cenario-17"></div>
 
-### 3.17 Cenário 17 - [Minimizar](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#minimizar) um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)
+### 3.17 CN17 - Cenário 17 - [Minimizar](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#minimizar) um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)
 | Elemento | Descrição |
 | :------: | :-------- |
 | Título   | [Minimizar](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#minimizar) um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) |
@@ -241,7 +241,7 @@
 
 <div id="cenario-18"></div>
 
-### 3.18 Cenário 18 - Realizar Login
+### 3.18 CN18 - Cenário 18 - Realizar Login
 | Elemento | Descrição |
 | :------: | :-------- |
 | Título   | Realizar Login |
@@ -254,7 +254,7 @@
 
 <div id="cenario-19"></div>
 
-### 3.19 Cenário 19 - Realizar Logout
+### 3.19 CN19 - Cenário 19 - Realizar Logout
 | Elemento | Descrição |
 | :------: | :-------- |
 | Título   | Realizar Logout |
@@ -267,7 +267,7 @@
 
 <div id="cenario-20"></div>
 
-### 3.20 Cenário 20 - Ativar [legendas](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#legenda) de um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)
+### 3.20 CN20 - Cenário 20 - Ativar [legendas](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#legenda) de um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)
 | Elemento | Descrição |
 | :------: | :-------- |
 | Título   | Ativar [legendas](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#legenda) de um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) |
@@ -280,7 +280,7 @@
 
 <div id="cenario-21"></div>
 
-### 3.21 Cenário 21 - Acessar um [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal)
+### 3.21 CN21 - Cenário 21 - Acessar um [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal)
 | Elemento | Descrição |
 | :------: | :-------- |
 | Título   | Acessar um [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal) |
@@ -293,7 +293,7 @@
 
 <div id="cenario-22"></div>
 
-### 3.22 Cenário 22 - [Postar](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#postar) [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)
+### 3.22 CN22 - Cenário 22 - [Postar](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#postar) [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)
 | Elemento | Descrição |
 | :------: | :-------- |
 | Título   | [Postar](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#postar) [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) |
@@ -306,7 +306,7 @@
 
 <div id="cenario-23"></div>
 
-### 3.23 Cenário 23 - Acessar o seu [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal)
+### 3.23 CN23 - Cenário 23 - Acessar o seu [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal)
 | Elemento | Descrição |
 | :------: | :-------- |
 | Título   | Acessar o seu [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal) |
@@ -319,7 +319,7 @@
 
 <div id="cenario-24"></div>
 
-### 3.24 Cenário 24 - Gerenciar [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s
+### 3.24 CN24 - Cenário 24 - Gerenciar [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s
 | Elemento | Descrição |
 | :------: | :-------- |
 | Título   | Gerenciar [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s |
@@ -332,7 +332,7 @@
 
 <div id="cenario-25"></div>
 
-### 3.25 Cenário 25 - Editar [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s
+### 3.25 CN25 - Cenário 25 - Editar [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s
 | Elemento | Descrição |
 | :------: | :-------- |
 | Título   | Editar [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s |
@@ -355,4 +355,5 @@
 | 1.2    | 20/07/2022 | Adição de cenários relacionados ao <a href="https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario" target="_blank">usuário</a> (criador de conteudo) | <a href="https://github.com/B3holder2" target="_blank">@B3holder2</a> | <a href="https://github.com/CDGodoy" target="_blank">@CDGodoy</a> |
 | 1.2    | 24/07/2022 | Adição de links dos githubs no <a href="https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#historico" target="_blank">histórico</a> de versões | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> | <a href="https://github.com/owhenrique" target="_blank">@owhenrique</a> |
 | 1.3    | 24/07/2022 | Referência de links dos léxicos encontrados na página | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> | <a href="https://github.com/owhenrique" target="_blank">@owhenrique</a> |
-| 1.4    | 25/07/2022 | Correção dos links dos githubs no <a href="https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#historico" target="_blank">histórico</a> de versões | <a href="https://github.com/owhenrique" target="_blank">@owhenrique</a> | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> | 
+| 1.4    | 25/07/2022 | Correção dos links dos githubs no <a href="https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#historico" target="_blank">histórico</a> de versões | <a href="https://github.com/owhenrique" target="_blank">@owhenrique</a> | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> |
+| 1.5    | 12/09/2022 | Adição dos ids de cenário | <a href="https://github.com/owhenrique" target="_blank">@owhenrique</a> | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> | 

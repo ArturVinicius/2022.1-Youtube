@@ -183,6 +183,7 @@
 | Item | Inspeção |
 | :-------    | :------: | 
 | Todos os cenários possuem títulos? | Sim |
+| Os cenários são identificados por id's? | Sim |
 | Todos os cenários possuem todos os elementos? (objetivo, contexto, atores, recursos, episódios e exceções) | Sim |
 | O objetivo de todos os cenários é claro? | Sim |
 | Os contextos foram bem definidos? (local e pré-condição) | Sim |
@@ -219,6 +220,7 @@
 | Os verbos estão no infinitivo? | Sim |
 | Os relacionamentos estão corretamente feitos? | Sim |
 | Os casos de uso possuem títulos auto-explicativos? | Sim |
+| Os casos de uso são identificados por id's? | Sim |
 | Os casos de uso fazem sentido com os requisitos? | Sim |
 | Os fluxos principais são completos? | Sim |
 | Todos os léxicos estão linkados? | Sim | 
@@ -318,3 +320,4 @@
 | 1.4    | 17/08/2022 | Adição de verificação dos itens: especificação suplementar, nfr e backlog | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> | <a href="https://github.com/Alef012" target="_blank">@Alef012</a>, <a href="https://github.com/lramon2001" target="_blank">@lramon2001</a> |
 | 1.5    | 17/08/2022 | Término da verificação | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> | <a href="https://github.com/Alef012" target="_blank">@Alef012</a>, <a href="https://github.com/lramon2001" target="_blank">@lramon2001</a> |
 | 1.6    | 05/09/2022 | Adição do método de Fagan completo para as verificações | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> | <a href="https://github.com/Alef012" target="_blank">@Alef012</a>, <a href="https://github.com/lramon2001" target="_blank">@lramon2001</a> |
+| 1.7    | 12/09/2022 | Adição do item id nas verificações | <a href="https://github.com/owhenrique" target="_blank">owhenrique</a> | <a href="https://github.com/Alef012" target="_blank">@Alef012</a>, <a href="https://github.com/lramon2001" target="_blank">@lramon2001</a> |
