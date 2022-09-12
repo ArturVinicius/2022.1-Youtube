@@ -152,7 +152,7 @@
 #### 2.9.3 Carlos Godoy
 <p align="justify">&emsp;&emsp;"O projeto foi um desafio muito bom de se cumprir, apesar de algumas dificuldades (principalmente com técnicas e conceitos que vi pela primeira vez), foi possível obter um enorme aprendizado e também, boas práticas para aplicar no mercado. Minha principal dificuldade foi inicialmente abstrair e implementar os conceitos apresentados e estudados em sala de aula, após um determinado tempo de projeto, esta dificuldade foi diminuindo, visto que passei a compreender o método da disciplina. Num geral, o desenvolvimento da disciplina foi bem linear, sendo tranquilo de acompanhar e trazendo um grande conhecimento."</p>
 
-#### 2.9.3 Felipe Alef
+#### 2.9.4 Felipe Alef
 <p align="justify">&emsp;&emsp;"No geral, acredito que a metodologia usada na disciplina deixou bem tranquila a realização do projeto. Inicialmente tive um pouco de dificuldade com a quantidade de conceitos novos apresentados, mas colocar essas técnicas e conceitos em prática deixou o processo de aprendizado mais fácil. Uma outra facilidade da disciplina é a organização do cronograma e plano de ensino, que facilitou o planejamento do projeto no módulo inicial e evitando mudanças inesperadas no meio do semestre."</p>
 ## 3. Referências
 
