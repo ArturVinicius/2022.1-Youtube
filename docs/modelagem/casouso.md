@@ -103,7 +103,7 @@ A figura 1 apresenta o diagrama de casos de uso para um [usuário](https://requi
 
 <div id="cu-11"></div>
 
-#### Caso de Uso 1 - Criar [Canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal)
+#### 4.1.1 1UC01 - Caso de Uso 1 - Criar [Canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal)
 | Informação     | Descrição |
 | :--------:     | :-------  |
 | Nome           | Criar [Canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal) |
@@ -115,7 +115,7 @@ A figura 1 apresenta o diagrama de casos de uso para um [usuário](https://requi
 
 <div id="cu-12"></div>
 
-#### Caso de Uso 2 - Autenticar [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario)
+#### 4.1.2 1UC02 - Caso de Uso 2 - Autenticar [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario)
 | Informação     | Descrição |
 | :--------:     | :-------  |
 | Nome           | Autenticar [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) |
@@ -127,7 +127,7 @@ A figura 1 apresenta o diagrama de casos de uso para um [usuário](https://requi
 
 <div id="cu-13"></div>
 
-#### Caso de Uso 3 - [Postar](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#postar) [Conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#conteudo)
+#### 4.1.3 1UC03 - Caso de Uso 3 - [Postar](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#postar) [Conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#conteudo)
 | Informação     | Descrição |
 | :--------:     | :-------  |
 | Nome           | [Postar](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#postar) [Conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#conteudo) |
@@ -139,7 +139,7 @@ A figura 1 apresenta o diagrama de casos de uso para um [usuário](https://requi
 
 <div id="cu-14"></div>
 
-#### Caso de Uso 4 - Criar [Playlist](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#playlist)s
+#### 4.1.4 1UC04 - Caso de Uso 4 - Criar [Playlist](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#playlist)s
 | Informação     | Descrição |
 | :--------:     | :-------  |
 | Nome           | Criar [Playlist](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#playlist)s |
@@ -151,7 +151,7 @@ A figura 1 apresenta o diagrama de casos de uso para um [usuário](https://requi
 
 <div id="cu-15"></div>
 
-#### Caso de Uso 5 - Excluir [Conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#conteudo)
+#### 4.1.5 1UC05 - Caso de Uso 5 - Excluir [Conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#conteudo)
 | Informação     | Descrição |
 | :--------:     | :-------  |
 | Nome           | Excluir [Conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#conteudo) |
@@ -163,7 +163,7 @@ A figura 1 apresenta o diagrama de casos de uso para um [usuário](https://requi
 
 <div id="cu-16"></div>
 
-#### Caso de Uso 6 - Ver estatísticas do [conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#conteudo)
+#### 4.1.6 1UC06 - Caso de Uso 6 - Ver estatísticas do [conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#conteudo)
 | Informação     | Descrição |
 | :--------:     | :-------  |
 | Nome           | Ver estatísticas do [conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#conteudo) |
@@ -175,7 +175,7 @@ A figura 1 apresenta o diagrama de casos de uso para um [usuário](https://requi
 
 <div id="cu-17"></div>
 
-#### Caso de Uso 7 - Editar informações do [conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#conteudo)
+#### 4.1.7 1UC07 - Caso de Uso 7 - Editar informações do [conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#conteudo)
 | Informação     | Descrição |
 | :--------:     | :-------  |
 | Nome           | Editar informações do [conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#conteudo) |
@@ -187,7 +187,7 @@ A figura 1 apresenta o diagrama de casos de uso para um [usuário](https://requi
 
 <div id="cu-18"></div>
 
-#### Caso de Uso 8 - Adicionar [Thumbnail](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#thumbnail)
+#### 4.1.8 1UC08 - Caso de Uso 8 - Adicionar [Thumbnail](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#thumbnail)
 | Informação     | Descrição |
 | :--------:     | :-------  |
 | Nome           | Adicionar [Thumbnail](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#thumbnail) |
@@ -199,7 +199,7 @@ A figura 1 apresenta o diagrama de casos de uso para um [usuário](https://requi
 
 <div id="cu-19"></div>
 
-#### Caso de Uso 9 - Fazer transmissão ao vivo
+#### 4.1.9 1UC09 - Caso de Uso 9 - Fazer transmissão ao vivo
 | Informação     | Descrição |
 | :--------:     | :-------  |
 | Nome           | Fazer transmissão ao vivo |
@@ -211,7 +211,7 @@ A figura 1 apresenta o diagrama de casos de uso para um [usuário](https://requi
 
 <div id="cu-110"></div>
 
-#### Caso de Uso 10 - [Postar](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#postar) [Shorts](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#shorts)
+#### 4.1.10 1UC10 - Caso de Uso 10 - [Postar](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#postar) [Shorts](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#shorts)
 | Informação     | Descrição |
 | :--------:     | :-------  |
 | Nome           | [Postar](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#postar) [Shorts](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#shorts) |
@@ -234,7 +234,7 @@ A figura 2 apresenta o diagrama de casos de uso para um [espectador](https://req
 
 <div id="cu-21"></div>
 
-#### Caso de Uso 1 - Criar [Canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal)
+#### 4.2.1 2UC01 - Caso de Uso 1 - Criar [Canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal)
 | Informação     | Descrição |
 | :--------:     | :-------  |
 | Nome           | Criar [Canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal) |
@@ -246,7 +246,7 @@ A figura 2 apresenta o diagrama de casos de uso para um [espectador](https://req
 
 <div id="cu-22"></div>
 
-#### Caso de Uso 2 - [Inscrever](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#inscrever) em [Canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal)
+#### 4.2.2 2UC02 - Caso de Uso 2 - [Inscrever](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#inscrever) em [Canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal)
 | Informação     | Descrição |
 | :--------:     | :-------  |
 | Nome           | [Inscrever](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#inscrever) em [Canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal) |
@@ -258,7 +258,7 @@ A figura 2 apresenta o diagrama de casos de uso para um [espectador](https://req
 
 <div id="cu-23"></div>
 
-#### Caso de Uso 3 - Autenticar [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario)
+#### 4.2.3 1UC03 - Caso de Uso 3 - Autenticar [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario)
 | Informação     | Descrição |
 | :--------:     | :-------  |
 | Nome           | Autenticar [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) |
@@ -270,7 +270,7 @@ A figura 2 apresenta o diagrama de casos de uso para um [espectador](https://req
 
 <div id="cu-24"></div>
 
-#### Caso de Uso 4 - Consumir [Conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#conteudo)
+#### 4.2.4 2UC04 - Caso de Uso 4 - Consumir [Conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#conteudo)
 | Informação     | Descrição |
 | :--------:     | :-------  |
 | Nome           | Consumir [Conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#conteudo) |
@@ -282,7 +282,7 @@ A figura 2 apresenta o diagrama de casos de uso para um [espectador](https://req
 
 <div id="cu-25"></div>
 
-#### Caso de Uso 5 - Pesquisar [Conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#conteudo)
+#### 4.2.5 2UC05 - Caso de Uso 5 - Pesquisar [Conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#conteudo)
 | Informação     | Descrição |
 | :--------:     | :-------  |
 | Nome           | Pesquisar [Conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#conteudo) |
@@ -294,7 +294,7 @@ A figura 2 apresenta o diagrama de casos de uso para um [espectador](https://req
 
 <div id="cu-26"></div>
 
-#### Caso de Uso 6 - Criar [Playlist](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#playlist)s
+#### 4.2.6 2UC06 - Caso de Uso 6 - Criar [Playlist](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#playlist)s
 | Informação     | Descrição |
 | :--------:     | :-------  |
 | Nome           | Criar [Playlist](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#playlist)s |
@@ -306,7 +306,7 @@ A figura 2 apresenta o diagrama de casos de uso para um [espectador](https://req
 
 <div id="cu-27"></div>
 
-#### Caso de Uso 7 - Avaliar
+#### 4.2.7 2UC07 - Caso de Uso 7 - Avaliar
 | Informação     | Descrição |
 | :--------:     | :-------  |
 | Nome           | Avaliar |
@@ -318,7 +318,7 @@ A figura 2 apresenta o diagrama de casos de uso para um [espectador](https://req
 
 <div id="cu-28"></div>
 
-#### Caso de Uso 8 - Comentar
+#### 4.2.8 2UC08 - Caso de Uso 8 - Comentar
 | Informação     | Descrição |
 | :--------:     | :-------  |
 | Nome           | Comentar |
@@ -330,7 +330,7 @@ A figura 2 apresenta o diagrama de casos de uso para um [espectador](https://req
 
 <div id="cu-29"></div>
 
-#### Caso de Uso 9 - [Compartilhar](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#compartilhar)
+#### 4.2.9 2UC09 - Caso de Uso 9 - [Compartilhar](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#compartilhar)
 | Informação     | Descrição |
 | :--------:     | :-------  |
 | Nome           | [Compartilhar](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#compartilhar) |
@@ -342,7 +342,7 @@ A figura 2 apresenta o diagrama de casos de uso para um [espectador](https://req
 
 <div id="cu-210"></div>
 
-#### Caso de Uso 10 - Alterar [velocidade](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#velocidade) e [Qualidade](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#qualidade) do [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)
+#### 4.2.10 2UC10 - Caso de Uso 10 - Alterar [velocidade](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#velocidade) e [Qualidade](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#qualidade) do [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)
 | Informação     | Descrição |
 | :--------:     | :-------  |
 | Nome           | Alterar [velocidade](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#velocidade) e [Qualidade](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#qualidade) do [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) |
@@ -354,7 +354,7 @@ A figura 2 apresenta o diagrama de casos de uso para um [espectador](https://req
 
 <div id="cu-211"></div>
 
-#### Caso de Uso 11 - Ver [legendas](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#legenda)
+#### 4.2.11 2UC11 - Caso de Uso 11 - Ver [legendas](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#legenda)
 | Informação     | Descrição |
 | :--------:     | :-------  |
 | Nome           | Ver [legendas](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#legenda) |
@@ -377,4 +377,5 @@ A figura 2 apresenta o diagrama de casos de uso para um [espectador](https://req
 | 1.3    | 24/07/2022 | Adição de links dos githubs no <a href="https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#historico" target="_blank">histórico</a> de versões | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> | <a href="https://github.com/owhenrique" target="_blank">@owhenrique</a> | 
 | 1.4    | 24/07/2022 | Referência de links dos léxicos encontrados na página | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> | <a href="https://github.com/owhenrique" target="_blank">@owhenrique</a> |
 | 1.5    | 25/07/2022 | Correção dos links dos githubs no <a href="https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#historico" target="_blank">histórico</a> de versões | <a href="https://github.com/owhenrique" target="_blank">@owhenrique</a> | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> | 
-| 1.6    | 08/03/2022 | Imagens das legendas em português | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> | <a href="https://github.com/owhenrique" target="_blank">@owhenrique</a> | 
+| 1.6    | 08/03/2022 | Imagens das legendas em português | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> | <a href="https://github.com/owhenrique" target="_blank">@owhenrique</a> |
+| 1.7    | 12/09/2022 | Adição dos ids de caso de uso | <a href="https://github.com/owhenrique" target="_blank">@owhenrique</a> | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> | 
