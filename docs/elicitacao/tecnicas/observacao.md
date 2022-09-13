@@ -44,7 +44,7 @@
 ### 4.2 Requisitos Não-Funcionais
 | ID     | Requisito | 
 | :-:    | :-------- |
-| RNFO01 | Ao clicar em "Salvar" na tela de um vídeo, o sistema deve adicionar automaticamente o vídeo a uma [[play](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#play)list]([ttps://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#vi[play](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#play)list"Assistir mais tarde" |
+| RNFO01 | Ao clicar em "Salvar" na tela de um vídeo, o sistema deve adicionar automaticamente o vídeo a uma playlist "Assistir mais tarde" |
 
 ## 5. Referências
 > - Milene Serrano, Requisitos - Aula 07. Acesso em: 06 de jul. de 2022. Disponível em: Aprender3.

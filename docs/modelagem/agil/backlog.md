@@ -24,7 +24,7 @@
 ### 2.2. Histórias de Usuário
 <p align="justify">&emsp;&emsp; As histórias de Usuário podem ser usadas para expressar uma funcionalidade/requisito de um Software na visão e perspectiva de um cliente que realmente usará a aplicação. Sendo assim, é possível entender quais são as expectativas e necessidades daqueles que serão os verdadeiros utilizadores do sistema.</p>
 
-<p align="justify">&emsp;&emsp; É essencial que todas as histórias de Usuário possuam critérios de aceitação relacionadas a si, para que seja possível o levantamento da [qualidade](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#qualidade) e do que seria uma história completa e bem-sucedida.</p>
+<p align="justify">&emsp;&emsp; É essencial que todas as histórias de Usuário possuam critérios de aceitação relacionadas a si, para que seja possível o levantamento da qualidade e do que seria uma história completa e bem-sucedida.</p>
 
 ### 2.3 Estrutura do Product Backlog com Histórias de Usuário
 <p align="justify">&emsp;&emsp; Com o entedimento da especificação do Product Backlog e das Histórias de Usuário, a equipe montou o Product Backlog do aplicativo YouTube, seguindo o seguinte formato:</p>
